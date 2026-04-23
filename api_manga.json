@@ -34924,9 +34924,9 @@
     },
     {
         "id": 73,
-        "title": "Frieren",
+        "title": "Les Carnets de L'apothicaire : Enquêtes à la Cour",
         "status": "En cours",
-        "coverUrl": "https://www.nautiljon.com/images/manga/00/31/mini/frieren_15713.webp?11715510125",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/99/mini/les_carnets_de_l_apothicaire_-_enquetes_a_la_cour_10799.webp?11732829615",
         "volumes": [
             {
                 "number": 1,
@@ -35010,6 +35010,26 @@
             },
             {
                 "number": 21,
+                "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "title": "Céline, une vie parisienne",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/30/mini/celine_une_vie_parisienne_22803.webp?11719752459",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": []
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
                 "chapters": []
             }
         ]
