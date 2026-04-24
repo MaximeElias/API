@@ -36765,7 +36765,7 @@
     },
     {
         "id": 78,
-        "title": "Bofuri",
+        "title": "Bofuri : Je suis pas venue ici pour souffrir alors j'ai tout mis en défense",
         "status": "En cours",
         "coverUrl": "https://www.nautiljon.com/images/manga/00/36/mini/bofuri_je_suis_pas_venue_ici_pour_souffrir_alors_j_ai_tout_mis_en_defense_11563.webp?11666720451",
         "volumes": [
@@ -38046,6 +38046,51 @@
                     {
                         "number": 24,
                         "name": "Chapitre 24"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "title": "Bota Bota",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/51/bota_bota_17915.webp?1748789874",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
                     }
                 ]
             }
