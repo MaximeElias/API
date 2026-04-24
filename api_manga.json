@@ -39358,5 +39358,29 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 88,
+        "title": "Bungô Stray Dogs - Dazai, Chûya, 15 ans",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/16/bungo_stray_dogs_-_dazai_chuya_15_ans_24061.webp?1760089999",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": []
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            }
+        ]
     }
 ]
