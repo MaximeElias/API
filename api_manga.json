@@ -39584,7 +39584,15 @@
                         "name": "Chapitre 39"
                     }
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "title": "Bâtard",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/11/63/mini/943836.webp?11620581736",
+        "volumes": [
             {
                 "number": 0,
                 "chapters": [
@@ -39983,12 +39991,5 @@
                 "chapters": []
             }
         ]
-    },
-    {
-        "id": 90,
-        "title": "Bâtard",
-        "status": "Terminé",
-        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/11/63/mini/943836.webp?11620581736",
-        "volumes": []
     }
 ]
