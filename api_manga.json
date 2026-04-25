@@ -46170,7 +46170,7 @@
         "id": 109,
         "title": "Cyclic",
         "status": "Terminé",
-        "coverUrl": "https://www.nautiljon.com/images/manga/00/53/mini/celeste_harmonie_29035.webp?11725649761",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/42/mini/cyclic_26524.webp?10",
         "volumes": [
             {
                 "number": 1,
@@ -46188,7 +46188,15 @@
             {
                 "number": 3,
                 "chapters": []
-            },
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "title": "Céleste Harmonie",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/53/mini/celeste_harmonie_29035.webp?11725649761",
+        "volumes": [
             {
                 "number": 1,
                 "chapters": [
@@ -46240,12 +46248,5 @@
                 ]
             }
         ]
-    },
-    {
-        "id": 110,
-        "title": "Céleste Harmonie",
-        "status": "En cours",
-        "coverUrl": "",
-        "volumes": []
     }
 ]
