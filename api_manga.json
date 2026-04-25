@@ -49915,7 +49915,7 @@
         "id": 124,
         "title": "Death Note",
         "status": "Terminé",
-        "coverUrl": "https://www.nautiljon.com/images/manga/00/81/mini/death_note_18.webp?11716886620",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/81/mini/death_note_short_stories_17718.webp?11716911764",
         "volumes": [
             {
                 "number": 1,
@@ -50408,7 +50408,43 @@
                         "name": "Chapitre 108"
                     }
                 ]
+            },
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    }
+                ]
             }
         ]
+    },
+    {
+        "id": 125,
+        "title": "Death Note Short Stories",
+        "status": "En cours",
+        "coverUrl": "",
+        "volumes": []
     }
 ]
