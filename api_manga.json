@@ -58423,8 +58423,8 @@
     {
         "id": 140,
         "title": "Edens Zero",
-        "status": "En cours",
-        "coverUrl": "https://www.nautiljon.com/images/manga/00/83/mini/egregor_kim_jae_hwan_9038.webp?11703670472",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/30/mini/edens_zero_8803.webp?11727295400",
         "volumes": [
             {
                 "number": 1,
@@ -59318,7 +59318,16 @@
             {
                 "number": 33,
                 "chapters": []
-            },
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "title": "Egregor - Le Souffle de la Foi",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/83/mini/egregor_kim_jae_hwan_9038.webp?11703670472",
+        "volumes": [
+            
             {
                 "number": 1,
                 "chapters": [
@@ -59385,12 +59394,5 @@
                 "chapters": []
             }
         ]
-    },
-    {
-        "id": 141,
-        "title": "Egregor - Le Souffle de la Foi",
-        "status": "En cours",
-        "coverUrl": "",
-        "volumes": []
     }
 ]
