@@ -62812,5 +62812,38 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 151,
+        "title": "Fall in love with spring",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/90/mini/fall_in_love_with_spring_26009.webp?11726330775",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    }
+                ]
+            }
+        ]
     }
 ]
