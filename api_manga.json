@@ -46170,7 +46170,7 @@
         "id": 109,
         "title": "Cyclic",
         "status": "Terminé",
-        "coverUrl": "https://www.nautiljon.com/images/manga/00/42/mini/cyclic_26524.webp?10",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/53/mini/celeste_harmonie_29035.webp?11725649761",
         "volumes": [
             {
                 "number": 1,
@@ -46188,7 +46188,64 @@
             {
                 "number": 3,
                 "chapters": []
+            },
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Chapitre 9"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Chapitre 10"
+                    }
+                ]
             }
         ]
+    },
+    {
+        "id": 110,
+        "title": "Céleste Harmonie",
+        "status": "En cours",
+        "coverUrl": "",
+        "volumes": []
     }
 ]
