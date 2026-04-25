@@ -55679,7 +55679,7 @@
         "id": 132,
         "title": "Dragon Ball Super",
         "status": "En cours",
-        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/00/20/mini/4902.webp?11616331205",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/00/88/mini/24988.webp?11616003822",
         "volumes": [
             {
                 "number": 1,
@@ -56216,6 +56216,56 @@
                         "name": "Chapitre 104"
                     }
                 ]
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "title": "Dragon Ball Super - Broly",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/00/23/47632.webp?1580893356",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "title": "Dragon Hunt Tribe",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/11/mini/dragon_hunt_tribe_27511.webp?11720543240",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
             }
         ]
     }
