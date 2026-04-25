@@ -47662,5 +47662,42 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 115,
+        "title": "DanMachi Arc II",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/46/mini/danmachi_-_saison_ii_15364.webp?11728683187",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            }
+        ]
     }
 ]
