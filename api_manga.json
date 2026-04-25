@@ -47364,5 +47364,98 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 113,
+        "title": "DanMachi - Familia Chronicle",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/74/mini/danmachi_-_familia_chronicle_episode_ryu_7447.webp?11719142429",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Chapitre 9"
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "chapters": [
+                    {
+                        "number": 10,
+                        "name": "Chapitre 10"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Chapitre 11"
+                    },
+                    {
+                        "number": 12,
+                        "name": "Chapitre 12"
+                    },
+                    {
+                        "number": 13,
+                        "name": "Chapitre 13"
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "chapters": [
+                    {
+                        "number": 14,
+                        "name": "Chapitre 14"
+                    },
+                    {
+                        "number": 15,
+                        "name": "Chapitre 15"
+                    }
+                ]
+            }
+        ]
     }
 ]
