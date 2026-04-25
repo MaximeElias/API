@@ -62845,5 +62845,22 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 152,
+        "title": "Fatale Fiancée",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/25/mini/fatale_fiancee_22552.webp?11668412744",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            }
+        ]
     }
 ]
