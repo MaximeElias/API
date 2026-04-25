@@ -59397,8 +59397,8 @@
     {
         "id": 142,
         "title": "Eirth, apprenti du Roi Démon !",
-        "status": "En cours",
-        "coverUrl": "https://www.nautiljon.com/images/manga/00/95/mini/elden_ring_-_le_chemin_vers_l_arbre-monde_22759.webp?11731143547",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/79/eirth_apprenti_du_roi_demon_18397.webp?1746173963",
         "volumes": [
             {
                 "number": 1,
@@ -59491,7 +59491,16 @@
                         "name": "Chapitre 18"
                     }
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "title": "Elden Ring - Le Chemin vers l'Arbre-Monde",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/95/mini/elden_ring_-_le_chemin_vers_l_arbre-monde_22759.webp?11731143547",
+        "volumes": [
+            
             {
                 "number": 1,
                 "chapters": [
@@ -59665,12 +59674,5 @@
                 "chapters": []
             }
         ]
-    },
-    {
-        "id": 143,
-        "title": "Elden Ring - Le Chemin vers l'Arbre-Monde",
-        "status": "En cours",
-        "coverUrl": "",
-        "volumes": []
     }
 ]
