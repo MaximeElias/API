@@ -58374,5 +58374,50 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 139,
+        "title": "Earth Expansion",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/89/earth_expansion_31598.webp?1751280132",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            }
+        ]
     }
 ]
