@@ -48472,7 +48472,7 @@
         "id": 120,
         "title": "Gosick",
         "status": "Terminé",
-        "coverUrl": "https://static.wikia.nocookie.net/heroes-fr/images/9/99/Dead_life.png/revision/latest?cb=20200902154914&path-prefix=fr",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/08/gosick_980.webp?1719429476",
         "volumes": [
             {
                 "number": 1,
@@ -48582,7 +48582,15 @@
             {
                 "number": 8,
                 "chapters": []
-            },
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "title": "Dead Life",
+        "status": "Terminé",
+        "coverUrl": "https://static.wikia.nocookie.net/heroes-fr/images/9/99/Dead_life.png/revision/latest?cb=20200902154914&path-prefix=fr",
+        "volumes": [
             {
                 "number": 0,
                 "chapters": [
@@ -49005,12 +49013,5 @@
                 ]
             }
         ]
-    },
-    {
-        "id": 121,
-        "title": "Dead Life",
-        "status": "En cours",
-        "coverUrl": "",
-        "volumes": []
     }
 ]
