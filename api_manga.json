@@ -60249,7 +60249,7 @@
         "id": 149,
         "title": "Fairy Tail",
         "status": "Terminé",
-        "coverUrl": "https://www.nautiljon.com/images/manga/00/72/mini/fairy_girls_4527.webp?11717262628",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/63/mini/fairy_tail_36.webp?11718447644",
         "volumes": [
             {
                 "number": 1,
@@ -62743,6 +62743,71 @@
                     {
                         "number": 545,
                         "name": "Chapitre 545"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "title": "Fairy Tail Zero",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/96/mini/fairy_tail_zero_4269.webp?11578301281",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Chapitre 9"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Chapitre 10"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Chapitre 11"
+                    },
+                    {
+                        "number": 12,
+                        "name": "Chapitre 12"
+                    },
+                    {
+                        "number": 13,
+                        "name": "Chapitre 13"
                     }
                 ]
             }
