@@ -42210,5 +42210,37 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 94,
+        "title": "Cautious Hero",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/37/mini/cautious_hero_11573.webp?11670723967",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": []
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            }
+        ]
     }
 ]
