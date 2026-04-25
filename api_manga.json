@@ -45532,8 +45532,8 @@
     {
         "id": 108,
         "title": "Cursed Princess Club",
-        "status": "En cours",
-        "coverUrl": "https://www.hugopublishing.fr/wp-content/uploads/yonix/9782755672930-413x604.jpg",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/42/mini/cyclic_26524.webp?10",
         "volumes": [
             {
                 "number": 0,
@@ -46163,7 +46163,31 @@
             {
                 "number": 4,
                 "chapters": []
+            },
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
             }
         ]
+    },
+    {
+        "id": 109,
+        "title": "Cyclic",
+        "status": "En cours",
+        "coverUrl": "",
+        "volumes": []
     }
 ]
