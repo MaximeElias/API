@@ -45437,5 +45437,42 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 105,
+        "title": "Crazy Food Truck",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/31/mini/crazy_food_truck_20913.webp?11735314192",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            }
+        ]
     }
 ]
