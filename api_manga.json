@@ -59748,5 +59748,30 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 145,
+        "title": "Enfant des Abysses",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/05/mini/enfant_des_abysses_20850.webp?11735660972",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            }
+        ]
     }
 ]
