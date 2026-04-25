@@ -59500,7 +59500,6 @@
         "status": "En cours",
         "coverUrl": "https://www.nautiljon.com/images/manga/00/95/mini/elden_ring_-_le_chemin_vers_l_arbre-monde_22759.webp?11731143547",
         "volumes": [
-            
             {
                 "number": 1,
                 "chapters": [
@@ -59672,6 +59671,81 @@
             {
                 "number": 11,
                 "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "title": "Endroll Back",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/94/mini/endroll_back_19249.webp?11642250091",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Chapitre 9"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Chapitre 10"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Chapitre 11"
+                    },
+                    {
+                        "number": 12,
+                        "name": "Chapitre 12"
+                    },
+                    {
+                        "number": 13,
+                        "name": "Chapitre 13"
+                    }
+                ]
             }
         ]
     }
