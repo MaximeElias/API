@@ -58423,8 +58423,8 @@
     {
         "id": 140,
         "title": "Edens Zero",
-        "status": "Terminé",
-        "coverUrl": "https://www.nautiljon.com/images/manga/00/30/mini/edens_zero_8803.webp?11727295400",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/83/mini/egregor_kim_jae_hwan_9038.webp?11703670472",
         "volumes": [
             {
                 "number": 1,
@@ -59318,7 +59318,79 @@
             {
                 "number": 33,
                 "chapters": []
+            },
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            },
+            {
+                "number": 7,
+                "chapters": []
+            },
+            {
+                "number": 8,
+                "chapters": []
+            },
+            {
+                "number": 9,
+                "chapters": []
+            },
+            {
+                "number": 10,
+                "chapters": []
+            },
+            {
+                "number": 11,
+                "chapters": []
+            },
+            {
+                "number": 12,
+                "chapters": []
+            },
+            {
+                "number": 13,
+                "chapters": []
+            },
+            {
+                "number": 14,
+                "chapters": []
+            },
+            {
+                "number": 15,
+                "chapters": []
             }
         ]
+    },
+    {
+        "id": 141,
+        "title": "Egregor - Le Souffle de la Foi",
+        "status": "En cours",
+        "coverUrl": "",
+        "volumes": []
     }
 ]
