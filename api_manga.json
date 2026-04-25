@@ -45511,5 +45511,22 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 107,
+        "title": "Crispy 2052",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/39/mini/crispy_2052_26493.webp?11698747561",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            }
+        ]
     }
 ]
