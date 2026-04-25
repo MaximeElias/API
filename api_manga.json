@@ -47699,5 +47699,119 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 116,
+        "title": "Dark Gathering",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/43/mini/dark_gathering_13134.webp?11733561788",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            },
+            {
+                "number": 7,
+                "chapters": []
+            },
+            {
+                "number": 8,
+                "chapters": []
+            },
+            {
+                "number": 9,
+                "chapters": []
+            },
+            {
+                "number": 10,
+                "chapters": []
+            },
+            {
+                "number": 11,
+                "chapters": []
+            },
+            {
+                "number": 12,
+                "chapters": []
+            },
+            {
+                "number": 13,
+                "chapters": []
+            },
+            {
+                "number": 14,
+                "chapters": []
+            },
+            {
+                "number": 15,
+                "chapters": []
+            },
+            {
+                "number": 16,
+                "chapters": []
+            },
+            {
+                "number": 17,
+                "chapters": []
+            },
+            {
+                "number": 18,
+                "chapters": []
+            },
+            {
+                "number": 19,
+                "chapters": []
+            }
+        ]
     }
 ]
