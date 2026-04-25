@@ -45474,5 +45474,42 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 106,
+        "title": "Crescent Moon, Dance With the Monster",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/12/mini/crescent_moon_dance_with_the_monster_22421.webp?11718995392",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            }
+        ]
     }
 ]
