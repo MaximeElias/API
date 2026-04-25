@@ -45532,8 +45532,8 @@
     {
         "id": 108,
         "title": "Cursed Princess Club",
-        "status": "Terminé",
-        "coverUrl": "https://www.nautiljon.com/images/manga/00/42/mini/cyclic_26524.webp?10",
+        "status": "En cours",
+        "coverUrl": "https://www.hugopublishing.fr/wp-content/uploads/yonix/9782755672930-413x604.jpg",
         "volumes": [
             {
                 "number": 0,
@@ -46163,7 +46163,15 @@
             {
                 "number": 4,
                 "chapters": []
-            },
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "title": "Cyclic",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/42/mini/cyclic_26524.webp?10",
+        "volumes": [
             {
                 "number": 1,
                 "chapters": [
@@ -46182,12 +46190,5 @@
                 "chapters": []
             }
         ]
-    },
-    {
-        "id": 109,
-        "title": "Cyclic",
-        "status": "En cours",
-        "coverUrl": "",
-        "volumes": []
     }
 ]
