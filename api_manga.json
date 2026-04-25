@@ -47816,7 +47816,7 @@
     },
     {
         "id": 117,
-        "title": "Dark Moon",
+        "title": "Dark Moon: The Blood Altar",
         "status": "Terminé",
         "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/07/mini/dark_moon_the_blood_altar_1_edition_reliee_francaise993870.webp?11709997168",
         "volumes": [
@@ -48135,6 +48135,47 @@
             },
             {
                 "number": 7,
+                "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "title": "Dark Souls Redemption",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/04/mini/dark_souls_redemption_28340.webp?11732829325",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
                 "chapters": []
             }
         ]
