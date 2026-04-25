@@ -59398,7 +59398,7 @@
         "id": 142,
         "title": "Eirth, apprenti du Roi Démon !",
         "status": "En cours",
-        "coverUrl": "https://www.nautiljon.com/images/manga/00/83/mini/egregor_kim_jae_hwan_9038.webp?11703670472",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/95/mini/elden_ring_-_le_chemin_vers_l_arbre-monde_22759.webp?11731143547",
         "volumes": [
             {
                 "number": 1,
@@ -59491,7 +59491,186 @@
                         "name": "Chapitre 18"
                     }
                 ]
+            },
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Chapitre 9"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 19,
+                        "name": "Chapitre 19"
+                    },
+                    {
+                        "number": 20,
+                        "name": "Chapitre 20"
+                    },
+                    {
+                        "number": 21,
+                        "name": "Chapitre 21"
+                    },
+                    {
+                        "number": 22,
+                        "name": "Chapitre 22"
+                    },
+                    {
+                        "number": 23,
+                        "name": "Chapitre 23"
+                    },
+                    {
+                        "number": 24,
+                        "name": "Chapitre 24"
+                    },
+                    {
+                        "number": 25,
+                        "name": "Chapitre 25"
+                    },
+                    {
+                        "number": 26,
+                        "name": "Chapitre 26"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
+                    {
+                        "number": 27,
+                        "name": "Chapitre 27"
+                    },
+                    {
+                        "number": 28,
+                        "name": "Chapitre 28"
+                    },
+                    {
+                        "number": 29,
+                        "name": "Chapitre 29"
+                    },
+                    {
+                        "number": 30,
+                        "name": "Chapitre 30"
+                    },
+                    {
+                        "number": 31,
+                        "name": "Chapitre 31"
+                    },
+                    {
+                        "number": 32,
+                        "name": "Chapitre 32"
+                    },
+                    {
+                        "number": 33,
+                        "name": "Chapitre 33"
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "chapters": [
+                    {
+                        "number": 34,
+                        "name": "Chapitre 34"
+                    },
+                    {
+                        "number": 35,
+                        "name": "Chapitre 35"
+                    },
+                    {
+                        "number": 36,
+                        "name": "Chapitre 36"
+                    },
+                    {
+                        "number": 37,
+                        "name": "Chapitre 37"
+                    },
+                    {
+                        "number": 38,
+                        "name": "Chapitre 38"
+                    },
+                    {
+                        "number": 39,
+                        "name": "Chapitre 39"
+                    },
+                    {
+                        "number": 40,
+                        "name": "Chapitre 40"
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            },
+            {
+                "number": 7,
+                "chapters": []
+            },
+            {
+                "number": 8,
+                "chapters": []
+            },
+            {
+                "number": 9,
+                "chapters": []
+            },
+            {
+                "number": 10,
+                "chapters": []
+            },
+            {
+                "number": 11,
+                "chapters": []
             }
         ]
+    },
+    {
+        "id": 143,
+        "title": "Elden Ring - Le Chemin vers l'Arbre-Monde",
+        "status": "En cours",
+        "coverUrl": "",
+        "volumes": []
     }
 ]
