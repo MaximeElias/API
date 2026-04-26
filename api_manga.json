@@ -68471,5 +68471,46 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 166,
+        "title": "Gaia Heroes",
+        "status": "En cours",
+        "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjuDzo37-i3eFz92Sl7YrIF3IrCpXnvkIu7swMNt8tIg&s=10",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    }
+                ]
+            }
+        ]
     }
 ]
