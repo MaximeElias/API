@@ -68781,5 +68781,38 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 169,
+        "title": "Gizmo Riser",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/29/gizmo_rizer_29592.webp?1756321642",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            }
+        ]
     }
 ]
