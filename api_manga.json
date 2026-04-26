@@ -74164,5 +74164,50 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 181,
+        "title": "Great Kaiju Gaea-Tima",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/47/great_kaiju_gaea-tima_26774.webp?1748684719",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            },
+            {
+                "number": 7,
+                "chapters": []
+            },
+            {
+                "number": 8,
+                "chapters": []
+            }
+        ]
     }
 ]
