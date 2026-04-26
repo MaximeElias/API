@@ -74209,5 +74209,26 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 182,
+        "title": "Grigio e Gatto",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/84/mini/grigio_e_gatto_25448.webp?11727372368",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            }
+        ]
     }
 ]
