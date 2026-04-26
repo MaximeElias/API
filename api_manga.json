@@ -66236,5 +66236,22 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 159,
+        "title": "Fork in the road",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/50/fork_in_the_road_27705.webp?1714558937",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            }
+        ]
     }
 ]
