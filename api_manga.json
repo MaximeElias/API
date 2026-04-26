@@ -74312,5 +74312,30 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 184,
+        "title": "Guide",
+        "status": "En cours",
+        "coverUrl": "https://www.manga-news.com/public/images/series/.guide-1-kaminari_large.webp",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            }
+        ]
     }
 ]
