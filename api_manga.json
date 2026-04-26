@@ -77215,5 +77215,26 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 189,
+        "title": "Hacker",
+        "status": "En cours",
+        "coverUrl": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=519,fit=crop/ALpp7qRx73cJg2ZN/couverture-hacker-tome-01-Yan7KKk2EbsjrrKo.jpg",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            }
+        ]
     }
 ]
