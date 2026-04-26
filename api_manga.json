@@ -74225,7 +74225,7 @@
     {
         "id": 182,
         "title": "Grigio e Gatto",
-        "status": "En cours",
+        "status": "Terminé",
         "coverUrl": "https://www.nautiljon.com/images/manga/00/84/mini/grigio_e_gatto_25448.webp?11727372368",
         "volumes": [
             {
@@ -74239,6 +74239,76 @@
             },
             {
                 "number": 2,
+                "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "title": "Grimoire of Zero",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/92/mini/grimoire_of_zero_6429.webp?11668979681",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Chapitre 9"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
                 "chapters": []
             }
         ]
