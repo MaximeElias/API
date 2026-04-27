@@ -77411,8 +77411,8 @@
     {
         "id": 193,
         "title": "Hell's Paradise",
-        "status": "En cours",
-        "coverUrl": "https://www.nautiljon.com/mangas/hero+killer.html",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/10/mini/hell_s_paradise_9001.webp?11731752484",
         "volumes": [
             {
                 "number": 1,
@@ -77986,7 +77986,15 @@
                         "name": "Chapitre 127"
                     }
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "title": "Hero Killer",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/mangas/hero+killer.html",
+        "volumes": [
             {
                 "number": 0,
                 "chapters": [
@@ -78985,12 +78993,5 @@
                 ]
             }
         ]
-    },
-    {
-        "id": 194,
-        "title": "Hero Killer",
-        "status": "En cours",
-        "coverUrl": "",
-        "volumes": []
     }
 ]
