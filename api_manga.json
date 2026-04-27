@@ -80880,5 +80880,26 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 204,
+        "title": "Héléna & Mr. Wolf",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/27/mini/helena_mr_wolf_1_edition_reliee_francaise1014272.webp?11739299503",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            }
+        ]
     }
 ]
