@@ -80901,5 +80901,30 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 205,
+        "title": "Héroïques Short Stories",
+        "status": "Terminé",
+        "coverUrl": "https://static.fnac-static.com/multimedia/Images/FR/NR/c2/ec/1f/18869442/1507-1/tsp20250724105052/Heroique.jpg",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    }
+                ]
+            }
+        ]
     }
 ]
