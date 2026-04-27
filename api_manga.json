@@ -80926,5 +80926,50 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 206,
+        "title": "I Want To Try It Again.",
+        "status": "Terminé",
+        "coverUrl": "https://mangadex.org/covers/9ba65f49-a9da-4088-a147-94da53e813ce/6fb39e5f-bf40-4c6a-8350-5adbf90bfed6.jpg",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    }
+                ]
+            }
+        ]
     }
 ]
