@@ -79022,5 +79022,150 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 196,
+        "title": "Higanjima",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/76/mini/higanjima_867.webp?11719501620",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            },
+            {
+                "number": 7,
+                "chapters": []
+            },
+            {
+                "number": 8,
+                "chapters": []
+            },
+            {
+                "number": 9,
+                "chapters": []
+            },
+            {
+                "number": 10,
+                "chapters": []
+            },
+            {
+                "number": 11,
+                "chapters": []
+            },
+            {
+                "number": 12,
+                "chapters": []
+            },
+            {
+                "number": 13,
+                "chapters": []
+            },
+            {
+                "number": 14,
+                "chapters": []
+            },
+            {
+                "number": 15,
+                "chapters": []
+            },
+            {
+                "number": 16,
+                "chapters": []
+            },
+            {
+                "number": 17,
+                "chapters": []
+            },
+            {
+                "number": 18,
+                "chapters": []
+            },
+            {
+                "number": 19,
+                "chapters": []
+            },
+            {
+                "number": 20,
+                "chapters": []
+            },
+            {
+                "number": 21,
+                "chapters": []
+            },
+            {
+                "number": 22,
+                "chapters": []
+            },
+            {
+                "number": 23,
+                "chapters": []
+            },
+            {
+                "number": 24,
+                "chapters": []
+            },
+            {
+                "number": 25,
+                "chapters": []
+            },
+            {
+                "number": 26,
+                "chapters": []
+            },
+            {
+                "number": 27,
+                "chapters": []
+            },
+            {
+                "number": 28,
+                "chapters": []
+            },
+            {
+                "number": 29,
+                "chapters": []
+            },
+            {
+                "number": 30,
+                "chapters": []
+            },
+            {
+                "number": 31,
+                "chapters": []
+            },
+            {
+                "number": 32,
+                "chapters": []
+            },
+            {
+                "number": 33,
+                "chapters": []
+            }
+        ]
     }
 ]
