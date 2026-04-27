@@ -85344,5 +85344,30 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 218,
+        "title": "Insania",
+        "status": "En cours",
+        "coverUrl": "https://www.bedetheque.com/media/Couvertures/Couv_457232.jpg",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            }
+        ]
     }
 ]
