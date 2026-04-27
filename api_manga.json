@@ -80475,5 +80475,34 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 199,
+        "title": "Himejima et moi",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/64/mini/himejima_et_moi_10646.webp?11733507258",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    }
+                ]
+            }
+        ]
     }
 ]
