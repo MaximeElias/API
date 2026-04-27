@@ -82875,5 +82875,46 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 214,
+        "title": "In the Land of Leadale",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/17/mini/in_the_land_of_leadale_13671.webp?11724877847",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            },
+            {
+                "number": 7,
+                "chapters": []
+            }
+        ]
     }
 ]
