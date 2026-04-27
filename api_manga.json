@@ -92224,7 +92224,15 @@
                         "name": "Chapitre 92"
                     }
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "id": 236,
+        "title": "A Heart for the Emperor",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/00/a_heart_for_the_emperor_18400.webp?1665509745",
+        "volumes": [
             {
                 "number": 0,
                 "chapters": [
@@ -92473,10 +92481,10 @@
         ]
     },
     {
-        "id": 236,
-        "title": "A Heart for the Emperor",
+        "id": 237,
+        "title": "Anoblie un Beau Matin",
         "status": "Terminé",
-        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/11/53/a_tender_heart_-_comment_je_suis_devenue_la_servante_du_duc_1_edition_reliee_francaise951335.webp?1670722743",
+        "coverUrl": "https://www.shoshosein.com/sites/default/files/fiches/manhwa/anoblie-un-beau-matin.jpg",
         "volumes": [
             {
                 "number": 0,
@@ -92682,7 +92690,15 @@
                         "name": "Chapitre 50"
                     }
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "id": 238,
+        "title": "A tender Heart - Comment je suis devenue la servante du Duc",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/11/53/a_tender_heart_-_comment_je_suis_devenue_la_servante_du_duc_1_edition_reliee_francaise951335.webp?1670722743",
+        "volumes": [
             {
                 "number": 0,
                 "chapters": [
@@ -93157,19 +93173,5 @@
                 "chapters": []
             }
         ]
-    },
-    {
-        "id": 237,
-        "title": "Anoblie un Beau Matin",
-        "status": "En cours",
-        "coverUrl": "",
-        "volumes": []
-    },
-    {
-        "id": 238,
-        "title": "A tender Heart - Comment je suis devenue la servante du Duc",
-        "status": "En cours",
-        "coverUrl": "",
-        "volumes": []
     }
 ]
