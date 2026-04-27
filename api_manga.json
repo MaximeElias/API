@@ -81279,7 +81279,7 @@
         ]
     },
     {
-        "id": 208,
+        "id": 209,
         "title": "I'm the Max-Level Newbie",
         "status": "En cours",
         "coverUrl": "https://www.nautiljon.com/images/manga/00/21/mini/i_m_the_max-level_newbie_20112.webp?11737306377",
@@ -82770,6 +82770,31 @@
                         "name": "Chapitre 111"
                     }
                 ]
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "title": "Ifrit, les mers de sable",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/40/ifrit_les_mers_de_sable_27804.webp?1763330330",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
             }
         ]
     }
