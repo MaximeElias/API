@@ -88290,5 +88290,34 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 227,
+        "title": "Jujutsu Kaisen - l'école d'exorcisme de Tokyo",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/11/85/mini/934358.webp?11707662424",
+        "volumes": [
+            {
+                "number": 0,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    }
+                ]
+            }
+        ]
     }
 ]
