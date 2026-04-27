@@ -83883,5 +83883,22 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 216,
+        "title": "Influenceurs",
+        "status": "Abandonné",
+        "coverUrl": "https://www.mangadraft.com/image/page/5edc143338227?size=full&u=0",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            }
+        ]
     }
 ]
