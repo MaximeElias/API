@@ -94260,6 +94260,77 @@
             {
                 "number": 11,
                 "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 244,
+        "title": "Rosario + Vampire",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/37/rosario_vampire_173.webp?1644967080",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
+                    {
+                        "number": 9,
+                        "name": "Chapitre 9"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Chapitre 10"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Chapitre 11"
+                    },
+                    {
+                        "number": 12,
+                        "name": "Chapitre 12"
+                    }
+                ]
             },
             {
                 "number": 4,
@@ -94405,77 +94476,6 @@
                     {
                         "number": 40,
                         "name": "Chapitre 40"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "id": 244,
-        "title": "Rosario + Vampire",
-        "status": "Terminé",
-        "coverUrl": "https://www.nautiljon.com/images/manga/00/37/rosario_vampire_173.webp?1644967080",
-        "volumes": [
-            {
-                "number": 1,
-                "chapters": [
-                    {
-                        "number": 1,
-                        "name": "Chapitre 1"
-                    },
-                    {
-                        "number": 2,
-                        "name": "Chapitre 2"
-                    },
-                    {
-                        "number": 3,
-                        "name": "Chapitre 3"
-                    },
-                    {
-                        "number": 4,
-                        "name": "Chapitre 4"
-                    }
-                ]
-            },
-            {
-                "number": 2,
-                "chapters": [
-                    {
-                        "number": 5,
-                        "name": "Chapitre 5"
-                    },
-                    {
-                        "number": 6,
-                        "name": "Chapitre 6"
-                    },
-                    {
-                        "number": 7,
-                        "name": "Chapitre 7"
-                    },
-                    {
-                        "number": 8,
-                        "name": "Chapitre 8"
-                    }
-                ]
-            },
-            {
-                "number": 3,
-                "chapters": [
-                    {
-                        "number": 9,
-                        "name": "Chapitre 9"
-                    },
-                    {
-                        "number": 10,
-                        "name": "Chapitre 10"
-                    },
-                    {
-                        "number": 11,
-                        "name": "Chapitre 11"
-                    },
-                    {
-                        "number": 12,
-                        "name": "Chapitre 12"
                     }
                 ]
             }
