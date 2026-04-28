@@ -93173,5 +93173,262 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 239,
+        "title": "Kamisama School",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/62/mini/kamisama_school_20926.webp?11692880332",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Chapitre 9"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Chapitre 10"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
+                    {
+                        "number": 11,
+                        "name": "Chapitre 11"
+                    },
+                    {
+                        "number": 12,
+                        "name": "Chapitre 12"
+                    },
+                    {
+                        "number": 13,
+                        "name": "Chapitre 13"
+                    },
+                    {
+                        "number": 14,
+                        "name": "Chapitre 14"
+                    },
+                    {
+                        "number": 15,
+                        "name": "Chapitre 15"
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "chapters": [
+                    {
+                        "number": 16,
+                        "name": "Chapitre 16"
+                    },
+                    {
+                        "number": 17,
+                        "name": "Chapitre 17"
+                    },
+                    {
+                        "number": 18,
+                        "name": "Chapitre 18"
+                    },
+                    {
+                        "number": 19,
+                        "name": "Chapitre 19"
+                    },
+                    {
+                        "number": 20,
+                        "name": "Chapitre 20"
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "chapters": [
+                    {
+                        "number": 21,
+                        "name": "Chapitre 21"
+                    },
+                    {
+                        "number": 22,
+                        "name": "Chapitre 22"
+                    },
+                    {
+                        "number": 23,
+                        "name": "Chapitre 23"
+                    },
+                    {
+                        "number": 24,
+                        "name": "Chapitre 24"
+                    },
+                    {
+                        "number": 25,
+                        "name": "Chapitre 25"
+                    },
+                    {
+                        "number": 26,
+                        "name": "Chapitre 26"
+                    }
+                ]
+            },
+            {
+                "number": 6,
+                "chapters": [
+                    {
+                        "number": 27,
+                        "name": "Chapitre 27"
+                    },
+                    {
+                        "number": 28,
+                        "name": "Chapitre 28"
+                    },
+                    {
+                        "number": 29,
+                        "name": "Chapitre 29"
+                    },
+                    {
+                        "number": 30,
+                        "name": "Chapitre 30"
+                    },
+                    {
+                        "number": 31,
+                        "name": "Chapitre 31"
+                    }
+                ]
+            },
+            {
+                "number": 7,
+                "chapters": [
+                    {
+                        "number": 32,
+                        "name": "Chapitre 32"
+                    },
+                    {
+                        "number": 33,
+                        "name": "Chapitre 33"
+                    },
+                    {
+                        "number": 34,
+                        "name": "Chapitre 34"
+                    },
+                    {
+                        "number": 35,
+                        "name": "Chapitre 35"
+                    },
+                    {
+                        "number": 36,
+                        "name": "Chapitre 36"
+                    }
+                ]
+            },
+            {
+                "number": 8,
+                "chapters": [
+                    {
+                        "number": 37,
+                        "name": "Chapitre 37"
+                    },
+                    {
+                        "number": 38,
+                        "name": "Chapitre 38"
+                    },
+                    {
+                        "number": 39,
+                        "name": "Chapitre 39"
+                    },
+                    {
+                        "number": 40,
+                        "name": "Chapitre 40"
+                    },
+                    {
+                        "number": 41,
+                        "name": "Chapitre 41"
+                    }
+                ]
+            },
+            {
+                "number": 9,
+                "chapters": [
+                    {
+                        "number": 42,
+                        "name": "Chapitre 42"
+                    },
+                    {
+                        "number": 43,
+                        "name": "Chapitre 43"
+                    },
+                    {
+                        "number": 44,
+                        "name": "Chapitre 44"
+                    },
+                    {
+                        "number": 45,
+                        "name": "Chapitre 45"
+                    },
+                    {
+                        "number": 46,
+                        "name": "Chapitre 46"
+                    }
+                ]
+            },
+            {
+                "number": 10,
+                "chapters": []
+            },
+            {
+                "number": 11,
+                "chapters": []
+            },
+            {
+                "number": 12,
+                "chapters": []
+            },
+            {
+                "number": 13,
+                "chapters": []
+            },
+            {
+                "number": 14,
+                "chapters": []
+            }
+        ]
     }
 ]
