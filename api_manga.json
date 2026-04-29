@@ -102818,8 +102818,8 @@
     {
         "id": 259,
         "title": "Painter of the Night",
-        "status": "Terminé",
-        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/00/61/13616.webp?1621409401",
+        "status": "En cours",
+        "coverUrl": "https://m.media-amazon.com/images/I/81ezurYlrNL.jpg",
         "volumes": [
             {
                 "number": 0,
@@ -103405,7 +103405,15 @@
             {
                 "number": 7,
                 "chapters": []
-            },
+            }
+        ]
+    },
+    {
+        "id": 260,
+        "title": "Dorohedoro",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/00/61/13616.webp?1621409401",
+        "volumes": [
             {
                 "number": 1,
                 "chapters": [
@@ -104188,14 +104196,6 @@
                         "name": "Chapitre 167"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "id": 260,
-        "title": "Dorohedoro",
-        "status": "En cours",
-        "coverUrl": "",
-        "volumes": []
+            }]
     }
 ]
