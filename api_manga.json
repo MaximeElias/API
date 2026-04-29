@@ -115319,5 +115319,22 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 304,
+        "title": "Les Torches d'Arkylon - Genesis",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/00/13/29931.webp?1529481546",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            }
+        ]
     }
 ]
