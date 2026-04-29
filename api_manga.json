@@ -109801,5 +109801,30 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 281,
+        "title": "La naissance d'une chevaleresse",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/11/80/la_naissance_d_une_chevaleresse_1952908.webp?1723617971",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            }
+        ]
     }
 ]
