@@ -108596,5 +108596,34 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 273,
+        "title": "La Fille du Feu",
+        "status": "En cours",
+        "coverUrl": "https://www.bedetheque.com/media/Couvertures/Couv_342320.jpg",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            }
+        ]
     }
 ]
