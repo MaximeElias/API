@@ -109805,8 +109805,8 @@
     {
         "id": 281,
         "title": "La naissance d'une chevaleresse",
-        "status": "En cours",
-        "coverUrl": "https://www.nautiljon.com/images/doujinshi/00/22/le_cercle_de_l_etrange_tome_1_2622.webp?1753637138",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/79/mini/la_naissance_d_une_chevaleresse_19097.webp?11725646668",
         "volumes": [
             {
                 "number": 1,
@@ -109824,7 +109824,15 @@
             {
                 "number": 3,
                 "chapters": []
-            },
+            }
+        ]
+    },
+    {
+        "id": 282,
+        "title": "Le Cercle de l'Étrange",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/doujinshi/00/22/le_cercle_de_l_etrange_tome_1_2622.webp?1753637138",
+        "volumes": [
             {
                 "number": 1,
                 "chapters": [
@@ -109841,10 +109849,20 @@
         ]
     },
     {
-        "id": 282,
-        "title": "Le Cercle de l'Étrange",
-        "status": "En cours",
-        "coverUrl": "",
-        "volumes": []
+        "id": 283,
+        "title": "Le Fauve des nuées - Le Gardien des temps anciens",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/25/le_fauve_des_nuees_-_le_gardien_des_temps_anciens_11001752.webp?1717403593",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            }
+        ]
     }
 ]
