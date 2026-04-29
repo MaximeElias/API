@@ -110435,7 +110435,7 @@
         "id": 291,
         "title": "Les 100 petites amies qui t'aiiiment à en mourir",
         "status": "En cours",
-        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/49/le_septieme_prince_demon_1988294.webp?1716372197",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/97/mini/les_100_petites_amies_qui_t_aiiiment_a_en_mourir_13779.webp?11719256637",
         "volumes": [
             {
                 "number": 1,
@@ -111111,6 +111111,117 @@
             },
             {
                 "number": 25,
+                "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 292,
+        "title": "Les 7 chevaliers du royaume des marronniers",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/32/les_7_chevaliers_du_royaume_des_marronniers_7623.webp?1753973224",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Chapitre 9"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Chapitre 10"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
+                    {
+                        "number": 11,
+                        "name": "Chapitre 11"
+                    },
+                    {
+                        "number": 12,
+                        "name": "Chapitre 12"
+                    },
+                    {
+                        "number": 13,
+                        "name": "Chapitre 13"
+                    },
+                    {
+                        "number": 14,
+                        "name": "Chapitre 14"
+                    },
+                    {
+                        "number": 15,
+                        "name": "Chapitre 15"
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            },
+            {
+                "number": 7,
+                "chapters": []
+            },
+            {
+                "number": 8,
+                "chapters": []
+            },
+            {
+                "number": 9,
+                "chapters": []
+            },
+            {
+                "number": 10,
                 "chapters": []
             }
         ]
