@@ -115200,5 +115200,22 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 301,
+        "title": "Les Roses ne Saignent pas",
+        "status": "En cours",
+        "coverUrl": "https://img.mangadraft.com/avatar/845/626cf54b3db59.jpg",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            }
+        ]
     }
 ]
