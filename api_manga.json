@@ -100639,6 +100639,76 @@
             {
                 "number": 7,
                 "chapters": []
-            }]
+            }
+        ]
+    },
+    {
+        "id": 254,
+        "title": "Rosario + Vampire Saison II",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/27/rosario_vampire_saison_ii_172.webp?1718996939",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            },
+            {
+                "number": 7,
+                "chapters": []
+            },
+            {
+                "number": 8,
+                "chapters": []
+            },
+            {
+                "number": 9,
+                "chapters": []
+            },
+            {
+                "number": 10,
+                "chapters": []
+            },
+            {
+                "number": 11,
+                "chapters": []
+            },
+            {
+                "number": 12,
+                "chapters": []
+            },
+            {
+                "number": 13,
+                "chapters": []
+            },
+            {
+                "number": 14,
+                "chapters": []
+            }
+        ]
     }
 ]
