@@ -110356,5 +110356,50 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 289,
+        "title": "Le Royaume d'Orcsen",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/99/le_royaume_d_orcsen_11022199.webp?1757365281",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            }
+        ]
     }
 ]
