@@ -109756,5 +109756,50 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 280,
+        "title": "La dresseuse sans étoiles parcourt le monde",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/11/61/la_dresseuse_sans_etoiles_parcourt_le_monde_1934816.webp?1678013545",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            },
+            {
+                "number": 7,
+                "chapters": []
+            },
+            {
+                "number": 8,
+                "chapters": []
+            }
+        ]
     }
 ]
