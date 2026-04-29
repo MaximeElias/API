@@ -34924,7 +34924,7 @@
     },
     {
         "id": 73,
-        "title": "Les Carnets de L'apothicaire : Enquêtes à la Cour",
+        "title": "Les Carnets de l'Apothicaire : Enquêtes à la Cour",
         "status": "En cours",
         "coverUrl": "https://www.nautiljon.com/images/manga/00/99/mini/les_carnets_de_l_apothicaire_-_enquetes_a_la_cour_10799.webp?11732829615",
         "volumes": [
@@ -111811,6 +111811,39 @@
                         "name": "Chapitre 26"
                     }
                 ]
+            }
+        ]
+    },
+    {
+        "id": 296,
+        "title": "Les Chroniques de Nomados",
+        "status": "En cours",
+        "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQmPi6WW-yg4YesC0NXZRNNETYtWHRwPNrKQ&s",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
             }
         ]
     }
