@@ -109687,7 +109687,7 @@
         "id": 278,
         "title": "La Sainte Déchu et son Fervant Protecteur",
         "status": "Terminé",
-        "coverUrl": "https://m.media-amazon.com/images/I/81S2jvv5U7L._UF1000,1000_QL80_.jpg",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/26/mini/la_sainte_dechue_et_son_fervent_protecteur_26662.webp?11719752684",
         "volumes": [
             {
                 "number": 1,
@@ -109717,6 +109717,43 @@
             {
                 "number": 6,
                 "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 279,
+        "title": "La Voleuse de Lumière",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/01/la_voleuse_de_lumiere_11017410.webp?1746737417",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    }
+                ]
             }
         ]
     }
