@@ -106816,7 +106816,7 @@
         "id": 266,
         "title": "L'Attaque des Titans - Birth of Livaï",
         "status": "Terminé",
-        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/00/63/6736.webp?1582740127",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/29/l_attaque_des_titans_-_birth_of_livai_2192.webp?1769781444",
         "volumes": [
             {
                 "number": 1,
@@ -107574,6 +107574,43 @@
             {
                 "number": 11,
                 "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 269,
+        "title": "L'Indicible",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/45/l_indicible_31754.webp?1751147701",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    }
+                ]
             }
         ]
     }
