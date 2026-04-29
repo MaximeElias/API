@@ -109645,5 +109645,37 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 277,
+        "title": "La Planète Takoo",
+        "status": "En cours",
+        "coverUrl": "https://m.media-amazon.com/images/I/81S2jvv5U7L._UF1000,1000_QL80_.jpg",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": []
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            }
+        ]
     }
 ]
