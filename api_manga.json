@@ -109864,5 +109864,42 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 284,
+        "title": "Le Guérisseur de l'Ombre",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/72/le_guerisseur_de_l_ombre_11000127.webp?1713989975",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            }
+        ]
     }
 ]
