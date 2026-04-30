@@ -122323,7 +122323,7 @@
         "id": 326,
         "title": "Mist Gear Blast",
         "status": "Terminé",
-        "coverUrl": "https://cdn.cultura.com/cdn-cgi/image/width=830/media/pim/TITELIVE/84_9791095857846_1_75.jpg",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/61/mini/mist_gears_blast_16216.webp?11719142074",
         "volumes": [
             {
                 "number": 1,
@@ -122406,7 +122406,15 @@
                         "name": "Chapitre 18"
                     }
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "id": 327,
+        "title": "Mitsy et les cristaux du mon Fuji",
+        "status": "Terminé",
+        "coverUrl": "https://cdn.cultura.com/cdn-cgi/image/width=830/media/pim/TITELIVE/84_9791095857846_1_75.jpg",
+        "volumes": [
             {
                 "number": 1,
                 "chapters": [
@@ -122419,10 +122427,56 @@
         ]
     },
     {
-        "id": 327,
-        "title": "Mitsy et les cristaux du mon Fuji",
-        "status": "En cours",
-        "coverUrl": "",
-        "volumes": []
+        "id": 328,
+        "title": "Miurizuma",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/15/miurizuma_l_epouse_vendue_11020051.webp?1765198477",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Chapitre 9"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Chapitre 10"
+                    }
+                ]
+            }
+        ]
     }
 ]
