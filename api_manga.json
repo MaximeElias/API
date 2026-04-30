@@ -122323,7 +122323,7 @@
         "id": 326,
         "title": "Mist Gear Blast",
         "status": "Terminé",
-        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/11/58/938485.webp?1759066114",
+        "coverUrl": "https://cdn.cultura.com/cdn-cgi/image/width=830/media/pim/TITELIVE/84_9791095857846_1_75.jpg",
         "volumes": [
             {
                 "number": 1,
@@ -122406,7 +122406,23 @@
                         "name": "Chapitre 18"
                     }
                 ]
+            },
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
             }
         ]
+    },
+    {
+        "id": 327,
+        "title": "Mitsy et les cristaux du mon Fuji",
+        "status": "En cours",
+        "coverUrl": "",
+        "volumes": []
     }
 ]
