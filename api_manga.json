@@ -120153,5 +120153,42 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 320,
+        "title": "Mangass",
+        "status": "En cours",
+        "coverUrl": "https://kool-books.fr/wp-content/uploads/2024/06/9782494152236_1M.jpg",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    }
+                ]
+            }
+        ]
     }
 ]
