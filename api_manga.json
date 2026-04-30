@@ -124453,5 +124453,54 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 335,
+        "title": "My Dear Detective",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/07/my_dear_detective_19970.webp?1749995569",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            },
+            {
+                "number": 7,
+                "chapters": []
+            },
+            {
+                "number": 8,
+                "chapters": []
+            },
+            {
+                "number": 9,
+                "chapters": []
+            }
+        ]
     }
 ]
