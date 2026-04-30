@@ -119300,5 +119300,42 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 315,
+        "title": "Légères sur le dancefloor",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/94/legeres_sur_le_dancefloor_16049.webp?1750791248",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            }
+        ]
     }
 ]
