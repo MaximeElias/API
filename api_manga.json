@@ -123117,5 +123117,22 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 330,
+        "title": "Mon Voisin Totoro",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/02/mon_voisin_totoro_-_anime_comics_2720.webp?1555401216",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            }
+        ]
     }
 ]
