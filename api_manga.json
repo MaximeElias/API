@@ -117838,5 +117838,22 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 312,
+        "title": "Look Back",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/88/look_back_19388.webp?1772722398",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            }
+        ]
     }
 ]
