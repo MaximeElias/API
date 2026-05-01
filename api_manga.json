@@ -126478,5 +126478,22 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 339,
+        "title": "My Hero Academia - Anime Comics 3 - World Heroes Mission",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/42/my_hero_academia_world_heroes_mission993424.webp?1699208306",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            }
+        ]
     }
 ]
