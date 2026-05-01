@@ -126444,5 +126444,39 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 337,
+        "title": "My Hero Academia - Anime Comics 1 - Two Heroes",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/11/55/my_hero_academia_two_heroes937755.webp?1657794626",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 338,
+        "title": "My Hero Academia - Anime Comics 2 - Heroes Rising",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/61/my_hero_academia_heroes_rising972516.webp?1664444342",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            }
+        ]
     }
 ]
