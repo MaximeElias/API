@@ -126495,5 +126495,22 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 340,
+        "title": "My Hero Academia - Anime Comics 4 - You're Next",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/63/my_hero_academia_you_re_next1032936.webp?1777281181",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            }
+        ]
     }
 ]
