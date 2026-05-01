@@ -134242,7 +134242,7 @@
         "id": 372,
         "title": "Peach Boy Riverside",
         "status": "Terminé",
-        "coverUrl": "https://www.nautiljon.com/images/manga/00/82/peach_boy_riverside_9428.webp?1775044569",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/11/68/mini/peach_boy_riverside_1936786.webp?11660554868",
         "volumes": [
             {
                 "number": 1,
@@ -134337,6 +134337,110 @@
             {
                 "number": 16,
                 "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 373,
+        "title": "Phantom Busters",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/15/phantom_busters_1995151.webp?1758391349",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
+                    {
+                        "number": 9,
+                        "name": "Chapitre 9"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Chapitre 10"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Chapitre 11"
+                    },
+                    {
+                        "number": 12,
+                        "name": "Chapitre 12"
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            },
+            {
+                "number": 7,
+                "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 374,
+        "title": "Pilgrim",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/50/mini/pilgrim_22705.webp?10",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
             }
         ]
     }
