@@ -134973,7 +134973,7 @@
     },
     {
         "id": 378,
-        "title": "Prince Déchu",
+        "title": "Princesse Kilala",
         "status": "Terminé",
         "coverUrl": "https://www.nautiljon.com/images/manga_volumes/00/39/31293.webp?1551863033",
         "volumes": [
@@ -135000,6 +135000,63 @@
             },
             {
                 "number": 5,
+                "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 379,
+        "title": "Profession Héros",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/00/39/31293.webp?1551863033",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
                 "chapters": []
             }
         ]
