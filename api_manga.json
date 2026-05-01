@@ -134448,7 +134448,7 @@
         "id": 375,
         "title": "Poison City",
         "status": "Terminé",
-        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/00/77/19077.webp?1568037860",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/62/mini/poison_city_4226.webp?11715358220",
         "volumes": [
             {
                 "number": 1,
@@ -134523,7 +134523,15 @@
                         "name": "Chapitre 16"
                     }
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "id": 376,
+        "title": "Pokémon la Grande Aventure",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/00/77/mini/19077.webp?11568037860",
+        "volumes": [
             {
                 "number": 1,
                 "chapters": [
@@ -134902,10 +134910,65 @@
         ]
     },
     {
-        "id": 376,
-        "title": "Pokémon la Grande Aventure",
-        "status": "En cours",
-        "coverUrl": "",
-        "volumes": []
+        "id": 377,
+        "title": "Polaris Will Never Be Gone",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/12/polaris_will_never_be_gone_24021.webp?1771686693",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Chapitre 9"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Chapitre 10"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": []
+            }
+        ]
     }
 ]
