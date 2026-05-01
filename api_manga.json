@@ -132763,7 +132763,7 @@
     {
         "id": 365,
         "title": "Operation : True Love",
-        "status": "En cous",
+        "status": "En cours",
         "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/54/operation_true_love_1_edition_reliee_francaise1004845.webp?1727773386",
         "volumes": [
             {
@@ -133911,6 +133911,63 @@
             {
                 "number": 3,
                 "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 369,
+        "title": "Pandémonium",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/72/pandemonium_bon_baisers_du_pandemonium_11006027.webp?1743098855",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Chapitre 9"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Chapitre 10"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Chapitre 11"
+                    }
+                ]
             }
         ]
     }
