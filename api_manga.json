@@ -136615,7 +136615,7 @@
         "id": 388,
         "title": "Re:Zero - 1er arc : Une journée à la capitale",
         "status": "Terminé",
-        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/11/54/rascal_does_not_dream_of_logical_witch_1948345.webp?1696438838",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/91/mini/re_zero_-_re_life_in_a_different_world_from_zero_6019.webp?11673791757",
         "volumes": [
             {
                 "number": 1,
@@ -137837,6 +137837,143 @@
             },
             {
                 "number": 3,
+                "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 392,
+        "title": "Reborn to Master the Blade",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/11/03/reborn_to_master_the_blade_1936430.webp?1762626376",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Chapitre 9"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Chapitre 10"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Chapitre 11"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
+                    {
+                        "number": 12,
+                        "name": "Chapitre 12"
+                    },
+                    {
+                        "number": 13,
+                        "name": "Chapitre 13"
+                    },
+                    {
+                        "number": 14,
+                        "name": "Chapitre 14"
+                    },
+                    {
+                        "number": 15,
+                        "name": "Chapitre 15"
+                    },
+                    {
+                        "number": 16,
+                        "name": "Chapitre 16"
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "chapters": [
+                    {
+                        "number": 17,
+                        "name": "Chapitre 17"
+                    },
+                    {
+                        "number": 18,
+                        "name": "Chapitre 18"
+                    },
+                    {
+                        "number": 19,
+                        "name": "Chapitre 19"
+                    },
+                    {
+                        "number": 20,
+                        "name": "Chapitre 20"
+                    },
+                    {
+                        "number": 21,
+                        "name": "Chapitre 21"
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "chapters": [
+                    {
+                        "number": 22,
+                        "name": "Chapitre 22"
+                    },
+                    {
+                        "number": 23,
+                        "name": "Chapitre 23"
+                    },
+                    {
+                        "number": 24,
+                        "name": "Chapitre 24"
+                    },
+                    {
+                        "number": 25,
+                        "name": "Chapitre 25"
+                    }
+                ]
+            },
+            {
+                "number": 6,
                 "chapters": []
             }
         ]
