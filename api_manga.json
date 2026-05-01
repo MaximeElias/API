@@ -133486,7 +133486,7 @@
         "id": 367,
         "title": "Otaku Otaku",
         "status": "Terminé",
-        "coverUrl": "https://www.nautiljon.com/images/manga/00/72/oneira_20827.webp?1771228767",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/00/35/27353.webp?1617553048",
         "volumes": [
             {
                 "number": 1,
@@ -133886,6 +133886,31 @@
                         "name": "Chapitre 86"
                     }
                 ]
+            }
+        ]
+    },
+    {
+        "id": 368,
+        "title": "Overlord - New World",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/48/overlord_-_new_world_11005784.webp?1761914789",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
             }
         ]
     }
