@@ -142889,5 +142889,46 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 410,
+        "title": "Sacrificial Vote",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/06/sacrificial_vote_10260.webp?1603918048",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            },
+            {
+                "number": 7,
+                "chapters": []
+            }
+        ]
     }
 ]
