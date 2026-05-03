@@ -140570,7 +140570,7 @@
     {
         "id": 397,
         "title": "Resident Evil - Marhawa Desire",
-        "status": "En cours",
+        "status": "Terminé",
         "coverUrl": "https://www.nautiljon.com/images/manga/00/65/resident_evil_-_marhawa_desire_1856.webp?1758484949",
         "volumes": [
             {
@@ -141424,6 +141424,56 @@
             {
                 "number": 8,
                 "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 403,
+        "title": "Rosetta",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/86/rosetta_30968.webp?1768514642",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    }
+                ]
             }
         ]
     }
