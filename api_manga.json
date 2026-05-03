@@ -141080,5 +141080,50 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 399,
+        "title": "Rigel Afterlife",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/75/returned_by_the_king_28157.webp?1763753994",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            }
+        ]
     }
 ]
