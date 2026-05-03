@@ -11920,7 +11920,7 @@
         "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/00/7fates_chakho_1_edition_reliee_francaise988400.webp?1745446294",
         "volumes": [
             {
-                "number": 1,
+                "number": 0,
                 "chapters": [
                     {
                         "number": 1,
@@ -11945,12 +11945,7 @@
                     {
                         "number": 6,
                         "name": ""
-                    }
-                ]
-            },
-            {
-                "number": 2,
-                "chapters": [
+                    },
                     {
                         "number": 7,
                         "name": ""
@@ -11982,12 +11977,7 @@
                     {
                         "number": 14,
                         "name": ""
-                    }
-                ]
-            },
-            {
-                "number": 3,
-                "chapters": [
+                    },
                     {
                         "number": 15,
                         "name": ""
@@ -12019,12 +12009,7 @@
                     {
                         "number": 22,
                         "name": ""
-                    }
-                ]
-            },
-            {
-                "number": 4,
-                "chapters": [
+                    },
                     {
                         "number": 23,
                         "name": ""
@@ -12052,12 +12037,7 @@
                     {
                         "number": 29,
                         "name": ""
-                    }
-                ]
-            },
-            {
-                "number": 5,
-                "chapters": [
+                    },
                     {
                         "number": 30,
                         "name": ""
@@ -12089,12 +12069,7 @@
                     {
                         "number": 37,
                         "name": ""
-                    }
-                ]
-            },
-            {
-                "number": 6,
-                "chapters": [
+                    },
                     {
                         "number": 38,
                         "name": ""
@@ -12126,12 +12101,7 @@
                     {
                         "number": 45,
                         "name": ""
-                    }
-                ]
-            },
-            {
-                "number": 7,
-                "chapters": [
+                    },
                     {
                         "number": 46,
                         "name": ""
@@ -12165,6 +12135,34 @@
                         "name": ""
                     }
                 ]
+            },
+            {
+                "number": 1,
+                "chapters": []
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            },
+            {
+                "number": 7,
+                "chapters": []
             }
         ]
     },
@@ -12315,7 +12313,7 @@
     {
         "id": 17,
         "title": "A Certain Scientific Railgun",
-        "status": "En cours",
+        "status": "Terminé",
         "coverUrl": "https://www.nautiljon.com/images/manga/00/83/a_certain_scientific_railgun_438.webp?1765542017",
         "volumes": [
             {
@@ -142934,7 +142932,7 @@
     {
         "id": 411,
         "title": "Sakamoto Days",
-        "status": "Terminé",
+        "status": "En cours",
         "coverUrl": "https://www.nautiljon.com/images/manga/00/09/sakamoto_days_17390.webp?1743346590",
         "volumes": [
             {
@@ -143824,6 +143822,92 @@
             },
             {
                 "number": 27,
+                "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 412,
+        "title": "Schwarz Ragnarok",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/59/schwarz_ragnarok_13495.webp?1655034991",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Chapitre 9"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Chapitre 10"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Chapitre 11"
+                    },
+                    {
+                        "number": 12,
+                        "name": "Chapitre 12"
+                    },
+                    {
+                        "number": 13,
+                        "name": "Chapitre 13"
+                    },
+                    {
+                        "number": 14,
+                        "name": "Chapitre 14"
+                    },
+                    {
+                        "number": 15,
+                        "name": "Chapitre 15"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
                 "chapters": []
             }
         ]
