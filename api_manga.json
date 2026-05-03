@@ -146184,5 +146184,26 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 418,
+        "title": "Seven Deadly Sins - Seven Days",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/13/seven_deadly_sins_-_seven_days_7231.webp?1718273806",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            }
+        ]
     }
 ]
