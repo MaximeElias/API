@@ -148085,5 +148085,571 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 422,
+        "title": "The Quintessential Quintuplets",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/92/the_quintessential_quintuplets_6929.webp?1703282286",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "The Quintessential Quintuplets"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Visite à domicile"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Déclaration sur le toit"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Un total de 100 points"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Une montagne de problèmes"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 6,
+                        "name": "Porte close"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Un dimanche tranquille (1)"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Un dimanche tranquille (2)"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Un dimanche tranquille (3)"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Un dimanche tranquille (4)"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Un dimanche tranquille (5)"
+                    },
+                    {
+                        "number": 12,
+                        "name": "Un dimanche tranquille (6)"
+                    },
+                    {
+                        "number": 13,
+                        "name": "Celle qui ne savait pas dire non"
+                    },
+                    {
+                        "number": 14,
+                        "name": "Photo souvenir"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
+                    {
+                        "number": 15,
+                        "name": "Petit à petit"
+                    },
+                    {
+                        "number": 16,
+                        "name": "Têtu comme un âne"
+                    },
+                    {
+                        "number": 17,
+                        "name": "Nuit studieuse"
+                    },
+                    {
+                        "number": 18,
+                        "name": "Un vilain petit menteur"
+                    },
+                    {
+                        "number": 19,
+                        "name": "Contre la montre"
+                    },
+                    {
+                        "number": 20,
+                        "name": "Les examens de mi-semestre"
+                    },
+                    {
+                        "number": 21,
+                        "name": "Les mots magique"
+                    },
+                    {
+                        "number": 22,
+                        "name": "Un lien éternel"
+                    },
+                    {
+                        "number": 23,
+                        "name": "Classe nature à six"
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "chapters": [
+                    {
+                        "number": 24,
+                        "name": "Un Lien Éternel - Première journée"
+                    },
+                    {
+                        "number": 25,
+                        "name": "Un Lien Éternel - Deuxième journée (1)"
+                    },
+                    {
+                        "number": 26,
+                        "name": "Un Lien Éternel - Deuxième journée (2)"
+                    },
+                    {
+                        "number": 27,
+                        "name": "Un Lien Éternel - Deuxième journée (3)"
+                    },
+                    {
+                        "number": 28,
+                        "name": "Un Lien Éternel - Deuxième journée (4)"
+                    },
+                    {
+                        "number": 29,
+                        "name": "Un Lien Éternel - Troisième journée (1)"
+                    },
+                    {
+                        "number": 30,
+                        "name": "Un Lien Éternel - Troisième journée (2)"
+                    },
+                    {
+                        "number": 31,
+                        "name": "Un Lien Éternel - Troisième journée (3)"
+                    },
+                    {
+                        "number": 32,
+                        "name": "Un Lien Éternel - Deux millième journée"
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "chapters": [
+                    {
+                        "number": 33,
+                        "name": "Visites impromptues"
+                    },
+                    {
+                        "number": 34,
+                        "name": "Un jour à Kyoto"
+                    },
+                    {
+                        "number": 35,
+                        "name": "L'inspecteur Fûtarô et les cinq suspectes"
+                    },
+                    {
+                        "number": 36,
+                        "name": "Balade par un jour de congé (1)"
+                    },
+                    {
+                        "number": 37,
+                        "name": "Balade par un jour de congé (2)"
+                    },
+                    {
+                        "number": 38,
+                        "name": "L'amour au salon"
+                    },
+                    {
+                        "number": 39,
+                        "name": "Sept \"au revoir\" (1)"
+                    },
+                    {
+                        "number": 40,
+                        "name": "Sept \"au revoir\" (2)"
+                    },
+                    {
+                        "number": 41,
+                        "name": "Sept \"au revoir\" (3)"
+                    }
+                ]
+            },
+            {
+                "number": 6,
+                "chapters": [
+                    {
+                        "number": 42,
+                        "name": "Sept \"au revoir\" (4)"
+                    },
+                    {
+                        "number": 43,
+                        "name": "Sept \"au revoir\" (5)"
+                    },
+                    {
+                        "number": 44,
+                        "name": "Sept \"au revoir\" (6)"
+                    },
+                    {
+                        "number": 45,
+                        "name": "Sept \"au revoir\" (7)"
+                    },
+                    {
+                        "number": 46,
+                        "name": "Sept \"au revoir\" (8)"
+                    },
+                    {
+                        "number": 47,
+                        "name": "Sept \"au revoir\" (9)"
+                    },
+                    {
+                        "number": 48,
+                        "name": "Sept \"au revoir\" (10)"
+                    },
+                    {
+                        "number": 49,
+                        "name": "Sept \"au revoir\" (11)"
+                    },
+                    {
+                        "number": 50,
+                        "name": "Sept \"au revoir\" (12)"
+                    }
+                ]
+            },
+            {
+                "number": 7,
+                "chapters": [
+                    {
+                        "number": 51,
+                        "name": "Le printemps où tout commence"
+                    },
+                    {
+                        "number": 52,
+                        "name": "Tu as bien bossé (1)"
+                    },
+                    {
+                        "number": 53,
+                        "name": "Tu as bien bossé (2)"
+                    },
+                    {
+                        "number": 54,
+                        "name": "Une brave jeune fille au combat"
+                    },
+                    {
+                        "number": 55,
+                        "name": "Les derniers examens de Miku"
+                    },
+                    {
+                        "number": 56,
+                        "name": "Les derniers examens de Yotsuba"
+                    },
+                    {
+                        "number": 57,
+                        "name": "Les derniers examens de d'Itsuki"
+                    },
+                    {
+                        "number": 58,
+                        "name": "Les derniers examens de d'Ichika"
+                    },
+                    {
+                        "number": 59,
+                        "name": "Les derniers examens de Nino"
+                    }
+                ]
+            },
+            {
+                "number": 8,
+                "chapters": [
+                    {
+                        "number": 60,
+                        "name": "À l'abordage"
+                    },
+                    {
+                        "number": 61,
+                        "name": "Œufs brouillés (1)"
+                    },
+                    {
+                        "number": 62,
+                        "name": "Œufs brouillés (2)"
+                    },
+                    {
+                        "number": 63,
+                        "name": "Œufs brouillés (3)"
+                    },
+                    {
+                        "number": 64,
+                        "name": "Œufs brouillés (4)"
+                    },
+                    {
+                        "number": 65,
+                        "name": "Œufs brouillés (5)"
+                    },
+                    {
+                        "number": 66,
+                        "name": "Œufs brouillés (6)"
+                    },
+                    {
+                        "number": 67,
+                        "name": "Œufs brouillés (7)"
+                    },
+                    {
+                        "number": 68,
+                        "name": "Œufs brouillés (8)"
+                    }
+                ]
+            },
+            {
+                "number": 9,
+                "chapters": [
+                    {
+                        "number": 69,
+                        "name": "Bienvenue en Terminale"
+                    },
+                    {
+                        "number": 70,
+                        "name": "Les nouveaux délégués"
+                    },
+                    {
+                        "number": 71,
+                        "name": "Une longueur d'avance"
+                    },
+                    {
+                        "number": 72,
+                        "name": "Il n'y a pas de fumée sans feu"
+                    },
+                    {
+                        "number": 73,
+                        "name": "Les cinq batailles de Kawanakajima"
+                    },
+                    {
+                        "number": 74,
+                        "name": "Sous des airs déguisés"
+                    },
+                    {
+                        "number": 75,
+                        "name": "Cinq grues reconnaissantes"
+                    },
+                    {
+                        "number": 76,
+                        "name": "Un combat d'hommes"
+                    },
+                    {
+                        "number": 77,
+                        "name": "Un combat de femmes"
+                    }
+                ]
+            },
+            {
+                "number": 10,
+                "chapters": [
+                    {
+                        "number": 78,
+                        "name": "Sisters's War - First Battle"
+                    },
+                    {
+                        "number": 79,
+                        "name": "Sisters's War - Second Battle"
+                    },
+                    {
+                        "number": 80,
+                        "name": "Sisters's War - Third Battle"
+                    },
+                    {
+                        "number": 81,
+                        "name": "Sisters's War - Fourth Battle"
+                    },
+                    {
+                        "number": 82,
+                        "name": "Sisters's War - Fifth Battle"
+                    },
+                    {
+                        "number": 83,
+                        "name": "Sisters's War - Sixth Battle"
+                    },
+                    {
+                        "number": 84,
+                        "name": "Sisters's War - Seventh Battle"
+                    },
+                    {
+                        "number": 85,
+                        "name": "Sisters's War - Seventh Battle (Back Side)"
+                    },
+                    {
+                        "number": 86,
+                        "name": "Sisters's War - Exhibition Match"
+                    }
+                ]
+            },
+            {
+                "number": 11,
+                "chapters": [
+                    {
+                        "number": 87,
+                        "name": "Mes sœurs et moi (1)"
+                    },
+                    {
+                        "number": 88,
+                        "name": "Mes sœurs et moi (2)"
+                    },
+                    {
+                        "number": 89,
+                        "name": "Lui et moi (1)"
+                    },
+                    {
+                        "number": 90,
+                        "name": "Lui et moi (2)"
+                    },
+                    {
+                        "number": 91,
+                        "name": "Un été sans surprise"
+                    },
+                    {
+                        "number": 92,
+                        "name": "Les traces du secret"
+                    },
+                    {
+                        "number": 93,
+                        "name": "Fuis-moi je te suis"
+                    },
+                    {
+                        "number": 94,
+                        "name": "À la croisée des chemins (1)"
+                    },
+                    {
+                        "number": 95,
+                        "name": "À la croisée des chemins (2)"
+                    }
+                ]
+            },
+            {
+                "number": 12,
+                "chapters": [
+                    {
+                        "number": 96,
+                        "name": "Un quotidien qui s'installe"
+                    },
+                    {
+                        "number": 97,
+                        "name": "Un quotidien qui change"
+                    },
+                    {
+                        "number": 98,
+                        "name": "Un quotidien qui prend fin"
+                    },
+                    {
+                        "number": 99,
+                        "name": "Le premier jour de la fête du lycée"
+                    },
+                    {
+                        "number": 100,
+                        "name": "Le deuxième jour de la fête du lycée"
+                    },
+                    {
+                        "number": 101,
+                        "name": "La dernière fête du lycée d'Ichika (1)"
+                    },
+                    {
+                        "number": 102,
+                        "name": "La dernière fête du lycée d'Ichika (2)"
+                    },
+                    {
+                        "number": 103,
+                        "name": "La dernière fête du lycée de Nino (1)"
+                    },
+                    {
+                        "number": 104,
+                        "name": "La dernière fête du lycée de Nino (2)"
+                    }
+                ]
+            },
+            {
+                "number": 13,
+                "chapters": [
+                    {
+                        "number": 105,
+                        "name": "La dernière fête du lycée de Miku (1)"
+                    },
+                    {
+                        "number": 106,
+                        "name": "La dernière fête du lycée de Miku (2)"
+                    },
+                    {
+                        "number": 107,
+                        "name": "La dernière fête du lycée de Yotsuba (1)"
+                    },
+                    {
+                        "number": 108,
+                        "name": "La dernière fête du lycée de Yotsuba (2)"
+                    },
+                    {
+                        "number": 109,
+                        "name": "La dernière fête du lycée d'Itsuki (1)"
+                    },
+                    {
+                        "number": 110,
+                        "name": "La dernière fête du lycée d'Itsuki (2)"
+                    },
+                    {
+                        "number": 111,
+                        "name": "La dernière fête du lycée d'Itsuki (3)"
+                    },
+                    {
+                        "number": 112,
+                        "name": "La dernièr fête du lycée des Quintuplées"
+                    },
+                    {
+                        "number": 113,
+                        "name": "La dernière fête du lycée de Fûtaro (1)"
+                    }
+                ]
+            },
+            {
+                "number": 14,
+                "chapters": [
+                    {
+                        "number": 114,
+                        "name": "La dernière fête du lycée de Fûtaro (2)"
+                    },
+                    {
+                        "number": 115,
+                        "name": "Un lendemain plein de doutes"
+                    },
+                    {
+                        "number": 116,
+                        "name": "Tête-à-tête au karaoké"
+                    },
+                    {
+                        "number": 117,
+                        "name": "Un repas sous haute tension"
+                    },
+                    {
+                        "number": 118,
+                        "name": "Le souvenir d'Itsuki"
+                    },
+                    {
+                        "number": 119,
+                        "name": "Un parcours cinq étoiles"
+                    },
+                    {
+                        "number": 120,
+                        "name": "Plus que cinq ans"
+                    },
+                    {
+                        "number": 121,
+                        "name": "Une chance sur cinq"
+                    },
+                    {
+                        "number": 122,
+                        "name": "The Quintessential Quintuplets"
+                    }
+                ]
+            }
+        ]
     }
 ]
