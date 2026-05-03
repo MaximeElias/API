@@ -141706,5 +141706,22 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 406,
+        "title": "Récit des 12 Légende - Mémoire de Tamat",
+        "status": "Terminé",
+        "coverUrl": "https://www.thealapage.com/image/recit-des-12-legendes-memoires-de-tamat.webp",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            }
+        ]
     }
 ]
