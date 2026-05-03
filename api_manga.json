@@ -138569,5 +138569,50 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 395,
+        "title": "Rent-a-(really-Shy)-Girlfriend",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/11/00/shy_girlfriend_1937900.webp?1757116354",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            }
+        ]
     }
 ]
