@@ -143969,5 +143969,22 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 415,
+        "title": "Section 9",
+        "status": "Abandonné",
+        "coverUrl": "https://mamanafro.com/cdn/shop/products/Section9.jpg?v=1607107003",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            }
+        ]
     }
 ]
