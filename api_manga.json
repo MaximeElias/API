@@ -140566,5 +140566,38 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 397,
+        "title": "Resident Evil - Marhawa Desire",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/65/resident_evil_-_marhawa_desire_1856.webp?1758484949",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            }
+        ]
     }
 ]
