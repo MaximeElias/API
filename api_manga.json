@@ -152668,7 +152668,8 @@
             },
             {
                 "number": 21,
-                "chapters": [{
+                "chapters": [
+                    {
                         "number": 98,
                         "name": "Nous devons réduire le nombre de personnes"
                     },
@@ -152687,7 +152688,8 @@
                     {
                         "number": 102,
                         "name": "Déjà vu"
-                    }]
+                    }
+                ]
             },
             {
                 "number": 22,
@@ -152711,6 +152713,106 @@
                     {
                         "number": 107,
                         "name": "La folie appelée normalité"
+                    }
+                ]
+            },
+            {
+                "number": 23,
+                "chapters": [
+                    {
+                        "number": 108,
+                        "name": "Où se trouve Poison"
+                    },
+                    {
+                        "number": 109,
+                        "name": "Une question mystérieuse et difficile"
+                    },
+                    {
+                        "number": 110,
+                        "name": "La douleur des autres"
+                    },
+                    {
+                        "number": 111,
+                        "name": "Dispute entre frères et sœurs"
+                    },
+                    {
+                        "number": 112,
+                        "name": "Vote final"
+                    }
+                ]
+            },
+            {
+                "number": 24,
+                "chapters": [
+                    {
+                        "number": 113,
+                        "name": "Fils de karma"
+                    },
+                    {
+                        "number": 114,
+                        "name": "Le secret des amis"
+                    },
+                    {
+                        "number": 115,
+                        "name": "Tâche finale"
+                    },
+                    {
+                        "number": 116,
+                        "name": "Le tueur de la mère"
+                    }
+                ]
+            },
+            {
+                "number": 25,
+                "chapters": [
+                    {
+                        "number": 117,
+                        "name": "Mission de sauvetage"
+                    },
+                    {
+                        "number": 118,
+                        "name": "Amitié tordue"
+                    },
+                    {
+                        "number": 119,
+                        "name": "La pire, la plus horrible fin"
+                    },
+                    {
+                        "number": 120,
+                        "name": "Au lieu de vote"
+                    },
+                    {
+                        "number": 121,
+                        "name": "Leader absolu"
+                    }
+                ]
+            },
+            {
+                "number": 26,
+                "chapters": [
+                    {
+                        "number": 122,
+                        "name": "La véritable identité du patron"
+                    },
+                    {
+                        "number": 123,
+                        "name": "Le péché de Yuichi"
+                    },
+                    {
+                        "number": 124,
+                        "name": "L'homme qu'elle aimait le plus"
+                    },
+                    {
+                        "number": 125,
+                        "name": "Fin de la partie"
+                    },
+                    {
+                        "number": 126,
+                        "name": "Le vrai traître"
+                    },
+                    {
+                        "number": 127,
+                        "name": "Resterez-vous amis ?"
                     }
                 ]
             }
