@@ -152390,6 +152390,135 @@
                         "name": "Si j'avais su..."
                     }
                 ]
+            },
+            {
+                "number": 10,
+                "chapters": [
+                    {
+                        "number": 43,
+                        "name": "J'ai une grande annonce à vous faire !"
+                    },
+                    {
+                        "number": 44,
+                        "name": "Tu es donc viré !"
+                    },
+                    {
+                        "number": 45,
+                        "name": "Puisqu'on s'entend mieux..."
+                    },
+                    {
+                        "number": 46,
+                        "name": "J'ai quelque chose d'important à te dire..."
+                    },
+                    {
+                        "number": 47,
+                        "name": "Quelqu'un s'est échappé c'est fini !"
+                    }
+                ]
+            },
+            {
+                "number": 11,
+                "chapters": [
+                    {
+                        "number": 48,
+                        "name": "Il nous faut plus d'argent !"
+                    },
+                    {
+                        "number": 49,
+                        "name": "Nous ne sommes pas tous égaux."
+                    },
+                    {
+                        "number": 50,
+                        "name": "Deuxième visage."
+                    },
+                    {
+                        "number": 51,
+                        "name": "Bah... Ce sera notre secret !"
+                    },
+                    {
+                        "number": 52,
+                        "name": "J'aimerais que vous vous battiez avec moi."
+                    }
+                ]
+            },
+            {
+                "number": 12,
+                "chapters": [
+                    {
+                        "number": 53,
+                        "name": "Si on devait désigner un point faible ce serait toi !"
+                    },
+                    {
+                        "number": 54,
+                        "name": "Cette fois c'est toi qui as perdu !"
+                    },
+                    {
+                        "number": 55,
+                        "name": "Tout le monde respectera ça"
+                    },
+                    {
+                        "number": 56,
+                        "name": "Cette fois c'est joué"
+                    },
+                    {
+                        "number": 57,
+                        "name": "Ta vraie nature est de douter des gens"
+                    }
+                ]
+            },
+            {
+                "number": 13,
+                "chapters": [
+                    {
+                        "number": 58,
+                        "name": "Tu crois gagner comme ça ?"
+                    },
+                    {
+                        "number": 59,
+                        "name": "Vends-toi !"
+                    },
+                    {
+                        "number": 60,
+                        "name": "J'ai peut-être parlé trop vite"
+                    },
+                    {
+                        "number": 61,
+                        "name": "Ce sera une belle partie"
+                    },
+                    {
+                        "number": 62,
+                        "name": "Tu veux vraiment le faire ?"
+                    }
+                ]
+            },
+            {
+                "number": 14,
+                "chapters": [
+                    {
+                        "number": 63,
+                        "name": "Tu me prends pour qui ?"
+                    },
+                    {
+                        "number": 64,
+                        "name": "Maintenant c'est sûr"
+                    },
+                    {
+                        "number": 65,
+                        "name": "Technique infaillible"
+                    },
+                    {
+                        "number": 66,
+                        "name": "À partir de maintenant"
+                    },
+                    {
+                        "number": 67,
+                        "name": "Vous allez vous entretuer"
+                    },
+                    {
+                        "number": 68,
+                        "name": "Se faire des amis"
+                    }
+                ]
             }
         ]
     }
