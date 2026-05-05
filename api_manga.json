@@ -152540,6 +152540,31 @@
                         "name": "Surtout pas ça..."
                     }
                 ]
+            },
+            {
+                "number": 16,
+                "chapters": [
+                    {
+                        "number": 73,
+                        "name": "Tu m'as vue ?"
+                    },
+                    {
+                        "number": 74,
+                        "name": "Se serrer les coudes"
+                    },
+                    {
+                        "number": 75,
+                        "name": "Comme d'habitude"
+                    },
+                    {
+                        "number": 76,
+                        "name": "Lamentable"
+                    },
+                    {
+                        "number": 77,
+                        "name": "Yuichi est dangereux"
+                    }
+                ]
             }
         ]
     }
