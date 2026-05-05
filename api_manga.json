@@ -152340,6 +152340,56 @@
                         "name": "L'amour ou l'argent ?"
                     }
                 ]
+            },
+            {
+                "number": 8,
+                "chapters": [
+                    {
+                        "number": 33,
+                        "name": "Cette fois la vie de Shibe s'arrête ici..."
+                    },
+                    {
+                        "number": 34,
+                        "name": "En fait j'ai menti..."
+                    },
+                    {
+                        "number": 35,
+                        "name": "Essayer de tisser de bonnes relations !"
+                    },
+                    {
+                        "number": 36,
+                        "name": "C'est le résultat qui compte. C'est ça le \"monde adulte\" !"
+                    },
+                    {
+                        "number": 37,
+                        "name": "J'ai une nouvelle qui va vous réjouir !"
+                    }
+                ]
+            },
+            {
+                "number": 9,
+                "chapters": [
+                    {
+                        "number": 38,
+                        "name": "Faites vos calculs... Et nouez de bonnes relations !"
+                    },
+                    {
+                        "number": 39,
+                        "name": "Celui qui tire les ficelles est ailleurs ?"
+                    },
+                    {
+                        "number": 40,
+                        "name": "Tu connais le jeu du Loup-Garou ?"
+                    },
+                    {
+                        "number": 41,
+                        "name": "Alors il faut le virer..."
+                    },
+                    {
+                        "number": 42,
+                        "name": "Si j'avais su..."
+                    }
+                ]
             }
         ]
     }
