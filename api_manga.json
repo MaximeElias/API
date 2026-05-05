@@ -152290,6 +152290,56 @@
                         "name": "C'est vrai que tu ne tiens à rien ?"
                     }
                 ]
+            },
+            {
+                "number": 6,
+                "chapters": [
+                    {
+                        "number": 23,
+                        "name": "Séance spéciale du jeu de l'amitié \"la loi du plus faible\" !"
+                    },
+                    {
+                        "number": 24,
+                        "name": "C'était vraiment la loi du plus faible !"
+                    },
+                    {
+                        "number": 25,
+                        "name": "Papier, papier, papier..."
+                    },
+                    {
+                        "number": 26,
+                        "name": "Vous pouvez refuser ce jeu !"
+                    },
+                    {
+                        "number": 27,
+                        "name": "Vous êtes amis non ?"
+                    }
+                ]
+            },
+            {
+                "number": 7,
+                "chapters": [
+                    {
+                        "number": 28,
+                        "name": "Tu avais quelles relations avec Shibe ?"
+                    },
+                    {
+                        "number": 29,
+                        "name": "Voyons voir ça..."
+                    },
+                    {
+                        "number": 30,
+                        "name": "Tu te moques du tribunal ?"
+                    },
+                    {
+                        "number": 31,
+                        "name": "Vu sa tête c'est fichu..."
+                    },
+                    {
+                        "number": 32,
+                        "name": "L'amour ou l'argent ?"
+                    }
+                ]
             }
         ]
     }
