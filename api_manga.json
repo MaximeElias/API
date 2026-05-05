@@ -152519,6 +152519,27 @@
                         "name": "Se faire des amis"
                     }
                 ]
+            },
+            {
+                "number": 15,
+                "chapters": [
+                    {
+                        "number": 69,
+                        "name": "Hâte d'être au prochain défi"
+                    },
+                    {
+                        "number": 70,
+                        "name": "Ce type est... un monstre."
+                    },
+                    {
+                        "number": 71,
+                        "name": "Chance unique !"
+                    },
+                    {
+                        "number": 72,
+                        "name": "Surtout pas ça..."
+                    }
+                ]
             }
         ]
     }
