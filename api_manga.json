@@ -152171,5 +152171,55 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 436,
+        "title": "Friends Games",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/11/friends_games_4511.webp?1746474178",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Hum ? Tu doutes de tes amis Yuîchi ?"
+                    },
+                    {
+                        "number": 2,
+                        "name": "La réponse à cette question est « oui » !"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Vous avez fini de causer depuis le temps ?!?"
+                    },
+                    {
+                        "number": 4,
+                        "name": "J'ai une petite inquiétude..."
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 5,
+                        "name": "Vous avez sans doute plein de choses à vous dire n'est-ce pas ?"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Cette fois je ne peux pas croire ça..."
+                    },
+                    {
+                        "number": 7,
+                        "name": "Shibe tu es sérieux ?!?"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Tu es sûr que ça va Ken ?"
+                    }
+                ]
+            }
+        ]
     }
 ]
