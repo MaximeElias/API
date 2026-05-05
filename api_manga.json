@@ -152213,10 +152213,81 @@
                     {
                         "number": 7,
                         "name": "Shibe tu es sérieux ?!?"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
                     {
                         "number": 8,
-                        "name": "Tu es sûr que ça va Ken ?"
+                        "name": "Tu es plutôt bête Yûichi non ?"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Voici la dernière médisance !"
+                    },
+                    {
+                        "number": 10,
+                        "name": "C'est un peu rapide mais le jeu s'arrête ici !"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Désolé je ne peux pas être ami avec un criminel..."
+                    },
+                    {
+                        "number": 12,
+                        "name": "Tu vas me rembourser 20 millions de yens de ta vie..."
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "chapters": [
+                    {
+                        "number": 13,
+                        "name": "La dette du groupe C est de 10 800 000 yens !"
+                    },
+                    {
+                        "number": 14,
+                        "name": "Attendre, attendre, attendre... C'est ça, le \"cache-cache de l'amitié\" !"
+                    },
+                    {
+                        "number": 15,
+                        "name": "C'est \"celui qui cherche\" qui doit apporter à manger à \"celui qui se cache\" !"
+                    },
+                    {
+                        "number": 16,
+                        "name": "Grouille-toi de retourner ta veste !"
+                    },
+                    {
+                        "number": 17,
+                        "name": "Ca commence à devenir marrant !"
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "chapters": [
+                    {
+                        "number": 18,
+                        "name": "C'est vrai c'est de la violence."
+                    },
+                    {
+                        "number": 19,
+                        "name": "3e jeu terminé !"
+                    },
+                    {
+                        "number": 20,
+                        "name": "Bon on publie les résultats ?"
+                    },
+                    {
+                        "number": 21,
+                        "name": "\"Interdiction d'en parler\" et \"Inutile de fuir\" compris ?"
+                    },
+                    {
+                        "number": 22,
+                        "name": "C'est vrai que tu ne tiens à rien ?"
                     }
                 ]
             }
