@@ -152665,6 +152665,54 @@
                         "name": "Assumer sa justice"
                     }
                 ]
+            },
+            {
+                "number": 21,
+                "chapters": [{
+                        "number": 98,
+                        "name": "Nous devons réduire le nombre de personnes"
+                    },
+                    {
+                        "number": 99,
+                        "name": "Réunion de grande visibilité"
+                    },
+                    {
+                        "number": 100,
+                        "name": "Les origines du jeu"
+                    },
+                    {
+                        "number": 101,
+                        "name": "Aide"
+                    },
+                    {
+                        "number": 102,
+                        "name": "Déjà vu"
+                    }]
+            },
+            {
+                "number": 22,
+                "chapters": [
+                    {
+                        "number": 103,
+                        "name": "Un lâche"
+                    },
+                    {
+                        "number": 104,
+                        "name": "Décision finale concernant les personnes à exiler"
+                    },
+                    {
+                        "number": 105,
+                        "name": "La pire racaille de la Terre"
+                    },
+                    {
+                        "number": 106,
+                        "name": "Cadeau"
+                    },
+                    {
+                        "number": 107,
+                        "name": "La folie appelée normalité"
+                    }
+                ]
             }
         ]
     }
