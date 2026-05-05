@@ -152565,6 +152565,106 @@
                         "name": "Yuichi est dangereux"
                     }
                 ]
+            },
+            {
+                "number": 17,
+                "chapters": [
+                    {
+                        "number": 78,
+                        "name": "C'est vraiment la fin"
+                    },
+                    {
+                        "number": 79,
+                        "name": "Ne plus en trouver le sommeil"
+                    },
+                    {
+                        "number": 80,
+                        "name": "Chasse à l'homme"
+                    },
+                    {
+                        "number": 81,
+                        "name": "Le meilleur choix"
+                    },
+                    {
+                        "number": 82,
+                        "name": "Alors crève"
+                    }
+                ]
+            },
+            {
+                "number": 18,
+                "chapters": [
+                    {
+                        "number": 83,
+                        "name": "Quelle perte de temps"
+                    },
+                    {
+                        "number": 84,
+                        "name": "Pas digne"
+                    },
+                    {
+                        "number": 85,
+                        "name": "Il va falloir choisir"
+                    },
+                    {
+                        "number": 86,
+                        "name": "Qui est encore en lice ?"
+                    },
+                    {
+                        "number": 87,
+                        "name": "Cette fois c'est la dernière chance"
+                    }
+                ]
+            },
+            {
+                "number": 19,
+                "chapters": [
+                    {
+                        "number": 88,
+                        "name": "Dernier jeu"
+                    },
+                    {
+                        "number": 89,
+                        "name": "Le jeu le plus cruel"
+                    },
+                    {
+                        "number": 90,
+                        "name": "Echange de mots de passe"
+                    },
+                    {
+                        "number": 91,
+                        "name": "Faire semer le doute"
+                    },
+                    {
+                        "number": 92,
+                        "name": "Défendre la justice"
+                    }
+                ]
+            },
+            {
+                "number": 20,
+                "chapters": [
+                    {
+                        "number": 93,
+                        "name": "Soupçon de meurtre"
+                    },
+                    {
+                        "number": 94,
+                        "name": "Tribunal de justice"
+                    },
+                    {
+                        "number": 95,
+                        "name": "Plus qu'un ami"
+                    },
+                    {
+                        "number": 96,
+                        "name": "Procès tyrannique"
+                    },
+                    {
+                        "number": 97,
+                        "name": "Assumer sa justice"
+                    }
+                ]
             }
         ]
     }
