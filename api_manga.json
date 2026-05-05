@@ -152130,5 +152130,46 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 435,
+        "title": "Betrayal Games",
+        "status": "Terminé",
+        "coverUrl": "https://i.postimg.cc/K8dXqszR/Capture-d-ecran-2026-05-05-200348.png",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Astara"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Deina"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Siméon"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Aurélie"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Angel"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Néo"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Neige"
+                    }
+                ]
+            }
+        ]
     }
 ]
