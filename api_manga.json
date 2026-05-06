@@ -154562,8 +154562,8 @@
     {
         "id": 442,
         "title": "Unnamed Memory",
-        "status": "Terminé",
-        "coverUrl": "https://www.goodreads.com/book/show/216342959-the-lady-with-a-mask",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/94/unnamed_memory_18649.webp?1743196078",
         "volumes": [
             {
                 "number": 1,
@@ -154843,7 +154843,15 @@
                         "name": "La Nuit des Serres Coupées"
                     }
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "id": 443,
+        "title": "Bas les Masques !",
+        "status": "Terminé",
+        "coverUrl": "https://www.goodreads.com/book/show/216342959-the-lady-with-a-mask",
+        "volumes": [,
             {
                 "number": 0,
                 "chapters": [
@@ -155070,12 +155078,5 @@
                 ]
             }
         ]
-    },
-    {
-        "id": 443,
-        "title": "Bas les Masques !",
-        "status": "En cours",
-        "coverUrl": "",
-        "volumes": []
     }
 ]
