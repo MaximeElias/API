@@ -154383,5 +154383,110 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 439,
+        "title": "TenPuru",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/00/01/tenpuru_142210.webp?1739444760",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Je me ferai moine !"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Examen d'entrée"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Destinée"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Pervers"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Rush au clair de lune"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Panique dans les vestiaires"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Désolée"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Kurage la troisième fille"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Ne pas laisser tomber"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            },
+            {
+                "number": 7,
+                "chapters": []
+            },
+            {
+                "number": 8,
+                "chapters": []
+            },
+            {
+                "number": 9,
+                "chapters": []
+            },
+            {
+                "number": 10,
+                "chapters": []
+            },
+            {
+                "number": 11,
+                "chapters": []
+            },
+            {
+                "number": 12,
+                "chapters": []
+            },
+            {
+                "number": 13,
+                "chapters": []
+            },
+            {
+                "number": 14,
+                "chapters": []
+            },
+            {
+                "number": 15,
+                "chapters": []
+            }
+        ]
     }
 ]
