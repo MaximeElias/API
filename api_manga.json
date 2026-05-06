@@ -154533,5 +154533,30 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 441,
+        "title": "The Last Elf",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/65/the_last_elf_27256.webp?1746010415",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            }
+        ]
     }
 ]
