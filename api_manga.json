@@ -158558,6 +158558,27 @@
             {
                 "number": 3,
                 "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 457,
+        "title": "Sword Art Online - Arc 4 - Calibur",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/65/sword_art_online_-_calibur_4256.webp?1717392791",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
             }
         ]
     }
