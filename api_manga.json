@@ -158808,7 +158808,7 @@
     },
     {
         "id": 462,
-        "title": "Sword Art Online - Progressive Arc 2",
+        "title": "Sword Art Online - Progressive Arc 2 : Transient Barcarolle",
         "status": "Terminé",
         "coverUrl": "https://www.nautiljon.com/images/manga/00/79/mini/sword_art_online_-_progressive_arc_2_transient_barcarolle_10397.webp?11717360669",
         "volumes": [
@@ -158829,7 +158829,7 @@
     },
     {
         "id": 463,
-        "title": "Sword Art Online - Progressive Arc 3",
+        "title": "Sword Art Online - Progressive Arc 3 : Scherzo of Deep Night",
         "status": "Terminé",
         "coverUrl": "https://www.nautiljon.com/images/manga/00/05/mini/sword_art_online_-_progressive_-_kuraki_yuuyami_no_scherzo_20350.webp?11723223799",
         "volumes": [
@@ -158849,6 +158849,64 @@
             {
                 "number": 3,
                 "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 464,
+        "title": "Sword Art Online - Progressive Arc 4",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/16/sword_art_online_-_progressive_-_kogane_ritsu_no_kanon_20361.webp?1727717389",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Chapitre 9"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Chapitre 10"
+                    }
+                ]
             }
         ]
     }
