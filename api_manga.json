@@ -158826,5 +158826,30 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 463,
+        "title": "Sword Art Online - Progressive Arc 3",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/05/mini/sword_art_online_-_progressive_-_kuraki_yuuyami_no_scherzo_20350.webp?11723223799",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            }
+        ]
     }
 ]
