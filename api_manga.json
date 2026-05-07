@@ -24582,7 +24582,7 @@
     {
         "id": 55,
         "title": "B-Side",
-        "status": "En cours",
+        "status": "Terminé",
         "coverUrl": "https://www.nautiljon.com/images/manga/00/53/mini/b-side_24735.webp?11717766090",
         "volumes": [
             {
@@ -108586,7 +108586,12 @@
                     {
                         "number": 1,
                         "name": "Chapitre 1"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
                     {
                         "number": 2,
                         "name": "Chapitre 2"
@@ -128781,7 +128786,7 @@
         "id": 349,
         "title": "Never Surrender",
         "status": "En cours",
-        "coverUrl": "https://www.nautiljon.com/images/manga/00/08/neon_genesis_evangelion_280.webp?1772718958",
+        "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaISqN2j_RlqwChvn9yOUNyw5apWUlx8hQIw&s",
         "volumes": [
             {
                 "number": 1,
@@ -138615,7 +138620,7 @@
     },
     {
         "id": 396,
-        "title": "Rent-a--Girlfriend",
+        "title": "Rent-a-Girlfriend",
         "status": "En cours",
         "coverUrl": "https://www.nautiljon.com/images/manga/00/67/rent-a-girlfriend_8176.webp?1739726766",
         "volumes": [
