@@ -158768,7 +158768,7 @@
     {
         "id": 461,
         "title": "Sword Art Online - Progressive",
-        "status": "En cours",
+        "status": "Terminé",
         "coverUrl": "https://www.nautiljon.com/images/manga/00/39/mini/sword_art_online_-_progressive_3893.webp?11717360439",
         "volumes": [
             {
@@ -158802,6 +158802,27 @@
             },
             {
                 "number": 7,
+                "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 462,
+        "title": "Sword Art Online - Progressive Arc 2",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/79/mini/sword_art_online_-_progressive_arc_2_transient_barcarolle_10397.webp?11717360669",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
                 "chapters": []
             }
         ]
