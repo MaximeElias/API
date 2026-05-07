@@ -158764,5 +158764,46 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 461,
+        "title": "Sword Art Online - Progressive",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/39/mini/sword_art_online_-_progressive_3893.webp?11717360439",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            },
+            {
+                "number": 7,
+                "chapters": []
+            }
+        ]
     }
 ]
