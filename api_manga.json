@@ -155083,5 +155083,26 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 444,
+        "title": "Spice & Wolf",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/92/spice_wolf_-_wolf_parchment_12829.webp?1776271957",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            }
+        ]
     }
 ]
