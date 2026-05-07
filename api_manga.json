@@ -158510,5 +158510,30 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 455,
+        "title": "Sword Art Online - Arc 2 - Fairy Dance",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/00/87/20478.webp?1648413325",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            }
+        ]
     }
 ]
