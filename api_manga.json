@@ -158489,5 +158489,26 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 454,
+        "title": "Sword Art Online - Arc 1 - Aincrad",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/00/09/19890.webp?1415955714",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            }
+        ]
     }
 ]
