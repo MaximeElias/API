@@ -158126,5 +158126,76 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 452,
+        "title": "Sweet Psycho",
+        "status": "En cours",
+        "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTNBQHFS_nUtaWTjOgjuiUL-7BV9BrNko63g&s",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Bye Bye Baby"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Sylvester"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Programme Ézechiel"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Cruel Summer"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 5,
+                        "name": "Sympathy for the Devil"
+                    },
+                    {
+                        "number": 6,
+                        "name": "L'Égorgeur de Menhatton"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Japanese Boy"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Cake à la Citrouille et Ricochet Sanglant"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
+                    {
+                        "number": 9,
+                        "name": "Les Garçon ne Pleurent pas"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Ellie"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Sinnerman"
+                    },
+                    {
+                        "number": 12,
+                        "name": "Escape"
+                    }
+                ]
+            }
+        ]
     }
 ]
