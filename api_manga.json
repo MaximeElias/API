@@ -160958,5 +160958,96 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 473,
+        "title": "The Dark Saint",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/12/the_dark_saint_23621.webp?1718719187",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Ceux qui perdent leur rôle seront expulsés du groupe"
+                    },
+                    {
+                        "number": 2,
+                        "name": "La face cachée de mes meilleurs amis"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Il est impossible de ne pas douter de quelqu'un qui affirme ne pas être suspect"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Les choses perdues à jamais"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Aujourd'hui commence"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 6,
+                        "name": "Le courage et l'histoire de cet oiseau ainsi que la déesse en laquelle il croyait"
+                    },
+                    {
+                        "number": 7,
+                        "name": "La personne à laquelle vous vous attendez le moins pourrait bien être votre salut"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Je ne l'ai pas surmonté mais je continue de progresser"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Transformer les attentes de votre partenaire de confiance en votre propre force"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Apprendre à éviter le danger"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Plus la routine quotidienne est monotone plus le léger sentiment de malaise est grand"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
+                    {
+                        "number": 12,
+                        "name": "Le soulagement d'être assuré que je ne suis pas la personne de mes souvenirs"
+                    },
+                    {
+                        "number": 13,
+                        "name": "Je le ressens en combattant le boss de l'étage ma propre progression et la force de mon partenaire"
+                    },
+                    {
+                        "number": 14,
+                        "name": "Le plan du Roi Démon le savoir de la Déesse et mon pouvoir"
+                    },
+                    {
+                        "number": 15,
+                        "name": "Le combat contre le Roi Démon mes véritables sentiments et ma transformation"
+                    },
+                    {
+                        "number": 16,
+                        "name": "Emmy"
+                    },
+                    {
+                        "number": 17,
+                        "name": "Aujourd'hui nous repartons à zéro"
+                    }
+                ]
+            }
+        ]
     }
 ]
