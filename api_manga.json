@@ -159280,5 +159280,184 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 469,
+        "title": "The Alexis Empire Chronicle",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/69/the_alexis_empire_chronicle_15396.webp?1718719168",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Le grand prologue (1)"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Le grand prologue (2)"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Le grand prologue (3)"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Folklore (1)"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Folklore (2)"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 6,
+                        "name": "Folklore (3)"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Une occasion en or"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Braises"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Alan Eïdonia"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Chacun ses résolutions"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
+                    {
+                        "number": 11,
+                        "name": "La bataille d'Eïdonia (1)"
+                    },
+                    {
+                        "number": 12,
+                        "name": "La bataille d'Eïdonia (2)"
+                    },
+                    {
+                        "number": 13,
+                        "name": "La bataille d'Eïdonia (3)"
+                    },
+                    {
+                        "number": 14,
+                        "name": "La bataille d'Eïdonia (4)"
+                    },
+                    {
+                        "number": 15,
+                        "name": "La bataille d'Eïdonia (5)"
+                    },
+                    {
+                        "number": 16,
+                        "name": "La mine de Line (1)"
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "chapters": [
+                    {
+                        "number": 17,
+                        "name": "La mine de Line (2)"
+                    },
+                    {
+                        "number": 18,
+                        "name": "La mine de Line (3)"
+                    },
+                    {
+                        "number": 19,
+                        "name": "La mine de Line (4)"
+                    },
+                    {
+                        "number": 20,
+                        "name": "Nouvelle résolution"
+                    },
+                    {
+                        "number": 21,
+                        "name": "La grande révolte (1)"
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "chapters": [
+                    {
+                        "number": 22,
+                        "name": "La grande révolte (2)"
+                    },
+                    {
+                        "number": 23,
+                        "name": "La grande révolte (3)"
+                    },
+                    {
+                        "number": 24,
+                        "name": "La grande révolte (4)"
+                    },
+                    {
+                        "number": 25,
+                        "name": "La grande révolte (5)"
+                    },
+                    {
+                        "number": 26,
+                        "name": "La grande révolte (6)"
+                    }
+                ]
+            },
+            {
+                "number": 6,
+                "chapters": [
+                    {
+                        "number": 27,
+                        "name": "La grande révolte (7)"
+                    },
+                    {
+                        "number": 28,
+                        "name": "La grande révolte (8)"
+                    },
+                    {
+                        "number": 29,
+                        "name": "La grande révolte (9)"
+                    },
+                    {
+                        "number": 30,
+                        "name": "La grande révolte (10)"
+                    },
+                    {
+                        "number": 31,
+                        "name": "La grande révolte (11)"
+                    }
+                ]
+            },
+            {
+                "number": 7,
+                "chapters": [
+                    {
+                        "number": 32,
+                        "name": "La grande révolte (12)"
+                    },
+                    {
+                        "number": 33,
+                        "name": "La grande révolte (13)"
+                    },
+                    {
+                        "number": 34,
+                        "name": "La grande révolte (14)"
+                    }
+                ]
+            }
+        ]
     }
 ]
