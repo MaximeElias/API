@@ -160721,5 +160721,242 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 472,
+        "title": "The Bugle Call",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/90/the_bugle_call_24309.webp?1774189735",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Un son ensorceleur"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Les deux tours"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Fanfare"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 4,
+                        "name": "Première expédition"
+                    },
+                    {
+                        "number": 5,
+                        "name": "La bataille du fort de Cannoli (1)"
+                    },
+                    {
+                        "number": 6,
+                        "name": "La bataille du fort de Cannoli (2)"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Une lueur dans le ciel nocturne"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
+                    {
+                        "number": 8,
+                        "name": "Couronnes de fleurs"
+                    },
+                    {
+                        "number": 9,
+                        "name": "La maison aux miroirs"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Risques d'orage"
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "chapters": [
+                    {
+                        "number": 11,
+                        "name": "Boy meets lady"
+                    },
+                    {
+                        "number": 12,
+                        "name": "Une jolie coquille vide"
+                    },
+                    {
+                        "number": 13,
+                        "name": "Floraison"
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "chapters": [
+                    {
+                        "number": 14,
+                        "name": "Projets d'avenir"
+                    },
+                    {
+                        "number": 15,
+                        "name": "En route pour le pays des esclaves"
+                    },
+                    {
+                        "number": 16,
+                        "name": "Le pays de la légion"
+                    }
+                ]
+            },
+            {
+                "number": 6,
+                "chapters": [
+                    {
+                        "number": 17,
+                        "name": "Guerre en zone sainte"
+                    },
+                    {
+                        "number": 18,
+                        "name": "Un abri au sec"
+                    },
+                    {
+                        "number": 19,
+                        "name": "Rêve de musique"
+                    }
+                ]
+            },
+            {
+                "number": 7,
+                "chapters": [
+                    {
+                        "number": 20,
+                        "name": "Chapitre 20"
+                    },
+                    {
+                        "number": 21,
+                        "name": "Chapitre 21"
+                    },
+                    {
+                        "number": 22,
+                        "name": "Chapitre 22"
+                    },
+                    {
+                        "number": 23,
+                        "name": "Chapitre 23"
+                    }
+                ]
+            },
+            {
+                "number": 8,
+                "chapters": [
+                    {
+                        "number": 24,
+                        "name": "Chapitre 24"
+                    },
+                    {
+                        "number": 25,
+                        "name": "Chapitre 25"
+                    },
+                    {
+                        "number": 26,
+                        "name": "Chapitre 26"
+                    }
+                ]
+            },
+            {
+                "number": 9,
+                "chapters": [
+                    {
+                        "number": 27,
+                        "name": "Chapitre 27"
+                    },
+                    {
+                        "number": 28,
+                        "name": "Chapitre 28"
+                    },
+                    {
+                        "number": 29,
+                        "name": "Chapitre 29"
+                    }
+                ]
+            },
+            {
+                "number": 10,
+                "chapters": [
+                    {
+                        "number": 30,
+                        "name": "Chapitre 30"
+                    },
+                    {
+                        "number": 31,
+                        "name": "Chapitre 31"
+                    },
+                    {
+                        "number": 32,
+                        "name": "Chapitre 32"
+                    }
+                ]
+            },
+            {
+                "number": 11,
+                "chapters": [
+                    {
+                        "number": 33,
+                        "name": "Chapitre 33"
+                    },
+                    {
+                        "number": 34,
+                        "name": "Chapitre 34"
+                    },
+                    {
+                        "number": 35,
+                        "name": "Chapitre 35"
+                    }
+                ]
+            },
+            {
+                "number": 12,
+                "chapters": [
+                    {
+                        "number": 36,
+                        "name": "Chapitre 36"
+                    },
+                    {
+                        "number": 37,
+                        "name": "Chapitre 37"
+                    },
+                    {
+                        "number": 38,
+                        "name": "Chapitre 38"
+                    }
+                ]
+            },
+            {
+                "number": 13,
+                "chapters": [
+                    {
+                        "number": 39,
+                        "name": "Chapitre 39"
+                    },
+                    {
+                        "number": 40,
+                        "name": "Chapitre 40"
+                    },
+                    {
+                        "number": 41,
+                        "name": "Chapitre 41"
+                    }
+                ]
+            }
+        ]
     }
 ]
