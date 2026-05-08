@@ -159122,8 +159122,8 @@
     },
     {
         "id": 466,
-        "title": "Sword Art Online",
-        "status": "En cours",
+        "title": "Sword Art Online : Alicization Lycoris",
+        "status": "Terminé",
         "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/08/sword_art_online_-_re_aincrad_1965180.webp?1776871068",
         "volumes": [
             {
@@ -159204,6 +159204,80 @@
                         "name": "Ce qui est transmis"
                     }
                 ]
+            }
+        ]
+    },
+    {
+        "id": 467,
+        "title": "Sword Art Online : Girls' Ops",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/85/mini/sword_art_online_-_girls_ops_5258.webp?11717360531",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            },
+            {
+                "number": 7,
+                "chapters": []
+            },
+            {
+                "number": 8,
+                "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 468,
+        "title": "Sword Art Online Alternative - Gun Gale Online",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/75/mini/sword_art_online_alternative_-_gun_gale_online_5257.webp?11664352053",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
             }
         ]
     }
