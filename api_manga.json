@@ -159284,8 +159284,8 @@
     {
         "id": 469,
         "title": "The Alexis Empire Chronicle",
-        "status": "En cours",
-        "coverUrl": "https://static.wikia.nocookie.net/novels-xianxiaxuanhuan/images/2/22/Return-Calamity-Class-Death-Knight-covee.webp/revision/latest?cb=20260121110340",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/69/the_alexis_empire_chronicle_15396.webp?1718719168",
         "volumes": [
             {
                 "number": 1,
@@ -159457,7 +159457,15 @@
                         "name": "La grande révolte (14)"
                     }
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "id": 470,
+        "title": "The Apocalypse Death Knight Returns",
+        "status": "En cours",
+        "coverUrl": "https://static.wikia.nocookie.net/novels-xianxiaxuanhuan/images/2/22/Return-Calamity-Class-Death-Knight-covee.webp/revision/latest?cb=20260121110340",
+        "volumes": [
             {
                 "number": 0,
                 "chapters": [
@@ -159744,12 +159752,5 @@
                 ]
             }
         ]
-    },
-    {
-        "id": 470,
-        "title": "The Apocalypse Death Knight Returns",
-        "status": "En cours",
-        "coverUrl": "",
-        "volumes": []
     }
 ]
