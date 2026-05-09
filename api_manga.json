@@ -167593,5 +167593,396 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 485,
+        "title": "The Legendary Hero is Dead!",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/63/the_legendary_hero_is_dead_6836.webp?1744536187",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Le Héros de l'Épée Sacrée"
+                    },
+                    {
+                        "number": 2,
+                        "name": "La Nécromancienne"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Le Pouvoir du Héros"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Mana"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Expédition"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Le Cœur d'un Démon"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Morphose"
+                    },
+                    {
+                        "number": 8,
+                        "name": "La Valeur d'un Humain"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Le Cœur d'Anri"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Passion"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 11,
+                        "name": "Le Héros Squelette"
+                    },
+                    {
+                        "number": 12,
+                        "name": "Fiançailles"
+                    },
+                    {
+                        "number": 13,
+                        "name": "Goûter"
+                    },
+                    {
+                        "number": 14,
+                        "name": "Carence Magique"
+                    },
+                    {
+                        "number": 15,
+                        "name": "Le Médecin de la Cour"
+                    },
+                    {
+                        "number": 16,
+                        "name": "Le Salut"
+                    },
+                    {
+                        "number": 17,
+                        "name": "Le Héros est Mort"
+                    },
+                    {
+                        "number": 18,
+                        "name": "Imposteur"
+                    },
+                    {
+                        "number": 19,
+                        "name": "Déni"
+                    },
+                    {
+                        "number": 20,
+                        "name": "Fiancée"
+                    },
+                    {
+                        "number": 21,
+                        "name": "Catacombes"
+                    },
+                    {
+                        "number": 22,
+                        "name": "Fluides"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
+                    {
+                        "number": 23,
+                        "name": "Bonnes Manières"
+                    },
+                    {
+                        "number": 24,
+                        "name": "À Cause de vos Mensonges"
+                    },
+                    {
+                        "number": 25,
+                        "name": "Chariot Magique"
+                    },
+                    {
+                        "number": 26,
+                        "name": "Ville de Campagne"
+                    },
+                    {
+                        "number": 27,
+                        "name": "Infection"
+                    },
+                    {
+                        "number": 28,
+                        "name": "Survivants"
+                    },
+                    {
+                        "number": 29,
+                        "name": "Possession"
+                    },
+                    {
+                        "number": 30,
+                        "name": "Le Corps de Yuna"
+                    },
+                    {
+                        "number": 31,
+                        "name": "Arc Magique"
+                    },
+                    {
+                        "number": 32,
+                        "name": "La Pièce Blindée"
+                    },
+                    {
+                        "number": 33,
+                        "name": "Combat sur le Toit"
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "chapters": [
+                    {
+                        "number": 34,
+                        "name": "Vengeance"
+                    },
+                    {
+                        "number": 35,
+                        "name": "Ennemi"
+                    },
+                    {
+                        "number": 36,
+                        "name": "24 Heures"
+                    },
+                    {
+                        "number": 37,
+                        "name": "Talent Magique"
+                    },
+                    {
+                        "number": 38,
+                        "name": "Chasse à l'Homme"
+                    },
+                    {
+                        "number": 39,
+                        "name": "Brouillard"
+                    },
+                    {
+                        "number": 40,
+                        "name": "Extermination"
+                    },
+                    {
+                        "number": 41,
+                        "name": "Maître"
+                    },
+                    {
+                        "number": 42,
+                        "name": "L'Atelier de l'Ingénieur Magique"
+                    },
+                    {
+                        "number": 43,
+                        "name": "Si c'est Comme Autrefois"
+                    },
+                    {
+                        "number": 44,
+                        "name": "Voyage Temporel"
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "chapters": [
+                    {
+                        "number": 45,
+                        "name": "Le monde des souvenirs (1)"
+                    },
+                    {
+                        "number": 46,
+                        "name": "Le monde des souvenirs (2)"
+                    },
+                    {
+                        "number": 47,
+                        "name": "Le monde des souvenirs (3)"
+                    },
+                    {
+                        "number": 48,
+                        "name": "Les Mages-Guerriers"
+                    },
+                    {
+                        "number": 49,
+                        "name": "Le Trésor du Maire"
+                    },
+                    {
+                        "number": 50,
+                        "name": "Destination Erbania"
+                    },
+                    {
+                        "number": 51,
+                        "name": "Entrée Fracassante"
+                    },
+                    {
+                        "number": 52,
+                        "name": "Infiltration"
+                    },
+                    {
+                        "number": 53,
+                        "name": "La Reine"
+                    }
+                ]
+            },
+            {
+                "number": 6,
+                "chapters": [
+                    {
+                        "number": 54,
+                        "name": "Promesse"
+                    },
+                    {
+                        "number": 55,
+                        "name": "Géant"
+                    },
+                    {
+                        "number": 56,
+                        "name": "Les Règles de l'Art"
+                    },
+                    {
+                        "number": 57,
+                        "name": "Absorption"
+                    },
+                    {
+                        "number": 58,
+                        "name": "Frissons"
+                    },
+                    {
+                        "number": 59,
+                        "name": "Indigestion"
+                    },
+                    {
+                        "number": 60,
+                        "name": "Retrouvailles"
+                    },
+                    {
+                        "number": 61,
+                        "name": "Le Monde de l'Épée Sacrée"
+                    },
+                    {
+                        "number": 62,
+                        "name": "Annihilation"
+                    },
+                    {
+                        "number": 63,
+                        "name": "Sur un Pied d'Égalité"
+                    }
+                ]
+            },
+            {
+                "number": 7,
+                "chapters": [
+                    {
+                        "number": 64,
+                        "name": "Vacances à la Plage"
+                    },
+                    {
+                        "number": 65,
+                        "name": "Le Sage"
+                    },
+                    {
+                        "number": 66,
+                        "name": "Les Monstres"
+                    },
+                    {
+                        "number": 67,
+                        "name": "J'ai Essayé de Séduire Toka et Voilà le Résultat"
+                    },
+                    {
+                        "number": 68,
+                        "name": "Responsabilité"
+                    },
+                    {
+                        "number": 69,
+                        "name": "Compagnon"
+                    },
+                    {
+                        "number": 70,
+                        "name": "L'Arbre à Monstres"
+                    },
+                    {
+                        "number": 71,
+                        "name": "Compagnon Indigne"
+                    },
+                    {
+                        "number": 72,
+                        "name": "Début de l'Entraînement"
+                    },
+                    {
+                        "number": 73,
+                        "name": "Dans le Grand Arbre"
+                    },
+                    {
+                        "number": 74,
+                        "name": "Ripley"
+                    }
+                ]
+            },
+            {
+                "number": 8,
+                "chapters": []
+            },
+            {
+                "number": 9,
+                "chapters": []
+            },
+            {
+                "number": 10,
+                "chapters": []
+            },
+            {
+                "number": 11,
+                "chapters": []
+            },
+            {
+                "number": 12,
+                "chapters": []
+            },
+            {
+                "number": 13,
+                "chapters": []
+            },
+            {
+                "number": 14,
+                "chapters": []
+            },
+            {
+                "number": 15,
+                "chapters": []
+            },
+            {
+                "number": 16,
+                "chapters": []
+            },
+            {
+                "number": 17,
+                "chapters": []
+            },
+            {
+                "number": 18,
+                "chapters": []
+            },
+            {
+                "number": 19,
+                "chapters": []
+            },
+            {
+                "number": 20,
+                "chapters": []
+            }
+        ]
     }
 ]
