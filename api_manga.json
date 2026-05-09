@@ -165932,5 +165932,675 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 481,
+        "title": "The Godslaying Demon King",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/26/the_godslaying_demon_king_28862.webp?1747494404",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Chapitre 9"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
+                    {
+                        "number": 10,
+                        "name": "Chapitre 10"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Chapitre 11"
+                    },
+                    {
+                        "number": 12,
+                        "name": "Chapitre 12"
+                    },
+                    {
+                        "number": 13,
+                        "name": "Chapitre 13"
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 482,
+        "title": "My Hero Academia - Vigilante",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/75/vigilante_-_my_hero_academia_illegals_7457.webp?1743346498",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Je suis là"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Envol"
+                    },
+                    {
+                        "number": 3,
+                        "name": "On m'Appelait \"Gentle-Man\""
+                    },
+                    {
+                        "number": 4,
+                        "name": "Visage à Nu"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Abeilles"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 6,
+                        "name": "On ne Fait pas dans la Dentelle"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Top Runner"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Mon Sauveur"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Exécution"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Cris de Détresse"
+                    },
+                    {
+                        "number": 11,
+                        "name": "La Ligne"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
+                    {
+                        "number": 12,
+                        "name": "Copine de Face"
+                    },
+                    {
+                        "number": 13,
+                        "name": "Makoto"
+                    },
+                    {
+                        "number": 14,
+                        "name": "Ligue Majeure"
+                    },
+                    {
+                        "number": 15,
+                        "name": "Playboy"
+                    },
+                    {
+                        "number": 16,
+                        "name": "Une Mère Difficile"
+                    },
+                    {
+                        "number": 17,
+                        "name": "Tandem"
+                    },
+                    {
+                        "number": 18,
+                        "name": "Motivation ! Accélération !"
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "chapters": [
+                    {
+                        "number": 19,
+                        "name": "Famille"
+                    },
+                    {
+                        "number": 20,
+                        "name": "Concert"
+                    },
+                    {
+                        "number": 21,
+                        "name": "Formation d'un Groupe"
+                    },
+                    {
+                        "number": 22,
+                        "name": "Le Jour J"
+                    },
+                    {
+                        "number": 23,
+                        "name": "Paternité"
+                    },
+                    {
+                        "number": 24,
+                        "name": "Entre Père et Fille"
+                    },
+                    {
+                        "number": 25,
+                        "name": "Adieu Papa !"
+                    },
+                    {
+                        "number": 26,
+                        "name": "Tamao"
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "chapters": [
+                    {
+                        "number": 27,
+                        "name": "La Routine Habituelle"
+                    },
+                    {
+                        "number": 28,
+                        "name": "Entre ses Mains"
+                    },
+                    {
+                        "number": 29,
+                        "name": "Options d'Armement"
+                    },
+                    {
+                        "number": 30,
+                        "name": "Demande de Collaboration"
+                    },
+                    {
+                        "number": 31,
+                        "name": "Excursion à Osaka"
+                    },
+                    {
+                        "number": 32,
+                        "name": "Cette Chanteuse a un Secret"
+                    },
+                    {
+                        "number": 33,
+                        "name": "Un Truc pas Net"
+                    },
+                    {
+                        "number": 34,
+                        "name": "Crabs Attack!"
+                    },
+                    {
+                        "number": 35,
+                        "name": "Au Revoir Osaka"
+                    }
+                ]
+            },
+            {
+                "number": 6,
+                "chapters": [
+                    {
+                        "number": 36,
+                        "name": "On va se les Arracher !"
+                    },
+                    {
+                        "number": 37,
+                        "name": "Sphère Publique Sphère Privée"
+                    },
+                    {
+                        "number": 38,
+                        "name": "Supersonique"
+                    },
+                    {
+                        "number": 39,
+                        "name": "Un Homme Pragmatique"
+                    },
+                    {
+                        "number": 40,
+                        "name": "Combattre Rationnellement"
+                    },
+                    {
+                        "number": 41,
+                        "name": "Technique Spéciale"
+                    },
+                    {
+                        "number": 42,
+                        "name": "Group Dating"
+                    },
+                    {
+                        "number": 43,
+                        "name": "Un Don Juan est Né !"
+                    },
+                    {
+                        "number": 44,
+                        "name": "Clandestin"
+                    }
+                ]
+            },
+            {
+                "number": 7,
+                "chapters": [
+                    {
+                        "number": 45,
+                        "name": "Le Retour"
+                    },
+                    {
+                        "number": 46,
+                        "name": "Le Héros du Réveillon"
+                    },
+                    {
+                        "number": 47,
+                        "name": "Préparatifs"
+                    },
+                    {
+                        "number": 48,
+                        "name": "Début de l'Enquête... ou Prémices de l'Amour ?"
+                    },
+                    {
+                        "number": 49,
+                        "name": "Que le Spectacle Commence !"
+                    },
+                    {
+                        "number": 50,
+                        "name": "Il Faut Défendre la Tour !"
+                    },
+                    {
+                        "number": 51,
+                        "name": "Chacun son Rôle"
+                    },
+                    {
+                        "number": 52,
+                        "name": "Cœur de Baudruche"
+                    },
+                    {
+                        "number": 53,
+                        "name": "Épuisement et Catastrophe"
+                    }
+                ]
+            },
+            {
+                "number": 8,
+                "chapters": [
+                    {
+                        "number": 54,
+                        "name": "Ligne Directe"
+                    },
+                    {
+                        "number": 55,
+                        "name": "Un Vrai Héros"
+                    },
+                    {
+                        "number": 56,
+                        "name": "Pas un Héros du Tout"
+                    },
+                    {
+                        "number": 57,
+                        "name": "La Bombe Humaine"
+                    },
+                    {
+                        "number": 58,
+                        "name": "Vol Retour"
+                    },
+                    {
+                        "number": 59,
+                        "name": "Pluie et Nuage"
+                    },
+                    {
+                        "number": 60,
+                        "name": "Bureau des Chats Abandonnés"
+                    },
+                    {
+                        "number": 61,
+                        "name": "Les Deux Font la Paire"
+                    },
+                    {
+                        "number": 62,
+                        "name": "Ciel de Verre"
+                    }
+                ]
+            },
+            {
+                "number": 9,
+                "chapters": [
+                    {
+                        "number": 63,
+                        "name": "Arme-toi de Courage !"
+                    },
+                    {
+                        "number": 64,
+                        "name": "Allez Shota !"
+                    },
+                    {
+                        "number": 65,
+                        "name": "Le Ciel Après la Pluie"
+                    },
+                    {
+                        "number": 66,
+                        "name": "Fins et Commencements"
+                    },
+                    {
+                        "number": 67,
+                        "name": "Un Authentique Curry Épicé"
+                    },
+                    {
+                        "number": 68,
+                        "name": "Bats-toi ma Fille !"
+                    },
+                    {
+                        "number": 69,
+                        "name": "L'Apparition du Héros"
+                    },
+                    {
+                        "number": 70,
+                        "name": "Mon Vrai Visage"
+                    },
+                    {
+                        "number": 71,
+                        "name": "Merci Pour la Leçon"
+                    },
+                    {
+                        "number": 72,
+                        "name": "À ta Recherche"
+                    }
+                ]
+            },
+            {
+                "number": 10,
+                "chapters": [
+                    {
+                        "number": 73,
+                        "name": "L'Avènement de la Reine"
+                    },
+                    {
+                        "number": 74,
+                        "name": "Après la Tempête"
+                    },
+                    {
+                        "number": 75,
+                        "name": "La Lettre"
+                    },
+                    {
+                        "number": 76,
+                        "name": "Armes"
+                    },
+                    {
+                        "number": 77,
+                        "name": "Stratégie"
+                    },
+                    {
+                        "number": 78,
+                        "name": "Départ au Front"
+                    },
+                    {
+                        "number": 79,
+                        "name": "Inferno n°2"
+                    },
+                    {
+                        "number": 80,
+                        "name": "Et le coupable est..."
+                    },
+                    {
+                        "number": 81,
+                        "name": "Bee My Pop"
+                    }
+                ]
+            },
+            {
+                "number": 11,
+                "chapters": [
+                    {
+                        "number": 82,
+                        "name": "Le héros le Plus Rapide du Monde II"
+                    },
+                    {
+                        "number": 83,
+                        "name": "Dans l'Enfer des Flammes"
+                    },
+                    {
+                        "number": 84,
+                        "name": "Le Rêve d'une Vie Héroïque"
+                    },
+                    {
+                        "number": 85,
+                        "name": "Interrogatoire"
+                    },
+                    {
+                        "number": 86,
+                        "name": "Le Tournoi Masqué"
+                    },
+                    {
+                        "number": 87,
+                        "name": "Rap Rap Rap"
+                    },
+                    {
+                        "number": 88,
+                        "name": "Visage Caché et Oreilles à Découvert"
+                    },
+                    {
+                        "number": 89,
+                        "name": "Tiger Bunny se Jette Dans la Mêlée"
+                    },
+                    {
+                        "number": 90,
+                        "name": "Team Up Souterrain"
+                    },
+                    {
+                        "number": 91,
+                        "name": "Plan B"
+                    }
+                ]
+            },
+            {
+                "number": 12,
+                "chapters": [
+                    {
+                        "number": 92,
+                        "name": "Le Might Signal"
+                    },
+                    {
+                        "number": 93,
+                        "name": "Un Combat de Trois Secondes"
+                    },
+                    {
+                        "number": 94,
+                        "name": "Réseau Clandestin"
+                    },
+                    {
+                        "number": 95,
+                        "name": "Clair de Lune"
+                    },
+                    {
+                        "number": 96,
+                        "name": "Négociations"
+                    },
+                    {
+                        "number": 97,
+                        "name": "Poursuite"
+                    },
+                    {
+                        "number": 98,
+                        "name": "Des Arguments Rationnels"
+                    }
+                ]
+            },
+            {
+                "number": 13,
+                "chapters": [
+                    {
+                        "number": 99,
+                        "name": "Opération \"Anonymous\""
+                    },
+                    {
+                        "number": 100,
+                        "name": "Mise à Feu"
+                    },
+                    {
+                        "number": 101,
+                        "name": "Vol Nocturne"
+                    },
+                    {
+                        "number": 102,
+                        "name": "Intrusion"
+                    },
+                    {
+                        "number": 103,
+                        "name": "Viser la Tête"
+                    },
+                    {
+                        "number": 104,
+                        "name": "Ce Visage"
+                    },
+                    {
+                        "number": 105,
+                        "name": "Fuite"
+                    },
+                    {
+                        "number": 106,
+                        "name": "Chase of Crawlers"
+                    },
+                    {
+                        "number": 107,
+                        "name": "100 Hits Combos"
+                    }
+                ]
+            },
+            {
+                "number": 14,
+                "chapters": [
+                    {
+                        "number": 108,
+                        "name": "L'Habitant des Abysses"
+                    },
+                    {
+                        "number": 109,
+                        "name": "Toile"
+                    },
+                    {
+                        "number": 110,
+                        "name": "Imprudence"
+                    },
+                    {
+                        "number": 111,
+                        "name": "Le Retour des Poings de Fer"
+                    },
+                    {
+                        "number": 112,
+                        "name": "Imprévus"
+                    },
+                    {
+                        "number": 113,
+                        "name": "Le Pire Ennemi"
+                    },
+                    {
+                        "number": 114,
+                        "name": "Combat Aérien"
+                    },
+                    {
+                        "number": 115,
+                        "name": "Puissance Brute"
+                    },
+                    {
+                        "number": 116,
+                        "name": "Dernier Enseignement"
+                    }
+                ]
+            },
+            {
+                "number": 15,
+                "chapters": [
+                    {
+                        "number": 117,
+                        "name": "À ne Surtout pas Utiliser"
+                    },
+                    {
+                        "number": 118,
+                        "name": "La Belle Époque"
+                    },
+                    {
+                        "number": 119,
+                        "name": "C'est Moi qui suis là"
+                    },
+                    {
+                        "number": 120,
+                        "name": "Encouragements"
+                    },
+                    {
+                        "number": 121,
+                        "name": "Les Renforts sont là"
+                    },
+                    {
+                        "number": 122,
+                        "name": "Duo de Choc"
+                    },
+                    {
+                        "number": 123,
+                        "name": "Bye-Bye mon Héros"
+                    },
+                    {
+                        "number": 124,
+                        "name": "Pour Toujours"
+                    },
+                    {
+                        "number": 125,
+                        "name": "Que sont-ils Devenus ?"
+                    },
+                    {
+                        "number": 126,
+                        "name": "The Skycrawler, l'Envol"
+                    }
+                ]
+            }
+        ]
     }
 ]
