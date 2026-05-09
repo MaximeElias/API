@@ -64736,15 +64736,15 @@
                 "chapters": [
                     {
                         "number": 1,
-                        "name": "Chapitre 1"
+                        "name": "Le chevalier en cage"
                     },
                     {
                         "number": 2,
-                        "name": "Chapitre 2"
+                        "name": "Un nouveau foyer"
                     },
                     {
                         "number": 3,
-                        "name": "Chapitre 3"
+                        "name": "Le retour triomphal du héros"
                     }
                 ]
             },
@@ -64753,33 +64753,58 @@
                 "chapters": [
                     {
                         "number": 4,
-                        "name": "Chapitre 4"
+                        "name": "Les deux chevaliers dragons"
                     },
                     {
                         "number": 5,
-                        "name": "Chapitre 5"
+                        "name": "La petite soeur du Héros"
                     },
                     {
                         "number": 6,
-                        "name": "Chapitre 6"
+                        "name": "Les sentiments cachés"
                     },
                     {
                         "number": 7,
-                        "name": "Chapitre 7"
+                        "name": "La recherche de la fleur jaune"
                     },
                     {
                         "number": 8,
-                        "name": "Chapitre 8"
+                        "name": "Une chaleur réconfortante"
                     },
                     {
                         "number": 9,
-                        "name": "Chapitre 9"
+                        "name": "Un visiteur innatendu"
                     }
                 ]
             },
             {
                 "number": 3,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 10,
+                        "name": "Le garçon aux cheveux rouges"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Leurs sentiments"
+                    },
+                    {
+                        "number": 12,
+                        "name": "Les vrais sentiments"
+                    },
+                    {
+                        "number": 13,
+                        "name": "La décision de Lotus"
+                    },
+                    {
+                        "number": 14,
+                        "name": "La décision de Ricardo"
+                    },
+                    {
+                        "number": 15,
+                        "name": "Même sans possession"
+                    }
+                ]
             },
             {
                 "number": 4,
@@ -154400,11 +154425,11 @@
                 "chapters": [
                     {
                         "number": 1,
-                        "name": "Je me ferai moine !"
+                        "name": "Je me Ferai Moine !"
                     },
                     {
                         "number": 2,
-                        "name": "Examen d'entrée"
+                        "name": "Examen d'Entrée"
                     },
                     {
                         "number": 3,
@@ -154416,11 +154441,11 @@
                     },
                     {
                         "number": 5,
-                        "name": "Rush au clair de lune"
+                        "name": "Rush au Clair de Lune"
                     },
                     {
                         "number": 6,
-                        "name": "Panique dans les vestiaires"
+                        "name": "Panique dans les Vestiaires"
                     },
                     {
                         "number": 7,
@@ -154428,33 +154453,210 @@
                     },
                     {
                         "number": 8,
-                        "name": "Kurage la troisième fille"
+                        "name": "Kurage la Troisième Fille"
                     },
                     {
                         "number": 9,
-                        "name": "Ne pas laisser tomber"
+                        "name": "Ne pas Laisser Tomber"
                     }
                 ]
             },
             {
                 "number": 2,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 10,
+                        "name": "Le Rendez-Vous Arrangé"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Voeux"
+                    },
+                    {
+                        "number": 12,
+                        "name": "Hôtel"
+                    },
+                    {
+                        "number": 13,
+                        "name": "Retour Matinal"
+                    },
+                    {
+                        "number": 14,
+                        "name": "Dual à Mort"
+                    },
+                    {
+                        "number": 15,
+                        "name": "Le Châtiment du Perdant"
+                    },
+                    {
+                        "number": 16,
+                        "name": "Compassion"
+                    },
+                    {
+                        "number": 17,
+                        "name": "Entraînement"
+                    },
+                    {
+                        "number": 18,
+                        "name": "Moi Aussi, je passerai le Tokudo !"
+                    }
+                ]
             },
             {
                 "number": 3,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 19,
+                        "name": "Zazen et Sutra"
+                    },
+                    {
+                        "number": 20,
+                        "name": "Le Royaume des Démons"
+                    },
+                    {
+                        "number": 21,
+                        "name": "Panique à l'Infirmerie"
+                    },
+                    {
+                        "number": 22,
+                        "name": "Un Arc sans Corde"
+                    },
+                    {
+                        "number": 23,
+                        "name": "La Fléche Tirée"
+                    },
+                    {
+                        "number": 24,
+                        "name": "La Mlédiction"
+                    },
+                    {
+                        "number": 25,
+                        "name": "Repos"
+                    },
+                    {
+                        "number": 26,
+                        "name": "Le 24 Décembre"
+                    },
+                    {
+                        "number": 27,
+                        "name": "Le 25 Décembre"
+                    }
+                ]
             },
             {
                 "number": 4,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 28,
+                        "name": "Q&A"
+                    },
+                    {
+                        "number": 29,
+                        "name": "Du Riz, s'Il Vous Plaît"
+                    },
+                    {
+                        "number": 30,
+                        "name": "L'Interrogatoire"
+                    },
+                    {
+                        "number": 31,
+                        "name": "La Dispute"
+                    },
+                    {
+                        "number": 32,
+                        "name": "Le Forfait des Amoureux"
+                    },
+                    {
+                        "number": 33,
+                        "name": "La Lune et le Doigt"
+                    },
+                    {
+                        "number": 34,
+                        "name": "L'Enfant Perdue"
+                    },
+                    {
+                        "number": 35,
+                        "name": "Un Monde Retourné"
+                    }
+                ]
             },
             {
                 "number": 5,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 36,
+                        "name": "Pilonnage de Mochi"
+                    },
+                    {
+                        "number": 37,
+                        "name": "Le Piège à Lapins"
+                    },
+                    {
+                        "number": 38,
+                        "name": "Entrer dans la Nouvelle Année"
+                    },
+                    {
+                        "number": 39,
+                        "name": "Onsen"
+                    },
+                    {
+                        "number": 40,
+                        "name": "La Bataille du Bain"
+                    },
+                    {
+                        "number": 41,
+                        "name": "La Fille Baldwin"
+                    },
+                    {
+                        "number": 42,
+                        "name": "Première Visite au Sanctuaire"
+                    },
+                    {
+                        "number": 43,
+                        "name": "Opération : Éveil de la Reine Érotique"
+                    },
+                    {
+                        "number": 44,
+                        "name": "Priorité"
+                    }
+                ]
             },
             {
                 "number": 6,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 45,
+                        "name": "Premier Rêve de l'Année"
+                    },
+                    {
+                        "number": 46,
+                        "name": "Reboot"
+                    },
+                    {
+                        "number": 47,
+                        "name": "Les Petits Monstres"
+                    },
+                    {
+                        "number": 48,
+                        "name": "Chacun son Rythme"
+                    },
+                    {
+                        "number": 49,
+                        "name": "La Maladie de l'Amour"
+                    },
+                    {
+                        "number": 50,
+                        "name": "Vibes"
+                    },
+                    {
+                        "number": 51,
+                        "name": "Faire de son Mieux"
+                    },
+                    {
+                        "number": 52,
+                        "name": "L'Assemblée des Paroissiens"
+                    }
+                ]
             },
             {
                 "number": 7,
@@ -154505,17 +154707,95 @@
                 "chapters": [
                     {
                         "number": 1,
-                        "name": "Chapitre 1"
+                        "name": "Le Mercenaire et la Sorcière"
+                    },
+                    {
+                        "number": 2,
+                        "name": "À l'assaut du Continent"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Les Malebêtes"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Les Aventuriers"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Toute Première Mission"
                     }
                 ]
             },
             {
                 "number": 2,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 6,
+                        "name": "Le Requin Spectral"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Espèce de Sale Merdeux !"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Un Banal Couteau"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Proie Contre Proie"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Mission Extermination"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Échange d'Informations"
+                    },
+                    {
+                        "number": 12,
+                        "name": "Duel"
+                    },
+                    {
+                        "number": 13,
+                        "name": "L'Éclair"
+                    }
+                ]
             },
             {
                 "number": 3,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 14,
+                        "name": "Les Retombés d'un Duel Acharné"
+                    },
+                    {
+                        "number": 15,
+                        "name": "Achat d'Armes"
+                    },
+                    {
+                        "number": 16,
+                        "name": "Le Corps d'Extermination"
+                    },
+                    {
+                        "number": 17,
+                        "name": "Des Indésirables"
+                    },
+                    {
+                        "number": 18,
+                        "name": "Une Mission Confiée par un Aventurier Chevronné"
+                    },
+                    {
+                        "number": 19,
+                        "name": "Deux Hordes"
+                    },
+                    {
+                        "number": 20,
+                        "name": "Un Facteur Externe"
+                    }
+                ]
             },
             {
                 "number": 4,
