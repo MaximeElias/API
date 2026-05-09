@@ -168733,5 +168733,38 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 487,
+        "title": "The Legende of Kameron",
+        "status": "En cours",
+        "coverUrl": "https://static.fnac-static.com/multimedia/Images/FR/NR/54/e8/0d/17688660/1507-1/tsp20240404112125/The-legend-of-Kameron.jpg",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    }
+                ]
+            }
+        ]
     }
 ]
