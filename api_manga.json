@@ -171144,33 +171144,17 @@
                         "name": "Chapitre 171"
                     }
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "id": 496,
+        "title": "The Rising of Shield Hero",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/13/the_rising_of_the_shield_hero_4831.webp?1773936433",
+        "volumes": [
             {
                 "number": 1,
-                "chapters": []
-            },
-            {
-                "number": 2,
-                "chapters": []
-            },
-            {
-                "number": 3,
-                "chapters": []
-            },
-            {
-                "number": 4,
-                "chapters": []
-            },
-            {
-                "number": 5,
-                "chapters": []
-            },
-            {
-                "number": 6,
-                "chapters": []
-            },
-            {
-                "number": 0,
                 "chapters": [
                     {
                         "number": 1,
@@ -171187,7 +171171,12 @@
                     {
                         "number": 4,
                         "name": "Chapitre 4"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
                     {
                         "number": 5,
                         "name": "Chapitre 5"
@@ -171203,7 +171192,12 @@
                     {
                         "number": 8,
                         "name": "Chapitre 8"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
                     {
                         "number": 9,
                         "name": "Chapitre 9"
@@ -171219,7 +171213,12 @@
                     {
                         "number": 12,
                         "name": "Chapitre 12"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "chapters": [
                     {
                         "number": 13,
                         "name": "Chapitre 13"
@@ -171235,7 +171234,12 @@
                     {
                         "number": 16,
                         "name": "Chapitre 16"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "chapters": [
                     {
                         "number": 17,
                         "name": "Chapitre 17"
@@ -171251,7 +171255,12 @@
                     {
                         "number": 20,
                         "name": "Chapitre 20"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 6,
+                "chapters": [
                     {
                         "number": 21,
                         "name": "Chapitre 21"
@@ -171267,7 +171276,12 @@
                     {
                         "number": 24,
                         "name": "Chapitre 24"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 7,
+                "chapters": [
                     {
                         "number": 25,
                         "name": "Chapitre 25"
@@ -171283,7 +171297,12 @@
                     {
                         "number": 28,
                         "name": "Chapitre 28"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 8,
+                "chapters": [
                     {
                         "number": 29,
                         "name": "Chapitre 29"
@@ -171299,7 +171318,12 @@
                     {
                         "number": 32,
                         "name": "Chapitre 32"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 9,
+                "chapters": [
                     {
                         "number": 33,
                         "name": "Chapitre 33"
@@ -171315,7 +171339,12 @@
                     {
                         "number": 36,
                         "name": "Chapitre 36"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 10,
+                "chapters": [
                     {
                         "number": 37,
                         "name": "Chapitre 37"
@@ -171331,7 +171360,12 @@
                     {
                         "number": 40,
                         "name": "Chapitre 40"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 11,
+                "chapters": [
                     {
                         "number": 41,
                         "name": "Chapitre 41"
@@ -171347,7 +171381,12 @@
                     {
                         "number": 44,
                         "name": "Chapitre 44"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 12,
+                "chapters": [
                     {
                         "number": 45,
                         "name": "Chapitre 45"
@@ -171363,7 +171402,12 @@
                     {
                         "number": 48,
                         "name": "Chapitre 48"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 13,
+                "chapters": [
                     {
                         "number": 49,
                         "name": "Chapitre 49"
@@ -171383,7 +171427,12 @@
                     {
                         "number": 53,
                         "name": "Chapitre 53"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 14,
+                "chapters": [
                     {
                         "number": 54,
                         "name": "Chapitre 54"
@@ -171403,7 +171452,12 @@
                     {
                         "number": 58,
                         "name": "Chapitre 58"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 15,
+                "chapters": [
                     {
                         "number": 59,
                         "name": "Chapitre 59"
@@ -171419,7 +171473,12 @@
                     {
                         "number": 62,
                         "name": "Chapitre 62"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 16,
+                "chapters": [
                     {
                         "number": 63,
                         "name": "Chapitre 63"
@@ -171435,7 +171494,12 @@
                     {
                         "number": 66,
                         "name": "Chapitre 66"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 17,
+                "chapters": [
                     {
                         "number": 67,
                         "name": "Chapitre 67"
@@ -171451,7 +171515,12 @@
                     {
                         "number": 70,
                         "name": "Chapitre 70"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 18,
+                "chapters": [
                     {
                         "number": 71,
                         "name": "Chapitre 71"
@@ -171467,7 +171536,12 @@
                     {
                         "number": 74,
                         "name": "Chapitre 74"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 19,
+                "chapters": [
                     {
                         "number": 75,
                         "name": "Chapitre 75"
@@ -171483,7 +171557,12 @@
                     {
                         "number": 78,
                         "name": "Chapitre 78"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 20,
+                "chapters": [
                     {
                         "number": 79,
                         "name": "Chapitre 79"
@@ -171503,7 +171582,12 @@
                     {
                         "number": 83,
                         "name": "Chapitre 83"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 21,
+                "chapters": [
                     {
                         "number": 84,
                         "name": "Chapitre 84"
@@ -171523,7 +171607,12 @@
                     {
                         "number": 88,
                         "name": "Chapitre 88"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 22,
+                "chapters": [
                     {
                         "number": 89,
                         "name": "Chapitre 89"
@@ -171539,7 +171628,12 @@
                     {
                         "number": 92,
                         "name": "Chapitre 92"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 23,
+                "chapters": [
                     {
                         "number": 93,
                         "name": "Chapitre 93"
@@ -171555,7 +171649,12 @@
                     {
                         "number": 96,
                         "name": "Chapitre 96"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 24,
+                "chapters": [
                     {
                         "number": 97,
                         "name": "Chapitre 97"
@@ -171571,7 +171670,12 @@
                     {
                         "number": 100,
                         "name": "Chapitre 100"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 25,
+                "chapters": [
                     {
                         "number": 101,
                         "name": "Chapitre 101"
@@ -171587,7 +171691,12 @@
                     {
                         "number": 104,
                         "name": "Chapitre 104"
-                    },
+                    }
+                ]
+            },
+            {
+                "number": 26,
+                "chapters": [
                     {
                         "number": 105,
                         "name": "Chapitre 105"
@@ -171603,292 +171712,21 @@
                     {
                         "number": 108,
                         "name": "Chapitre 108"
-                    },
-                    {
-                        "number": 109,
-                        "name": "Chapitre 109"
-                    },
-                    {
-                        "number": 110,
-                        "name": "Chapitre 110"
-                    },
-                    {
-                        "number": 111,
-                        "name": "Chapitre 111"
-                    },
-                    {
-                        "number": 112,
-                        "name": "Chapitre 112"
-                    },
-                    {
-                        "number": 113,
-                        "name": "Chapitre 113"
-                    },
-                    {
-                        "number": 114,
-                        "name": "Chapitre 114"
-                    },
-                    {
-                        "number": 115,
-                        "name": "Chapitre 115"
-                    },
-                    {
-                        "number": 116,
-                        "name": "Chapitre 116"
-                    },
-                    {
-                        "number": 117,
-                        "name": "Chapitre 117"
-                    },
-                    {
-                        "number": 118,
-                        "name": "Chapitre 118"
-                    },
-                    {
-                        "number": 119,
-                        "name": "Chapitre 119"
-                    },
-                    {
-                        "number": 120,
-                        "name": "Chapitre 120"
-                    },
-                    {
-                        "number": 121,
-                        "name": "Chapitre 121"
-                    },
-                    {
-                        "number": 122,
-                        "name": "Chapitre 122"
-                    },
-                    {
-                        "number": 123,
-                        "name": "Chapitre 123"
-                    },
-                    {
-                        "number": 124,
-                        "name": "Chapitre 124"
-                    },
-                    {
-                        "number": 125,
-                        "name": "Chapitre 125"
-                    },
-                    {
-                        "number": 126,
-                        "name": "Chapitre 126"
-                    },
-                    {
-                        "number": 127,
-                        "name": "Chapitre 127"
-                    },
-                    {
-                        "number": 128,
-                        "name": "Chapitre 128"
-                    },
-                    {
-                        "number": 129,
-                        "name": "Chapitre 129"
-                    },
-                    {
-                        "number": 130,
-                        "name": "Chapitre 130"
-                    },
-                    {
-                        "number": 131,
-                        "name": "Chapitre 131"
-                    },
-                    {
-                        "number": 132,
-                        "name": "Chapitre 132"
-                    },
-                    {
-                        "number": 133,
-                        "name": "Chapitre 133"
-                    },
-                    {
-                        "number": 134,
-                        "name": "Chapitre 134"
-                    },
-                    {
-                        "number": 135,
-                        "name": "Chapitre 135"
-                    },
-                    {
-                        "number": 136,
-                        "name": "Chapitre 136"
-                    },
-                    {
-                        "number": 137,
-                        "name": "Chapitre 137"
-                    },
-                    {
-                        "number": 138,
-                        "name": "Chapitre 138"
-                    },
-                    {
-                        "number": 139,
-                        "name": "Chapitre 139"
-                    },
-                    {
-                        "number": 140,
-                        "name": "Chapitre 140"
-                    },
-                    {
-                        "number": 141,
-                        "name": "Chapitre 141"
-                    },
-                    {
-                        "number": 142,
-                        "name": "Chapitre 142"
-                    },
-                    {
-                        "number": 143,
-                        "name": "Chapitre 143"
-                    },
-                    {
-                        "number": 144,
-                        "name": "Chapitre 144"
-                    },
-                    {
-                        "number": 145,
-                        "name": "Chapitre 145"
-                    },
-                    {
-                        "number": 146,
-                        "name": "Chapitre 146"
-                    },
-                    {
-                        "number": 147,
-                        "name": "Chapitre 147"
-                    },
-                    {
-                        "number": 148,
-                        "name": "Chapitre 148"
-                    },
-                    {
-                        "number": 149,
-                        "name": "Chapitre 149"
-                    },
-                    {
-                        "number": 150,
-                        "name": "Chapitre 150"
-                    },
-                    {
-                        "number": 151,
-                        "name": "Chapitre 151"
-                    },
-                    {
-                        "number": 152,
-                        "name": "Chapitre 152"
-                    },
-                    {
-                        "number": 153,
-                        "name": "Chapitre 153"
-                    },
-                    {
-                        "number": 154,
-                        "name": "Chapitre 154"
-                    },
-                    {
-                        "number": 155,
-                        "name": "Chapitre 155"
-                    },
-                    {
-                        "number": 156,
-                        "name": "Chapitre 156"
-                    },
-                    {
-                        "number": 157,
-                        "name": "Chapitre 157"
-                    },
-                    {
-                        "number": 158,
-                        "name": "Chapitre 158"
-                    },
-                    {
-                        "number": 159,
-                        "name": "Chapitre 159"
-                    },
-                    {
-                        "number": 160,
-                        "name": "Chapitre 160"
-                    },
-                    {
-                        "number": 161,
-                        "name": "Chapitre 161"
-                    },
-                    {
-                        "number": 162,
-                        "name": "Chapitre 162"
-                    },
-                    {
-                        "number": 163,
-                        "name": "Chapitre 163"
-                    },
-                    {
-                        "number": 164,
-                        "name": "Chapitre 164"
-                    },
-                    {
-                        "number": 165,
-                        "name": "Chapitre 165"
-                    },
-                    {
-                        "number": 166,
-                        "name": "Chapitre 166"
-                    },
-                    {
-                        "number": 167,
-                        "name": "Chapitre 167"
-                    },
-                    {
-                        "number": 168,
-                        "name": "Chapitre 168"
-                    },
-                    {
-                        "number": 169,
-                        "name": "Chapitre 169"
-                    },
-                    {
-                        "number": 170,
-                        "name": "Chapitre 170"
-                    },
-                    {
-                        "number": 171,
-                        "name": "Chapitre 171"
                     }
                 ]
             },
             {
-                "number": 1,
+                "number": 27,
                 "chapters": []
             },
             {
-                "number": 2,
+                "number": 28,
                 "chapters": []
             },
             {
-                "number": 3,
-                "chapters": []
-            },
-            {
-                "number": 4,
-                "chapters": []
-            },
-            {
-                "number": 5,
-                "chapters": []
-            },
-            {
-                "number": 6,
+                "number": 29,
                 "chapters": []
             }
         ]
-    },
-    {
-        "id": 496,
-        "title": "Return of the Demonic Master",
-        "status": "En cours",
-        "coverUrl": "",
-        "volumes": []
     }
 ]
