@@ -172770,8 +172770,8 @@
     {
         "id": 502,
         "title": "The Testament of Sister New Devil - Storm!",
-        "status": "En cours",
-        "coverUrl": "https://www.nautiljon.com/images/manga/00/06/the_summer_hikaru_died_21160.webp?1743346237",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/32/mini/the_testament_of_sister_new_devil_-_storm_7023.webp?11719142053",
         "volumes": [
             {
                 "number": 1,
@@ -172909,6 +172909,27 @@
                         "name": "Chapitre 28"
                     }
                 ]
+            }
+        ]
+    },
+    {
+        "id": 503,
+        "title": "The Unifier",
+        "status": "En cours",
+        "coverUrl": "https://m.media-amazon.com/images/I/71YxGk5t1YL._AC_UF1000,1000_QL80_.jpg",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
             }
         ]
     }
