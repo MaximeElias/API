@@ -173896,5 +173896,34 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 508,
+        "title": "Tokugawa Monkeys",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/18/tokugawa_monkeys_1984481.webp?1705658556",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            }
+        ]
     }
 ]
