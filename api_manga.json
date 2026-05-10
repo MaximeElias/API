@@ -170363,5 +170363,91 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 494,
+        "title": "The Reincarnation of The Strongest Exorcist in Another World",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/64/the_reincarnation_of_the_strongest_exorcist_in_another_world_1974546.webp?1679220772",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            },
+            {
+                "number": 7,
+                "chapters": []
+            },
+            {
+                "number": 8,
+                "chapters": []
+            },
+            {
+                "number": 9,
+                "chapters": []
+            },
+            {
+                "number": 10,
+                "chapters": []
+            },
+            {
+                "number": 11,
+                "chapters": []
+            }
+        ]
     }
 ]
