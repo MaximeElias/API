@@ -183879,5 +183879,26 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 523,
+        "title": "Une fleur venue d'ailleurs",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/20/une_fleur_venue_d_ailleurs_32202.webp?1764953280",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            }
+        ]
     }
 ]
