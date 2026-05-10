@@ -171144,6 +171144,30 @@
                         "name": "Chapitre 171"
                     }
                 ]
+            },
+            {
+                "number": 1,
+                "chapters": []
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
             }
         ]
     },
@@ -171726,6 +171750,23 @@
             {
                 "number": 29,
                 "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 497,
+        "title": "The Rising of the Shield Hero - Artbook",
+        "status": "Terminé",
+        "coverUrl": "https://m.media-amazon.com/images/I/71pNHdJZY2S._AC_UF1000,1000_QL80_.jpg",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
             }
         ]
     }
