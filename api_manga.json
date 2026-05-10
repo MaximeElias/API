@@ -192166,5 +192166,22 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 546,
+        "title": "Ying Yang Théorie",
+        "status": "Terminé",
+        "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtVO2ZdQ9YmAQm5U0Pw6dAywpUrwPw1AVzRQ&s",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            }
+        ]
     }
 ]
