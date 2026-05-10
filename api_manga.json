@@ -170367,7 +170367,7 @@
     {
         "id": 494,
         "title": "The Reincarnation of The Strongest Exorcist in Another World",
-        "status": "Terminé",
+        "status": "En cours",
         "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/64/the_reincarnation_of_the_strongest_exorcist_in_another_world_1974546.webp?1679220772",
         "volumes": [
             {
@@ -170446,6 +170446,18 @@
             },
             {
                 "number": 11,
+                "chapters": []
+            }
+        ]
+    },
+    {
+        "id": 495,
+        "title": "Return of the Demonic Master",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/82/return_of_the_demonic_master_1_edition_reliee_francaise965228.webp?1664443586",
+        "volumes": [
+            {
+                "number": 0,
                 "chapters": []
             }
         ]
