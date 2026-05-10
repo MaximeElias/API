@@ -188710,5 +188710,74 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 534,
+        "title": "Welcome to Japan! Elfe de mes rêves…",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/90/welcome_to_japan_elfe_de_mes_reves_10909.webp?1764014647",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            },
+            {
+                "number": 7,
+                "chapters": []
+            },
+            {
+                "number": 8,
+                "chapters": []
+            },
+            {
+                "number": 9,
+                "chapters": []
+            },
+            {
+                "number": 10,
+                "chapters": []
+            },
+            {
+                "number": 11,
+                "chapters": []
+            },
+            {
+                "number": 12,
+                "chapters": []
+            }
+        ]
     }
 ]
