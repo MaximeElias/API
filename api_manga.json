@@ -186208,5 +186208,70 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 528,
+        "title": "Valkyrie Apocalypse - L'Affaire Jack l'Éventreur",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/28/valkyrie_apocalypse_-_l_affaire_jack_l_eventreur_24282.webp?1758014722",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            },
+            {
+                "number": 6,
+                "chapters": []
+            },
+            {
+                "number": 7,
+                "chapters": []
+            },
+            {
+                "number": 8,
+                "chapters": []
+            },
+            {
+                "number": 9,
+                "chapters": []
+            },
+            {
+                "number": 10,
+                "chapters": []
+            }
+        ]
     }
 ]
