@@ -204154,7 +204154,7 @@
         "id": 584,
         "title": "Pourquoi m'a-t-il Tuée ?",
         "status": "Terminé",
-        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/98/questions_d_age_1_edition_us988389.webp?0",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/21/pourquoi_m_a-t-il_tuee_y_26712.webp?1746956220",
         "volumes": [
             {
                 "number": 0,
@@ -204276,7 +204276,15 @@
                         "name": "Chapitre 29"
                     }
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "id": 585,
+        "title": "Questions d'Âge",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/98/questions_d_age_1_edition_us988389.webp?0",
+        "volumes": [
             {
                 "number": 0,
                 "chapters": [
@@ -204887,12 +204895,5 @@
                 ]
             }
         ]
-    },
-    {
-        "id": 585,
-        "title": "Questions d'Âge",
-        "status": "En cours",
-        "coverUrl": "",
-        "volumes": []
     }
 ]
