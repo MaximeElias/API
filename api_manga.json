@@ -201278,5 +201278,30 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 573,
+        "title": "Warcraft - Le Puits solaire",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/12/22/warcraft_-_le_puits_solaire_1_reedition_mana_books1032922.webp?0",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            }
+        ]
     }
 ]
