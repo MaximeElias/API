@@ -209325,16 +209325,16 @@
                     {
                         "number": 3,
                         "name": "Chapitre 3"
-                    },
-                    {
-                        "number": 4,
-                        "name": "Chapitre 4"
                     }
                 ]
             },
             {
                 "number": 2,
                 "chapters": [
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
                     {
                         "number": 5,
                         "name": "Chapitre 5"
@@ -209346,10 +209346,6 @@
                     {
                         "number": 7,
                         "name": "Chapitre 7"
-                    },
-                    {
-                        "number": 8,
-                        "name": "Chapitre 8"
                     }
                 ]
             },
