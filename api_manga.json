@@ -209889,5 +209889,316 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 612,
+        "title": "Hajimete no Gal",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga_volumes/00/60/25506.webp?1494242203",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Mon Premier Dogeza"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Ma Première Confession"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Mon Premier Baiser Indirect"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Mon Premier Vrai Baiser"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Ma Première Chance"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Mon Premier Karaoké"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Ma Première Invitation"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Ma Première Promesse"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Ma Première Fois au Cinéma"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Ma première..."
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 11,
+                        "name": "Ma Première Fois dans le Local d'EPS"
+                    },
+                    {
+                        "number": 12,
+                        "name": "Mon Premier Toucher"
+                    },
+                    {
+                        "number": 13,
+                        "name": "Ma Première Fois à l'Infirmerie"
+                    },
+                    {
+                        "number": 14,
+                        "name": "Ma Première Fois Chez Yame-san"
+                    },
+                    {
+                        "number": 15,
+                        "name": "Ma Première Fille Bronzée"
+                    },
+                    {
+                        "number": 16,
+                        "name": "Mon Premier Régime"
+                    },
+                    {
+                        "number": 17,
+                        "name": "Ma Première Chambre Verrouillée"
+                    },
+                    {
+                        "number": 18,
+                        "name": "Mon Premier Shopping"
+                    },
+                    {
+                        "number": 19,
+                        "name": "Ma Première Piscine"
+                    },
+                    {
+                        "number": 20,
+                        "name": "Ma Première Querelle"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
+                    {
+                        "number": 21,
+                        "name": "Mon Premier Amour ?"
+                    },
+                    {
+                        "number": 22,
+                        "name": "La Première Réelle Intention"
+                    },
+                    {
+                        "number": 23,
+                        "name": "La Première Petite Sœur ?"
+                    },
+                    {
+                        "number": 24,
+                        "name": "Ma Première Pseudo Gal"
+                    },
+                    {
+                        "number": 25,
+                        "name": "La Première Fois dans ma Chambre"
+                    },
+                    {
+                        "number": 26,
+                        "name": "Sa Première Demande"
+                    },
+                    {
+                        "number": 27,
+                        "name": "Mon Premier Bentō"
+                    },
+                    {
+                        "number": 28,
+                        "name": "Ma Première Fois Capturée"
+                    },
+                    {
+                        "number": 29,
+                        "name": "Sa Première Fuite Incontrôlable"
+                    },
+                    {
+                        "number": 30,
+                        "name": "Ma Première Visite Nocturne"
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "chapters": [
+                    {
+                        "number": 31,
+                        "name": "Ma Première Promesse"
+                    },
+                    {
+                        "number": 32,
+                        "name": "Ma Première Attaque"
+                    },
+                    {
+                        "number": 33,
+                        "name": "Ma Première Véritable Personnalité"
+                    },
+                    {
+                        "number": 34,
+                        "name": "Première Observation"
+                    },
+                    {
+                        "number": 35,
+                        "name": "Première Fois au Croisement"
+                    },
+                    {
+                        "number": 36,
+                        "name": "Un Premier Changement Soudain"
+                    },
+                    {
+                        "number": 37,
+                        "name": "Le Premier XXX"
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "chapters": [
+                    {
+                        "number": 38,
+                        "name": "Le Premier Avis"
+                    },
+                    {
+                        "number": 39,
+                        "name": "Le Programme du Premier Voyage"
+                    },
+                    {
+                        "number": 40,
+                        "name": "la Destination du Premier Voyage Décidée"
+                    },
+                    {
+                        "number": 41,
+                        "name": "Les Premières Vacances d'Été"
+                    },
+                    {
+                        "number": 42,
+                        "name": "Les Premiers Sentiments"
+                    },
+                    {
+                        "number": 43,
+                        "name": "La Première Plage"
+                    },
+                    {
+                        "number": 44,
+                        "name": "Les Premiers Souvenirs"
+                    },
+                    {
+                        "number": 45,
+                        "name": "Le Premier Hébergement"
+                    },
+                    {
+                        "number": 46,
+                        "name": "La Première Fois Ivre"
+                    },
+                    {
+                        "number": 47,
+                        "name": "Les Premières Sources Chaudes"
+                    }
+                ]
+            },
+            {
+                "number": 6,
+                "chapters": [
+                    {
+                        "number": 48,
+                        "name": "Le Premier Bain Mixte"
+                    },
+                    {
+                        "number": 49,
+                        "name": "La Première Déprime"
+                    },
+                    {
+                        "number": 50,
+                        "name": "Le Premier Événement"
+                    },
+                    {
+                        "number": 51,
+                        "name": "Le Premier Développement"
+                    },
+                    {
+                        "number": 52,
+                        "name": "La Première Surprise"
+                    },
+                    {
+                        "number": 53,
+                        "name": "La Première Hésitation"
+                    },
+                    {
+                        "number": 54,
+                        "name": "La Première Identité"
+                    },
+                    {
+                        "number": 55,
+                        "name": "Le Premier Choix de Carrière"
+                    },
+                    {
+                        "number": 56,
+                        "name": "La Première Fois Chez Kashii-san"
+                    },
+                    {
+                        "number": 57,
+                        "name": "La Première Sensation"
+                    }
+                ]
+            },
+            {
+                "number": 7,
+                "chapters": [
+                    {
+                        "number": 58,
+                        "name": "Les Premiers Sentiments"
+                    },
+                    {
+                        "number": 59,
+                        "name": "La Première Pause"
+                    },
+                    {
+                        "number": 60,
+                        "name": "La Première Détermination"
+                    },
+                    {
+                        "number": 61,
+                        "name": "Le Premier Regret"
+                    },
+                    {
+                        "number": 62,
+                        "name": "Le Premier Harem"
+                    },
+                    {
+                        "number": 63,
+                        "name": "la Première Fois Dehors"
+                    },
+                    {
+                        "number": 64,
+                        "name": "La Première Réécriture"
+                    },
+                    {
+                        "number": 65,
+                        "name": "La Première Rivale"
+                    },
+                    {
+                        "number": 66,
+                        "name": "Le Premier Avertissement"
+                    },
+                    {
+                        "number": 67,
+                        "name": "Les Préparations pour le Festival Culturel"
+                    }
+                ]
+            }
+        ]
     }
 ]
