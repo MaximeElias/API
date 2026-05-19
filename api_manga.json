@@ -209374,5 +209374,46 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 604,
+        "title": "Undark",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/27/undark_28772.webp?1775126601",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "La Supernova Obscure"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Rémanent"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Enchevêtrement"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Combustion"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Undark"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            }
+        ]
     }
 ]
