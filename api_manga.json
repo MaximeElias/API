@@ -209415,5 +209415,66 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 605,
+        "title": "Le Club des Flâneurs",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/64/le_club_des_flaneurs_27246.webp?1772197530",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Rentrons Ensemble"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Un Crochet au Konbini"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Moyens de Communication"
+                    },
+                    {
+                        "number": 4,
+                        "name": "En Route pour la Victoire"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Le Maniement du Parapluie"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Révisions Ensemble"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Entre Amis"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Un Tour à la Rivière"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            },
+            {
+                "number": 5,
+                "chapters": []
+            }
+        ]
     }
 ]
