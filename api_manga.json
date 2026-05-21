@@ -211142,5 +211142,285 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 614,
+        "title": "Now That We Draw",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/25/now_that_we_draw_28452.webp?1778267157",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Ce que la Fiction ne peut Dépeindre"
+                    },
+                    {
+                        "number": 2,
+                        "name": "J'ai Toujours Rêvé d'une Discussion Pareille"
+                    },
+                    {
+                        "number": 3,
+                        "name": "L'École de Nuit"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Ça ne Comptait pas"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Encouragement"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Une Nuit Orageuse"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 7,
+                        "name": "Le Plus Grand Moment de ma Vie"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Je ne Peux pas la Regarder Directement"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Je ne Veux pas en Faire un Mensonge"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Assistant"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Une Raison Spéciale"
+                    },
+                    {
+                        "number": 12,
+                        "name": "Douleur Bleue"
+                    },
+                    {
+                        "number": 13,
+                        "name": "Je..."
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
+                    {
+                        "number": 14,
+                        "name": "C'est Comme Lui Dire que Je l'Aime !"
+                    },
+                    {
+                        "number": 15,
+                        "name": "Attaque Surprise"
+                    },
+                    {
+                        "number": 16,
+                        "name": "Un Bruit Agaçant"
+                    },
+                    {
+                        "number": 17,
+                        "name": "Après le Festival"
+                    },
+                    {
+                        "number": 18,
+                        "name": "Mon Genre"
+                    },
+                    {
+                        "number": 19,
+                        "name": "Penpen-kun"
+                    },
+                    {
+                        "number": 20,
+                        "name": "Leur Monde à tous les Deux"
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "chapters": [
+                    {
+                        "number": 21,
+                        "name": "Du Calme"
+                    },
+                    {
+                        "number": 22,
+                        "name": "À ce Point..."
+                    },
+                    {
+                        "number": 23,
+                        "name": "Cérémonie des Remises de Prix des Nouveaux Talents"
+                    },
+                    {
+                        "number": 24,
+                        "name": "Les Filles"
+                    },
+                    {
+                        "number": 25,
+                        "name": "Poltron"
+                    },
+                    {
+                        "number": 26,
+                        "name": "Comme au Moment de Notre Première Rencontre"
+                    },
+                    {
+                        "number": 27,
+                        "name": "Discussion Entre Filles"
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "chapters": [
+                    {
+                        "number": 28,
+                        "name": "Je ne Sais pas"
+                    },
+                    {
+                        "number": 29,
+                        "name": "La Chose qui m'a Fait le plus Palpiter"
+                    },
+                    {
+                        "number": 30,
+                        "name": "Je ne Peux Plus Attendre"
+                    },
+                    {
+                        "number": 31,
+                        "name": "Si Nous Sommes Deux"
+                    },
+                    {
+                        "number": 32,
+                        "name": "Toute la Nuit"
+                    },
+                    {
+                        "number": 33,
+                        "name": "Message"
+                    },
+                    {
+                        "number": 34,
+                        "name": "Compte à Rebours"
+                    },
+                    {
+                        "number": 35,
+                        "name": "Même si je Suis une Gyaru"
+                    }
+                ]
+            },
+            {
+                "number": 6,
+                "chapters": [
+                    {
+                        "number": 36,
+                        "name": "Amis"
+                    },
+                    {
+                        "number": 37,
+                        "name": "J'ai Aussi..."
+                    },
+                    {
+                        "number": 38,
+                        "name": "Un Petit Amour"
+                    },
+                    {
+                        "number": 39,
+                        "name": "Début"
+                    },
+                    {
+                        "number": 40,
+                        "name": "Cadeau"
+                    },
+                    {
+                        "number": 41,
+                        "name": "Lequel ?"
+                    }
+                ]
+            },
+            {
+                "number": 7,
+                "chapters": [
+                    {
+                        "number": 42,
+                        "name": "Les Lycéennes les Plus Fortes Font leur Entrée sur la Scène"
+                    },
+                    {
+                        "number": 43,
+                        "name": "Cours Cours"
+                    },
+                    {
+                        "number": 44,
+                        "name": "Une Promesse"
+                    },
+                    {
+                        "number": 45,
+                        "name": "Le Nouveau Venu"
+                    },
+                    {
+                        "number": 46,
+                        "name": "Est-ce que tu t'Amuses ?"
+                    },
+                    {
+                        "number": 47,
+                        "name": "En Avant ! Le Relais du Club"
+                    },
+                    {
+                        "number": 48,
+                        "name": "Impulsion"
+                    }
+                ]
+            },
+            {
+                "number": 8,
+                "chapters": [
+                    {
+                        "number": 49,
+                        "name": "Ce n'est pas Vrai"
+                    },
+                    {
+                        "number": 50,
+                        "name": "Même si je ne le Cache pas"
+                    },
+                    {
+                        "number": 51,
+                        "name": "Résurrection"
+                    },
+                    {
+                        "number": 52,
+                        "name": "Choses Précieuses"
+                    },
+                    {
+                        "number": 53,
+                        "name": "Ton Dos"
+                    },
+                    {
+                        "number": 54,
+                        "name": "Débordant"
+                    },
+                    {
+                        "number": 55,
+                        "name": "Les Sentiments de Chacun"
+                    },
+                    {
+                        "number": 56,
+                        "name": "Comme ça"
+                    },
+                    {
+                        "number": 57,
+                        "name": "Père et Fille"
+                    },
+                    {
+                        "number": 58,
+                        "name": "Confession"
+                    }
+                ]
+            }
+        ]
     }
 ]
