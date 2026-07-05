@@ -215740,5 +215740,22 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 625,
+        "title": "Duds Hunt",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/22/duds_hunt_222.webp?1711873188",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            }
+        ]
     }
 ]
