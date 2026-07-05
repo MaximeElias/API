@@ -212181,5 +212181,30 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 617,
+        "title": "BB. Hell",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/86/bb_hell_5368.webp?1553763347",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            }
+        ]
     }
 ]
