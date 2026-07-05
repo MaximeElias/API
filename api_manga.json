@@ -212449,5 +212449,34 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 619,
+        "title": "Birdcage Castle",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/05/birdcage_castle_7950.webp?1585747219",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            },
+            {
+                "number": 3,
+                "chapters": []
+            },
+            {
+                "number": 4,
+                "chapters": []
+            }
+        ]
     }
 ]
