@@ -212065,5 +212065,121 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 616,
+        "title": "6000",
+        "status": "Terminé",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/13/6000_4131.webp?1765454332",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Chapitre 9"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Chapitre 10"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Chapitre 11"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
+                    {
+                        "number": 12,
+                        "name": "Chapitre 12"
+                    },
+                    {
+                        "number": 13,
+                        "name": "Chapitre 13"
+                    },
+                    {
+                        "number": 14,
+                        "name": "Chapitre 14"
+                    },
+                    {
+                        "number": 15,
+                        "name": "Chapitre 15"
+                    },
+                    {
+                        "number": 16,
+                        "name": "Chapitre 16"
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "chapters": [
+                    {
+                        "number": 17,
+                        "name": "Chapitre 17"
+                    },
+                    {
+                        "number": 18,
+                        "name": "Chapitre 18"
+                    },
+                    {
+                        "number": 19,
+                        "name": "Chapitre 19"
+                    },
+                    {
+                        "number": 20,
+                        "name": "Chapitre 20"
+                    },
+                    {
+                        "number": 21,
+                        "name": "Chapitre 21"
+                    },
+                    {
+                        "number": 22,
+                        "name": "Chapitre 22"
+                    }
+                ]
+            }
+        ]
     }
 ]
