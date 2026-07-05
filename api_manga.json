@@ -74253,15 +74253,66 @@
             },
             {
                 "number": 2,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
+                    },
+                    {
+                        "number": 8,
+                        "name": "Chapitre 8"
+                    }
+                ]
             },
             {
                 "number": 3,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 9,
+                        "name": "Chapitre 9"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Chapitre 10"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Chapitre 11"
+                    },
+                    {
+                        "number": 12,
+                        "name": "Chapitre 12"
+                    }
+                ]
             },
             {
                 "number": 4,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 13,
+                        "name": "Chapitre 13"
+                    },
+                    {
+                        "number": 14,
+                        "name": "Chapitre 14"
+                    },
+                    {
+                        "number": 15,
+                        "name": "Chapitre 15"
+                    },
+                    {
+                        "number": 16,
+                        "name": "Chapitre 16"
+                    }
+                ]
             },
             {
                 "number": 5,
