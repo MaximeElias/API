@@ -28371,7 +28371,7 @@
     {
         "id": 65,
         "title": "Black Clover",
-        "status": "En cours",
+        "status": "Terminé",
         "coverUrl": "https://www.nautiljon.com/images/manga/00/24/mini/black_clover_4742.webp?11677855108",
         "volumes": [
             {
@@ -30076,6 +30076,59 @@
                     {
                         "number": 380,
                         "name": "Chapitre 380"
+                    }
+                ]
+            },
+            {
+                "number": 38,
+                "chapters": [
+                    {
+                        "number": 381,
+                        "name": "Chapitre 381"
+                    },
+                    {
+                        "number": 382,
+                        "name": "Chapitre 382"
+                    },
+                    {
+                        "number": 383,
+                        "name": "Chapitre 383"
+                    },
+                    {
+                        "number": 384,
+                        "name": "Chapitre 384"
+                    },
+                    {
+                        "number": 385,
+                        "name": "Chapitre 385"
+                    },
+                    {
+                        "number": 386,
+                        "name": "Chapitre 386"
+                    },
+                    {
+                        "number": 387,
+                        "name": "Chapitre 387"
+                    },
+                    {
+                        "number": 388,
+                        "name": "Chapitre 388"
+                    },
+                    {
+                        "number": 389,
+                        "name": "Chapitre 389"
+                    },
+                    {
+                        "number": 390,
+                        "name": "Chapitre 390"
+                    },
+                    {
+                        "number": 391,
+                        "name": "Chapitre 391"
+                    },
+                    {
+                        "number": 392,
+                        "name": "Chapitre 392"
                     }
                 ]
             }
