@@ -223086,5 +223086,26 @@
                 "chapters": []
             }
         ]
+    },
+    {
+        "id": 630,
+        "title": "Jusqu'à ce que je te tue",
+        "status": "En cours",
+        "coverUrl": "https://www.nautiljon.com/images/manga/00/00/mini/jusqu_a_ce_que_je_te_tue_18300.webp?11649056218",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Chapitre 1"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": []
+            }
+        ]
     }
 ]
