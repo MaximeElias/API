@@ -594,7 +594,7 @@
                     },
                     {
                         "number": 5,
-                        "name": "L'inattention est la pire ennemie !"
+                        "name": "L’inattention est la pire ennemie !"
                     },
                     {
                         "number": 6,
@@ -627,7 +627,7 @@
                     },
                     {
                         "number": 12,
-                        "name": "C'est la fin !"
+                        "name": "C’est la fin !"
                     },
                     {
                         "number": 13,
@@ -656,7 +656,7 @@
                 "chapters": [
                     {
                         "number": 18,
-                        "name": "Début de l'entraînement !"
+                        "name": "Début de l’entraînement !"
                     },
                     {
                         "number": 19,
@@ -672,7 +672,7 @@
                     },
                     {
                         "number": 22,
-                        "name": "Apparition d'un redoutable ennemi !!"
+                        "name": "Apparition d’un redoutable ennemi !!"
                     },
                     {
                         "number": 23,
@@ -705,11 +705,11 @@
                     },
                     {
                         "number": 29,
-                        "name": "L'Être cher... !"
+                        "name": "L’Être cher... !"
                     },
                     {
                         "number": 30,
-                        "name": "L'Avenir...!"
+                        "name": "L’Avenir...!"
                     },
                     {
                         "number": 31,
@@ -733,7 +733,7 @@
                     },
                     {
                         "number": 36,
-                        "name": "La Détresse de Sakura..."
+                        "name": "La détresse de Sakura..."
                     }
                 ]
             },
@@ -754,7 +754,7 @@
                     },
                     {
                         "number": 40,
-                        "name": "La Première Épreuve !!"
+                        "name": "La première épreuve !!"
                     },
                     {
                         "number": 41,
@@ -766,15 +766,15 @@
                     },
                     {
                         "number": 43,
-                        "name": "La Dixième Question..."
+                        "name": "La dixième question..."
                     },
                     {
                         "number": 44,
-                        "name": "Mise à l'épreuve... !"
+                        "name": "Mise à l’épreuve... !"
                     },
                     {
                         "number": 45,
-                        "name": "La Seconde Épreuve !!"
+                        "name": "La seconde épreuve !!"
                     }
                 ]
             },
@@ -807,11 +807,11 @@
                     },
                     {
                         "number": 52,
-                        "name": "La Condition d'utilisation !!"
+                        "name": "La Condition d’utilisation !!"
                     },
                     {
                         "number": 53,
-                        "name": "La Détermination de Sakura !!"
+                        "name": "La détermination de Sakura !!"
                     },
                     {
                         "number": 54,
@@ -832,7 +832,7 @@
                     },
                     {
                         "number": 57,
-                        "name": "Dix heures avant l'échéance !!"
+                        "name": "Dix heures avant l’échéance !!"
                     },
                     {
                         "number": 58,
@@ -844,7 +844,7 @@
                     },
                     {
                         "number": 60,
-                        "name": "La Dernière Chance !!"
+                        "name": "La dernière chance !!"
                     },
                     {
                         "number": 61,
@@ -865,7 +865,7 @@
                 "chapters": [
                     {
                         "number": 64,
-                        "name": "Le Message du Hokage..."
+                        "name": "Le message du Hokage..."
                     },
                     {
                         "number": 65,
@@ -873,7 +873,7 @@
                     },
                     {
                         "number": 66,
-                        "name": "L'Imploration de Sakura"
+                        "name": "L’Imploration de Sakura"
                     },
                     {
                         "number": 67,
@@ -881,7 +881,7 @@
                     },
                     {
                         "number": 68,
-                        "name": "Le Sang des Uchiwa !!"
+                        "name": "Le sang des Uchiwa !!"
                     },
                     {
                         "number": 69,
@@ -910,7 +910,7 @@
                     },
                     {
                         "number": 74,
-                        "name": "La Sixième Rencontre... Suspense !!"
+                        "name": "La sixième rencontre... Suspense !!"
                     },
                     {
                         "number": 75,
@@ -930,7 +930,7 @@
                     },
                     {
                         "number": 79,
-                        "name": "Le Sang des Hyûga"
+                        "name": "Le sang des Hyûga"
                     },
                     {
                         "number": 80,
@@ -947,7 +947,7 @@
                 "chapters": [
                     {
                         "number": 82,
-                        "name": "Le Secret de Lee !!"
+                        "name": "Le secret de Lee !!"
                     },
                     {
                         "number": 83,
@@ -955,7 +955,7 @@
                     },
                     {
                         "number": 84,
-                        "name": "Un génie de l'effort... !!"
+                        "name": "Un génie de l’effort... !!"
                     },
                     {
                         "number": 85,
@@ -975,11 +975,11 @@
                     },
                     {
                         "number": 89,
-                        "name": "La Requête de Naruto... !!"
+                        "name": "La requête de Naruto... !!"
                     },
                     {
                         "number": 90,
-                        "name": "On fait comment pour l'entraînement ?!"
+                        "name": "On fait comment pour l’entraînement ?!"
                     }
                 ]
             },
@@ -1012,7 +1012,7 @@
                     },
                     {
                         "number": 97,
-                        "name": "Pourquoi j'existe... !!"
+                        "name": "Pourquoi j’existe... !!"
                     },
                     {
                         "number": 98,
@@ -1020,7 +1020,7 @@
                     },
                     {
                         "number": 99,
-                        "name": "L'Heure de l'épreuve... Enfin !"
+                        "name": "L’Heure de l’épreuve... Enfin !"
                     }
                 ]
             },
@@ -1029,7 +1029,7 @@
                 "chapters": [
                     {
                         "number": 100,
-                        "name": "Jusqu'au bout de la vaillance... !!"
+                        "name": "Jusqu’au bout de la vaillance... !!"
                     },
                     {
                         "number": 101,
@@ -1037,7 +1037,7 @@
                     },
                     {
                         "number": 102,
-                        "name": "L'Oiseau en cage... !!"
+                        "name": "L’Oiseau en cage... !!"
                     },
                     {
                         "number": 103,
@@ -1049,11 +1049,11 @@
                     },
                     {
                         "number": 105,
-                        "name": "L'oiseau s'est envolé !!"
+                        "name": "L’oiseau s’est envolé !!"
                     },
                     {
                         "number": 106,
-                        "name": "L'Élimination de Sasuke... ?!"
+                        "name": "L’Élimination de Sasuke... ?!"
                     },
                     {
                         "number": 107,
@@ -1074,7 +1074,7 @@
                     },
                     {
                         "number": 110,
-                        "name": "L'heure approche... !!"
+                        "name": "L’heure approche... !!"
                     },
                     {
                         "number": 111,
@@ -1090,15 +1090,15 @@
                     },
                     {
                         "number": 114,
-                        "name": "L'Assaut... !!"
+                        "name": "L’Assaut... !!"
                     },
                     {
                         "number": 115,
-                        "name": "La Fin de l'examen... !!"
+                        "name": "La Fin de l’examen... !!"
                     },
                     {
                         "number": 116,
-                        "name": "La Chute de Konoha... !!"
+                        "name": "La chute de Konoha... !!"
                     },
                     {
                         "number": 117,
@@ -1111,7 +1111,7 @@
                 "chapters": [
                     {
                         "number": 118,
-                        "name": "Retarder l'adversaire...!!"
+                        "name": "Retarder l’adversaire...!!"
                     },
                     {
                         "number": 119,
@@ -1131,7 +1131,7 @@
                     },
                     {
                         "number": 123,
-                        "name": "Le Dernier Sceau"
+                        "name": "Le dernier sceau"
                     },
                     {
                         "number": 124,
@@ -1164,7 +1164,7 @@
                     },
                     {
                         "number": 130,
-                        "name": "L'Amour...!!"
+                        "name": "L’Amour...!!"
                     },
                     {
                         "number": 131,
@@ -1176,11 +1176,11 @@
                     },
                     {
                         "number": 133,
-                        "name": "La Véritable Force...!!"
+                        "name": "La véritable force...!!"
                     },
                     {
                         "number": 134,
-                        "name": "Le Répertoire ninpô de Naruto !!"
+                        "name": "Le répertoire ninpô de Naruto !!"
                     },
                     {
                         "number": 135,
@@ -1201,7 +1201,7 @@
                     },
                     {
                         "number": 138,
-                        "name": "La Bataille de Konoha, dernier acte...!!"
+                        "name": "La bataille de Konoha, dernier acte...!!"
                     },
                     {
                         "number": 139,
@@ -1221,7 +1221,7 @@
                     },
                     {
                         "number": 143,
-                        "name": "L'Héritier"
+                        "name": "L’Héritier"
                     },
                     {
                         "number": 144,
@@ -1234,7 +1234,7 @@
                 "chapters": [
                     {
                         "number": 145,
-                        "name": "Souvenirs de l'indicible"
+                        "name": "Souvenirs de l’indicible"
                     },
                     {
                         "number": 146,
@@ -1246,7 +1246,7 @@
                     },
                     {
                         "number": 148,
-                        "name": "La Puissance d'Itachi !!"
+                        "name": "La puissance d’Itachi !!"
                     },
                     {
                         "number": 149,
@@ -1254,7 +1254,7 @@
                     },
                     {
                         "number": 150,
-                        "name": "Reprise de l'entraînement...?!"
+                        "name": "Reprise de l’entraînement...?!"
                     },
                     {
                         "number": 151,
@@ -1303,7 +1303,7 @@
                     },
                     {
                         "number": 161,
-                        "name": "La Décision de Tsunade !!"
+                        "name": "La décision de Tsunade !!"
                     },
                     {
                         "number": 162,
@@ -1324,11 +1324,11 @@
                     },
                     {
                         "number": 165,
-                        "name": "Naruto passe à l'attaque !!"
+                        "name": "Naruto passe à l’attaque !!"
                     },
                     {
                         "number": 166,
-                        "name": "Ce qui fait le talent d'un shinobi...!!"
+                        "name": "Ce qui fait le talent d’un shinobi...!!"
                     },
                     {
                         "number": 167,
@@ -1377,15 +1377,15 @@
                     },
                     {
                         "number": 177,
-                        "name": "Le Quartet d'Oto"
+                        "name": "Le quartet d’Oto"
                     },
                     {
                         "number": 178,
-                        "name": "L'Invitation d'Oto...!!"
+                        "name": "L’Invitation d’Oto...!!"
                     },
                     {
                         "number": 179,
-                        "name": "N'oublie pas...!!"
+                        "name": "N’oublie pas...!!"
                     },
                     {
                         "number": 180,
@@ -1414,7 +1414,7 @@
                     },
                     {
                         "number": 185,
-                        "name": "À la poursuite d'Oto...!!"
+                        "name": "À la poursuite d’Oto...!!"
                     },
                     {
                         "number": 186,
@@ -1463,7 +1463,7 @@
                     },
                     {
                         "number": 196,
-                        "name": "Le Plus Puissant des ennemis !!"
+                        "name": "Le plus puissant des ennemis !!"
                     },
                     {
                         "number": 197,
@@ -1496,15 +1496,15 @@
                     },
                     {
                         "number": 203,
-                        "name": "Le Secret de Sakon"
+                        "name": "Le secret de Sakon"
                     },
                     {
                         "number": 204,
-                        "name": "Le Pouvoir d'Ukon"
+                        "name": "Le pouvoir d’Ukon"
                     },
                     {
                         "number": 205,
-                        "name": "La Résolution de Kiba !!"
+                        "name": "La résolution de Kiba !!"
                     },
                     {
                         "number": 206,
@@ -1529,7 +1529,7 @@
                     },
                     {
                         "number": 210,
-                        "name": "Le Secret de Lee !!"
+                        "name": "Le secret de Lee !!"
                     },
                     {
                         "number": 211,
@@ -1607,11 +1607,11 @@
                 "chapters": [
                     {
                         "number": 227,
-                        "name": "Les Mille Oiseaux contre l'Orbe Tourbillonnant !!"
+                        "name": "Les mille oiseaux contre l’Orbe tourbillonnant !!"
                     },
                     {
                         "number": 228,
-                        "name": "Le Pressentiment de Kakashi"
+                        "name": "Le pressentiment de Kakashi"
                     },
                     {
                         "number": 229,
@@ -1664,7 +1664,7 @@
                     },
                     {
                         "number": 240,
-                        "name": "Travail d'équipe !!"
+                        "name": "Travail d’équipe !!"
                     },
                     {
                         "number": 241,
@@ -1680,7 +1680,7 @@
                     },
                     {
                         "number": 244,
-                        "name": "Le Héros au Sharingan !!"
+                        "name": "Le héros au Sharingan !!"
                     }
                 ]
             },
@@ -1701,7 +1701,7 @@
                     },
                     {
                         "number": 248,
-                        "name": "Suna face à l'agression...!!"
+                        "name": "Suna face à l’agression...!!"
                     },
                     {
                         "number": 249,
@@ -1738,11 +1738,11 @@
                     },
                     {
                         "number": 256,
-                        "name": "L'ennemi barre la route !!"
+                        "name": "L’ennemi barre la route !!"
                     },
                     {
                         "number": 257,
-                        "name": "L'Expérience de Kakashi"
+                        "name": "L’Expérience de Kakashi"
                     },
                     {
                         "number": 258,
@@ -1750,7 +1750,7 @@
                     },
                     {
                         "number": 259,
-                        "name": "Le Pouvoir d'Itachi !"
+                        "name": "Le pouvoir d’Itachi !"
                     },
                     {
                         "number": 260,
@@ -1775,7 +1775,7 @@
                     },
                     {
                         "number": 264,
-                        "name": "L'Art de Sasori...!!"
+                        "name": "L’Art de Sasori...!!"
                     },
                     {
                         "number": 265,
@@ -1783,7 +1783,7 @@
                     },
                     {
                         "number": 266,
-                        "name": "Le Visage de Sasori...!!"
+                        "name": "Le visage de Sasori...!!"
                     },
                     {
                         "number": 267,
@@ -1795,7 +1795,7 @@
                     },
                     {
                         "number": 269,
-                        "name": "Ce que l'on peut faire !!"
+                        "name": "Ce que l’on peut faire !!"
                     },
                     {
                         "number": 270,
@@ -1803,7 +1803,7 @@
                     },
                     {
                         "number": 271,
-                        "name": "La Force de l'ignorance..."
+                        "name": "La Force de l’ignorance..."
                     }
                 ]
             },
@@ -1836,7 +1836,7 @@
                     },
                     {
                         "number": 278,
-                        "name": "La Mort de Gaara"
+                        "name": "La mort de Gaara"
                     },
                     {
                         "number": 279,
@@ -1857,7 +1857,7 @@
                     },
                     {
                         "number": 282,
-                        "name": "Le Retour de l'unité Kakashi"
+                        "name": "Le retour de l’unité Kakashi"
                     },
                     {
                         "number": 283,
@@ -1869,7 +1869,7 @@
                     },
                     {
                         "number": 285,
-                        "name": "L'Homme de \"La Racine\" !!"
+                        "name": "L’homme de \"la Racine\" !!"
                     },
                     {
                         "number": 286,
@@ -1885,7 +1885,7 @@
                     },
                     {
                         "number": 289,
-                        "name": "L'Espion d'Akatsuki !!"
+                        "name": "L’Espion d’Akatsuki !!"
                     }
                 ]
             },
@@ -1922,7 +1922,7 @@
                     },
                     {
                         "number": 297,
-                        "name": "La Mission de Saï !!"
+                        "name": "La mission de Saï !!"
                     },
                     {
                         "number": 298,
@@ -1939,7 +1939,7 @@
                 "chapters": [
                     {
                         "number": 300,
-                        "name": "Le Livre de Saï !!"
+                        "name": "Le livre de Saï !!"
                     },
                     {
                         "number": 301,
@@ -1951,7 +1951,7 @@
                     },
                     {
                         "number": 303,
-                        "name": "La Trahison de Saï !!"
+                        "name": "La trahison de Saï !!"
                     },
                     {
                         "number": 304,
@@ -1971,7 +1971,7 @@
                     },
                     {
                         "number": 308,
-                        "name": "La Puissance de Sasuke !!"
+                        "name": "La puissance de Sasuke !!"
                     },
                     {
                         "number": 309,
@@ -2000,7 +2000,7 @@
                     },
                     {
                         "number": 314,
-                        "name": "L'Offensive d'Akatsuki...!!"
+                        "name": "L’Offensive d’Akatsuki...!!"
                     },
                     {
                         "number": 315,
@@ -2008,7 +2008,7 @@
                     },
                     {
                         "number": 316,
-                        "name": "C'est parti pour l'entraînement !!"
+                        "name": "C’est parti pour l’entraînement !!"
                     },
                     {
                         "number": 317,
@@ -2045,7 +2045,7 @@
                     },
                     {
                         "number": 324,
-                        "name": "L'Analyse de Shikamaru !!"
+                        "name": "L’Analyse de Shikamaru !!"
                     },
                     {
                         "number": 325,
@@ -2061,11 +2061,11 @@
                     },
                     {
                         "number": 328,
-                        "name": "L'Unité 10"
+                        "name": "L’Unité 10"
                     },
                     {
                         "number": 329,
-                        "name": "Tel est l'objectif...!!"
+                        "name": "Tel est l’objectif...!!"
                     }
                 ]
             },
@@ -2078,11 +2078,11 @@
                     },
                     {
                         "number": 331,
-                        "name": "L'unité 10 se met en route...!!"
+                        "name": "L’unité 10 se met en route...!!"
                     },
                     {
                         "number": 332,
-                        "name": "Le Combat de Shikamaru !!"
+                        "name": "Le combat de Shikamaru !!"
                     },
                     {
                         "number": 333,
@@ -2102,7 +2102,7 @@
                     },
                     {
                         "number": 337,
-                        "name": "Le Génie de Shikamaru...!!"
+                        "name": "Le génie de Shikamaru...!!"
                     },
                     {
                         "number": 338,
@@ -2123,7 +2123,7 @@
                     },
                     {
                         "number": 341,
-                        "name": "Le Fruit de l'entraînement...!!"
+                        "name": "Le Fruit de l’entraînement...!!"
                     },
                     {
                         "number": 342,
@@ -2164,7 +2164,7 @@
                 "chapters": [
                     {
                         "number": 350,
-                        "name": "L'annonce choc... !!"
+                        "name": "L’annonce choc... !!"
                     },
                     {
                         "number": 351,
@@ -2176,11 +2176,11 @@
                     },
                     {
                         "number": 353,
-                        "name": "\"L'Akatsuki\" se rassemble... !!"
+                        "name": "\"L’Akatsuki\" se rassemble... !!"
                     },
                     {
                         "number": 354,
-                        "name": "Ils passent à l'action"
+                        "name": "Ils passent à l’action"
                     },
                     {
                         "number": 355,
@@ -2217,7 +2217,7 @@
                     },
                     {
                         "number": 362,
-                        "name": "Chef d'oeuvre !"
+                        "name": "Chef d’oeuvre !"
                     },
                     {
                         "number": 363,
@@ -2229,7 +2229,7 @@
                     },
                     {
                         "number": 365,
-                        "name": ""
+                        "name": "Chapitre 365"
                     },
                     {
                         "number": 366,
@@ -2241,7 +2241,7 @@
                     },
                     {
                         "number": 368,
-                        "name": "Rassemblement d'informations"
+                        "name": "Rassemblement d’informations"
                     },
                     {
                         "number": 369,
@@ -2266,7 +2266,7 @@
                     },
                     {
                         "number": 373,
-                        "name": "À l'époque de l'apprentissage... !!"
+                        "name": "À l’époque de l’apprentissage... !!"
                     },
                     {
                         "number": 374,
@@ -2274,11 +2274,11 @@
                     },
                     {
                         "number": 375,
-                        "name": "Les Deux Ermites... !!"
+                        "name": "Les deux Ermites... !!"
                     },
                     {
                         "number": 376,
-                        "name": "L'Enfant de la prophétie"
+                        "name": "L’Enfant de la prophétie"
                     },
                     {
                         "number": 377,
@@ -2290,7 +2290,7 @@
                     },
                     {
                         "number": 379,
-                        "name": "Le Choix de Jiraya !!"
+                        "name": "Le choix de Jiraya !!"
                     }
                 ]
             },
@@ -2303,11 +2303,11 @@
                     },
                     {
                         "number": 381,
-                        "name": "L'Identité de Pain... !!"
+                        "name": "L’Identité de Pain... !!"
                     },
                     {
                         "number": 382,
-                        "name": "Le Véritable Choix !!"
+                        "name": "Le véritable choix !!"
                     },
                     {
                         "number": 383,
@@ -2319,7 +2319,7 @@
                     },
                     {
                         "number": 385,
-                        "name": "Le Secret du Kaléidoscope Hypnotique... !!"
+                        "name": "Le secret du Kaléidoscope hypnotique... !!"
                     },
                     {
                         "number": 386,
@@ -2344,7 +2344,7 @@
                 "chapters": [
                     {
                         "number": 390,
-                        "name": "La Dernière Technique... !!"
+                        "name": "La dernière technique... !!"
                     },
                     {
                         "number": 391,
@@ -2360,11 +2360,11 @@
                     },
                     {
                         "number": 394,
-                        "name": "La Victoire de Sasuke"
+                        "name": "La victoire de Sasuke"
                     },
                     {
                         "number": 395,
-                        "name": "Le Mystère de Tobi"
+                        "name": "Le mystère de Tobi"
                     },
                     {
                         "number": 396,
@@ -2405,7 +2405,7 @@
                     },
                     {
                         "number": 404,
-                        "name": "« Le Faucon » et « Akatsuki »"
+                        "name": "« le Faucon » et « Akatsuki »"
                     },
                     {
                         "number": 405,
@@ -2417,19 +2417,19 @@
                     },
                     {
                         "number": 407,
-                        "name": "À l'attention de Naruto"
+                        "name": "À l’attention de Naruto"
                     },
                     {
                         "number": 408,
-                        "name": "La Proposition de Fukasaku"
+                        "name": "La proposition de Fukasaku"
                     },
                     {
                         "number": 409,
-                        "name": "Traditions d'ermite"
+                        "name": "Traditions d’ermite"
                     },
                     {
                         "number": 410,
-                        "name": "La Bataille du col d'Unraï !!"
+                        "name": "La bataille du col d’Unraï !!"
                     },
                     {
                         "number": 411,
@@ -2458,7 +2458,7 @@
                     },
                     {
                         "number": 416,
-                        "name": "Récits héroïques d'ermites shinobis"
+                        "name": "Récits héroïques d’ermites shinobis"
                     },
                     {
                         "number": 417,
@@ -2466,7 +2466,7 @@
                     },
                     {
                         "number": 418,
-                        "name": "Naruto, l'ermite"
+                        "name": "Naruto, l’ermite"
                     },
                     {
                         "number": 419,
@@ -2511,7 +2511,7 @@
                     },
                     {
                         "number": 428,
-                        "name": "L'Entretien !!"
+                        "name": "L’Entretien !!"
                     },
                     {
                         "number": 429,
@@ -2519,15 +2519,15 @@
                     },
                     {
                         "number": 430,
-                        "name": "Le Retour de Naruto !!"
+                        "name": "Le retour de Naruto !!"
                     },
                     {
                         "number": 431,
-                        "name": "L'Éruption Naruto !!"
+                        "name": "L’Éruption Naruto !!"
                     },
                     {
                         "number": 432,
-                        "name": "L'Orbe Shuriken, revisité !!"
+                        "name": "L’Orbe Shuriken, revisité !!"
                     }
                 ]
             },
@@ -2536,7 +2536,7 @@
                 "chapters": [
                     {
                         "number": 433,
-                        "name": "L'Échec du Senjutsu...?!"
+                        "name": "L’Échec du Senjutsu...?!"
                     },
                     {
                         "number": 434,
@@ -2560,7 +2560,7 @@
                     },
                     {
                         "number": 439,
-                        "name": "Naissance de l'Astre divin"
+                        "name": "Naissance de l’Astre divin"
                     },
                     {
                         "number": 440,
@@ -2605,7 +2605,7 @@
                     },
                     {
                         "number": 449,
-                        "name": "Fleur d'espoir"
+                        "name": "Fleur d’espoir"
                     },
                     {
                         "number": 450,
@@ -2613,11 +2613,11 @@
                     },
                     {
                         "number": 451,
-                        "name": "Le Cas Sasuke !!"
+                        "name": "Le cas Sasuke !!"
                     },
                     {
                         "number": 452,
-                        "name": "L'Étau Danzô se resserre !!"
+                        "name": "L’Étau Danzô se resserre !!"
                     },
                     {
                         "number": 453,
@@ -2638,11 +2638,11 @@
                     },
                     {
                         "number": 456,
-                        "name": "Le Départ de Naruto... !!"
+                        "name": "Le départ de Naruto... !!"
                     },
                     {
                         "number": 457,
-                        "name": "Le Conseil des cinq Kage... !!"
+                        "name": "Le conseil des cinq Kage... !!"
                     },
                     {
                         "number": 458,
@@ -2650,7 +2650,7 @@
                     },
                     {
                         "number": 459,
-                        "name": "La Résolution de Sakura !!"
+                        "name": "La résolution de Sakura !!"
                     },
                     {
                         "number": 460,
@@ -2658,7 +2658,7 @@
                     },
                     {
                         "number": 461,
-                        "name": "Les Nuages vs Le Faucon !!"
+                        "name": "Les Nuages vs le Faucon !!"
                     },
                     {
                         "number": 462,
@@ -2675,7 +2675,7 @@
                 "chapters": [
                     {
                         "number": 464,
-                        "name": "La Puissance des Ténèbres... !!"
+                        "name": "La puissance des ténèbres... !!"
                     },
                     {
                         "number": 465,
@@ -2720,7 +2720,7 @@
                 "chapters": [
                     {
                         "number": 474,
-                        "name": "La Résolution du Hokage... !!"
+                        "name": "La résolution du Hokage... !!"
                     },
                     {
                         "number": 475,
@@ -2748,11 +2748,11 @@
                     },
                     {
                         "number": 481,
-                        "name": "Le Trépas de Danzô !!"
+                        "name": "Le trépas de Danzô !!"
                     },
                     {
                         "number": 482,
-                        "name": "Rien qu'une fois..."
+                        "name": "Rien qu’une fois..."
                     },
                     {
                         "number": 483,
@@ -2773,7 +2773,7 @@
                     },
                     {
                         "number": 486,
-                        "name": "Passe d'armes"
+                        "name": "Passe d’armes"
                     },
                     {
                         "number": 487,
@@ -2789,11 +2789,11 @@
                     },
                     {
                         "number": 490,
-                        "name": "La Vérité sur Kyûbi !!"
+                        "name": "La vérité sur Kyûbi !!"
                     },
                     {
                         "number": 491,
-                        "name": "Le Confinement des Réceptacles !!"
+                        "name": "Le confinement des réceptacles !!"
                     },
                     {
                         "number": 492,
@@ -2814,7 +2814,7 @@
                 "chapters": [
                     {
                         "number": 495,
-                        "name": "L'Anéantissement du Naruto obscur !!"
+                        "name": "L’Anéantissement du Naruto obscur !!"
                     },
                     {
                         "number": 496,
@@ -2834,19 +2834,19 @@
                     },
                     {
                         "number": 500,
-                        "name": "La Naissance de Naruto"
+                        "name": "La naissance de Naruto"
                     },
                     {
                         "number": 501,
-                        "name": "Le Raid de Kyûbi !!"
+                        "name": "Le raid de Kyûbi !!"
                     },
                     {
                         "number": 502,
-                        "name": "Le Dernier Combat du 4e Hokage!!"
+                        "name": "Le dernier combat du 4e Hokage!!"
                     },
                     {
                         "number": 503,
-                        "name": "Minato et l'Emprisonnement des Morts !!"
+                        "name": "Minato et l’emprisonnement des morts !!"
                     },
                     {
                         "number": 504,
@@ -2887,7 +2887,7 @@
                     },
                     {
                         "number": 512,
-                        "name": "La Vérité de Zetsu !!"
+                        "name": "La vérité de Zetsu !!"
                     },
                     {
                         "number": 513,
@@ -2895,7 +2895,7 @@
                     },
                     {
                         "number": 514,
-                        "name": "Les Desseins de Kabuto !"
+                        "name": "Les desseins de Kabuto !"
                     }
                 ]
             },
@@ -2904,31 +2904,31 @@
                 "chapters": [
                     {
                         "number": 515,
-                        "name": "Le Début de la Grande Guerre !"
+                        "name": "Le début de la grande guerre !"
                     },
                     {
                         "number": 516,
-                        "name": "Le Discours de Gaara"
+                        "name": "Le discours de Gaara"
                     },
                     {
                         "number": 517,
-                        "name": "La « Guerre » vue par Omoï !!"
+                        "name": "La « guerre » vue par Omoï !!"
                     },
                     {
                         "number": 518,
-                        "name": "L'Offensive des unités d'attaque-surprise !!"
+                        "name": "L’Offensive des unités d’attaque-surprise !!"
                     },
                     {
                         "number": 519,
-                        "name": "L'Orbe des Démons à Queues"
+                        "name": "L’Orbe des démons à queues"
                     },
                     {
                         "number": 520,
-                        "name": "Le Secret de la Réincarnation des Âmes"
+                        "name": "Le secret de la réincarnation des âmes"
                     },
                     {
                         "number": 521,
-                        "name": "L'armée passe à l'attaque !!"
+                        "name": "L’armée passe à l’attaque !!"
                     },
                     {
                         "number": 522,
@@ -2936,7 +2936,7 @@
                     },
                     {
                         "number": 523,
-                        "name": "Les Sept Ninjas Spadassins Légendaires !!"
+                        "name": "Les sept Ninjas spadassins légendaires !!"
                     },
                     {
                         "number": 524,
@@ -2969,15 +2969,15 @@
                     },
                     {
                         "number": 530,
-                        "name": "La Détermination de Chôji"
+                        "name": "La détermination de Chôji"
                     },
                     {
                         "number": 531,
-                        "name": "L'Équipe Asuma de nouveau réunie !"
+                        "name": "L’Équipe Asuma de nouveau réunie !"
                     },
                     {
                         "number": 532,
-                        "name": "La Conclusion du combat « Mifune vs Hanzô » !!"
+                        "name": "La conclusion du combat « Mifune vs Hanzô » !!"
                     },
                     {
                         "number": 533,
@@ -2985,7 +2985,7 @@
                     },
                     {
                         "number": 534,
-                        "name": "Les Adieux au trio « Ino-Shika-Chô » !!"
+                        "name": "Les adieux au trio « Ino-Shika-Chô » !!"
                     }
                 ]
             },
@@ -2994,7 +2994,7 @@
                 "chapters": [
                     {
                         "number": 535,
-                        "name": "Le Message d'Iruka"
+                        "name": "Le message d’Iruka"
                     },
                     {
                         "number": 536,
@@ -3006,7 +3006,7 @@
                     },
                     {
                         "number": 538,
-                        "name": "L'Interrogatoire"
+                        "name": "L’Interrogatoire"
                     },
                     {
                         "number": 539,
@@ -3014,7 +3014,7 @@
                     },
                     {
                         "number": 540,
-                        "name": "La Stratégie de Madara !!"
+                        "name": "La stratégie de Madara !!"
                     },
                     {
                         "number": 541,
@@ -3022,7 +3022,7 @@
                     },
                     {
                         "number": 542,
-                        "name": "Le plus Puissant Tandem de tous les temps !!"
+                        "name": "Le plus puissant tandem de tous les temps !!"
                     },
                     {
                         "number": 543,
@@ -3030,7 +3030,7 @@
                     },
                     {
                         "number": 544,
-                        "name": "Les Deux Soleils !!"
+                        "name": "Les deux soleils !!"
                     }
                 ]
             },
@@ -3039,7 +3039,7 @@
                 "chapters": [
                     {
                         "number": 545,
-                        "name": "Une armée d'immortels !!"
+                        "name": "Une armée d’immortels !!"
                     },
                     {
                         "number": 546,
@@ -3047,7 +3047,7 @@
                     },
                     {
                         "number": 547,
-                        "name": "La Véritable Valeur !!"
+                        "name": "La véritable valeur !!"
                     },
                     {
                         "number": 548,
@@ -3055,11 +3055,11 @@
                     },
                     {
                         "number": 549,
-                        "name": "La Question d'Itachi !!"
+                        "name": "La question d’Itachi !!"
                     },
                     {
                         "number": 550,
-                        "name": "« Les Déités Célestes »"
+                        "name": "« les Déités Célestes »"
                     },
                     {
                         "number": 551,
@@ -3067,7 +3067,7 @@
                     },
                     {
                         "number": 552,
-                        "name": "La Condition pour devenir Hokage... !!"
+                        "name": "La condition pour devenir Hokage... !!"
                     },
                     {
                         "number": 553,
@@ -3075,7 +3075,7 @@
                     },
                     {
                         "number": 554,
-                        "name": "Les Limites de l'Orbe Shuriken... !!"
+                        "name": "Les limites de l’Orbe Shuriken... !!"
                     },
                     {
                         "number": 555,
@@ -3092,15 +3092,15 @@
                     },
                     {
                         "number": 557,
-                        "name": "Les Brumes du Tyran !!"
+                        "name": "Les brumes du tyran !!"
                     },
                     {
                         "number": 558,
-                        "name": "L'Atout de Kabuto... !!"
+                        "name": "L’Atout de Kabuto... !!"
                     },
                     {
                         "number": 559,
-                        "name": "L'Arrivée des renforts... !!"
+                        "name": "L’Arrivée des renforts... !!"
                     },
                     {
                         "number": 560,
@@ -3108,7 +3108,7 @@
                     },
                     {
                         "number": 561,
-                        "name": "Le Pouvoir d'un nom"
+                        "name": "Le Pouvoir d’un nom"
                     },
                     {
                         "number": 562,
@@ -3120,7 +3120,7 @@
                     },
                     {
                         "number": 564,
-                        "name": "L'Homme qui n'était personne"
+                        "name": "L’Homme qui n’était personne"
                     },
                     {
                         "number": 565,
@@ -3133,11 +3133,11 @@
                 "chapters": [
                     {
                         "number": 566,
-                        "name": "La Pupille et le Fauve"
+                        "name": "La pupille et le fauve"
                     },
                     {
                         "number": 567,
-                        "name": "Le Réceptacle du village des Feuilles"
+                        "name": "Le réceptacle du village des feuilles"
                     },
                     {
                         "number": 568,
@@ -3165,7 +3165,7 @@
                     },
                     {
                         "number": 574,
-                        "name": "L'Œil rivé sur les ténèbres"
+                        "name": "L’Œil rivé sur les ténèbres"
                     },
                     {
                         "number": 575,
@@ -3214,11 +3214,11 @@
                     },
                     {
                         "number": 585,
-                        "name": "Pour m'accomplir moi-même"
+                        "name": "Pour m’accomplir moi-même"
                     },
                     {
                         "number": 586,
-                        "name": "L'Activation d'Izanami"
+                        "name": "L’Activation d’Izanami"
                     },
                     {
                         "number": 587,
@@ -3235,11 +3235,11 @@
                     },
                     {
                         "number": 589,
-                        "name": "La Révocation d'Edotensei"
+                        "name": "La révocation d’Edotensei"
                     },
                     {
                         "number": 590,
-                        "name": "Je t'aimerai toujours"
+                        "name": "Je t’aimerai toujours"
                     },
                     {
                         "number": 591,
@@ -3247,7 +3247,7 @@
                     },
                     {
                         "number": 592,
-                        "name": "Le Troisième Pouvoir"
+                        "name": "Le troisième pouvoir"
                     },
                     {
                         "number": 593,
@@ -3267,7 +3267,7 @@
                     },
                     {
                         "number": 597,
-                        "name": "Les Arcanes du Ninjutsu spatio-temporel"
+                        "name": "Les arcanes du Ninjutsu spatio-temporel"
                     }
                 ]
             },
@@ -3312,7 +3312,7 @@
                     },
                     {
                         "number": 607,
-                        "name": "Aucune espèce d'importance"
+                        "name": "Aucune espèce d’importance"
                     }
                 ]
             },
@@ -3321,7 +3321,7 @@
                 "chapters": [
                     {
                         "number": 608,
-                        "name": "La Décision de Kakashi !!"
+                        "name": "La décision de Kakashi !!"
                     },
                     {
                         "number": 609,
@@ -3337,7 +3337,7 @@
                     },
                     {
                         "number": 612,
-                        "name": "L'Art de l'Alliance Shinobi"
+                        "name": "L’art de l’Alliance Shinobi"
                     },
                     {
                         "number": 613,
@@ -3386,7 +3386,7 @@
                     },
                     {
                         "number": 623,
-                        "name": "Vue d'ensemble"
+                        "name": "Vue d’ensemble"
                     },
                     {
                         "number": 624,
@@ -3402,7 +3402,7 @@
                     },
                     {
                         "number": 627,
-                        "name": "La Réponse de Sasuke"
+                        "name": "La réponse de Sasuke"
                     }
                 ]
             },
@@ -3423,7 +3423,7 @@
                     },
                     {
                         "number": 631,
-                        "name": "L'Équipe 7"
+                        "name": "L’Équipe 7"
                     },
                     {
                         "number": 632,
@@ -3431,7 +3431,7 @@
                     },
                     {
                         "number": 633,
-                        "name": "Vers l'avant"
+                        "name": "Vers l’avant"
                     },
                     {
                         "number": 634,
@@ -3443,11 +3443,11 @@
                     },
                     {
                         "number": 636,
-                        "name": "L'Obito d'aujourd'hui"
+                        "name": "L’Obito d’aujourd’hui"
                     },
                     {
                         "number": 637,
-                        "name": "Le Réceptacle de Jûbi"
+                        "name": "Le réceptacle de Jûbi"
                     }
                 ]
             },
@@ -3460,7 +3460,7 @@
                     },
                     {
                         "number": 639,
-                        "name": "L'Assaut"
+                        "name": "L’Assaut"
                     },
                     {
                         "number": 640,
@@ -3488,7 +3488,7 @@
                     },
                     {
                         "number": 646,
-                        "name": "L'Arbre divin"
+                        "name": "L’Arbre divin"
                     },
                     {
                         "number": 647,
@@ -3517,7 +3517,7 @@
                     },
                     {
                         "number": 652,
-                        "name": "L'Empreinte de Naruto"
+                        "name": "L’Empreinte de Naruto"
                     },
                     {
                         "number": 653,
@@ -3546,7 +3546,7 @@
                 "chapters": [
                     {
                         "number": 658,
-                        "name": "Les Bijūs contre Madara...!!"
+                        "name": "Les bijūs contre Madara...!!"
                     },
                     {
                         "number": 659,
@@ -3566,7 +3566,7 @@
                     },
                     {
                         "number": 663,
-                        "name": "Quoi qu'il m'en coûte !"
+                        "name": "Quoi qu’il m’en coûte !"
                     },
                     {
                         "number": 664,
@@ -3599,11 +3599,11 @@
                     },
                     {
                         "number": 670,
-                        "name": "L'Homme du commencement"
+                        "name": "L’Homme du commencement"
                     },
                     {
                         "number": 671,
-                        "name": "Naruto et l'Ermite Rikudô... !"
+                        "name": "Naruto et l’Ermite Rikudô... !"
                     },
                     {
                         "number": 672,
@@ -3619,7 +3619,7 @@
                     },
                     {
                         "number": 675,
-                        "name": "Ton rêve d'aujourd'hui"
+                        "name": "Ton rêve d’aujourd’hui"
                     },
                     {
                         "number": 676,
@@ -3652,7 +3652,7 @@
                     },
                     {
                         "number": 682,
-                        "name": "T'avais encore jamais vu ça, hein ?!"
+                        "name": "T’avais encore jamais vu ça, hein ?!"
                     },
                     {
                         "number": 683,
@@ -3672,7 +3672,7 @@
                     },
                     {
                         "number": 687,
-                        "name": "Quoi qu'il advienne !"
+                        "name": "Quoi qu’il advienne !"
                     },
                     {
                         "number": 688,
