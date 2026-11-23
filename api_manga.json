@@ -28396,15 +28396,15 @@
                 "chapters": [
                     {
                         "number": 1,
-                        "name": "Chapitre 1"
+                        "name": "LE SERMENT"
                     },
                     {
                         "number": 2,
-                        "name": "Chapitre 2"
+                        "name": "LE TEST DE RECRUTEMENT"
                     },
                     {
                         "number": 3,
-                        "name": "Chapitre 3"
+                        "name": "PREMIER PAS"
                     },
                     {
                         "number": 4,
@@ -30125,27 +30125,27 @@
                     },
                     {
                         "number": 387,
-                        "name": "Chapitre 387"
+                        "name": "Limit Breakers"
                     },
                     {
                         "number": 388,
-                        "name": "Chapitre 388"
+                        "name": "L’heure de la sentence"
                     },
                     {
                         "number": 389,
-                        "name": "Chapitre 389"
+                        "name": "Un formidable exploit"
                     },
                     {
                         "number": 390,
-                        "name": "Chapitre 390"
+                        "name": "Le duel du serment"
                     },
                     {
                         "number": 391,
-                        "name": "Chapitre 391"
+                        "name": "L’issue tant attendue"
                     },
                     {
                         "number": 392,
-                        "name": "Chapitre 392"
+                        "name": "Page finale: Sans jamais renoncer"
                     }
                 ]
             }
