@@ -10,10 +10,10 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 
 ## Métadonnées de génération
 
-- Généré le : **2026-11-24 22:20 UTC**
+- Généré le : **2026-11-24 22:34 UTC**
 - Source : fichier `api_manga.json` du dépôt API
-- SHA1 git blob : `ddb1eb9f077b2384ef62c5d32fc361f3296973d6`
-- Taille : `7339712` octets
+- SHA1 git blob : `fcbee846aab892b8bb3392b1cb9cdcdac9c6243c`
+- Taille : `7339841` octets
 - Entrées : **655**
 
 ## Résumé
@@ -21,7 +21,7 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | Groupe | Séries | 100 % | Chapitres nommés | Total chapitres | % global |
 |---|---:|---:|---:|---:|---:|
 | Terminé / Abandonné | 398 | 32 | 6217 | 27255 | 22,81% |
-| En cours | 257 | 20 | 4319 | 22279 | 19,39% |
+| En cours | 257 | 20 | 4319 | 22280 | 19,39% |
 
 > **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision enregistrée le 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
 
@@ -542,8 +542,8 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | 108 | 61 | Berserk of Gluttony | En cours | 0/75 | 0,00% |
 | 109 | 622 | Choujin X | En cours | 0/75 | 0,00% |
 | 110 | 433 | Sounds of Life | En cours | 0/74 | 0,00% |
-| 111 | 540 | Witches' War | En cours | 0/73 | 0,00% |
-| 112 | 655 | Three Sisters in Love with You | En cours | 0/73 | 0,00% |
+| 111 | 655 | Three Sisters in Love with You | En cours | 0/74 | 0,00% |
+| 112 | 540 | Witches' War | En cours | 0/73 | 0,00% |
 | 113 | 470 | The Apocalypse Death Knight Returns | En cours | 0/70 | 0,00% |
 | 114 | 85 | Bucket List of the Dead | En cours | 0/65 | 0,00% |
 | 115 | 241 | The Eminence in Shadow | En cours | 0/65 | 0,00% |
