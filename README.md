@@ -10,17 +10,17 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 
 ## Métadonnées de génération
 
-- Généré le : **2026-11-24 21:27 UTC**
+- Généré le : **2026-11-24 21:36 UTC**
 - Source : fichier `api_manga.json` du dépôt API
-- SHA1 git blob : `89d186d823f1e1ef317ce37bd7158c6c295d5864`
-- Taille : `7331035` octets
+- SHA1 git blob : `25dee6cc6ce5d348a94e9c30261502b64414ea3f`
+- Taille : `7335414` octets
 - Entrées : **655**
 
 ## Résumé
 
 | Groupe | Séries | 100 % | Chapitres nommés | Total chapitres | % global |
 |---|---:|---:|---:|---:|---:|
-| Terminé / Abandonné | 398 | 30 | 5244 | 27255 | 19,24% |
+| Terminé / Abandonné | 398 | 31 | 5789 | 27255 | 21,24% |
 | En cours | 257 | 20 | 4319 | 22273 | 19,39% |
 
 > **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision enregistrée le 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
@@ -31,40 +31,40 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 |---:|---:|---|---|---:|---:|
 | 1 | 3 | Naruto | Terminé | 700/700 | 100,00% |
 | 2 | 69 | Bleach | Terminé | 686/686 | 100,00% |
-| 3 | 131 | Dragon Ball | Terminé | 519/519 | 100,00% |
-| 4 | 65 | Black Clover | Terminé | 392/392 | 100,00% |
-| 5 | 217 | Initial D | Terminé | 305/305 | 100,00% |
-| 6 | 314 | Love × Dilemma | Terminé | 276/276 | 100,00% |
-| 7 | 226 | Jujutsu Kaisen | Terminé | 271/271 | 100,00% |
-| 8 | 522 | Undead Unluck | Terminé | 239/239 | 100,00% |
-| 9 | 96 | Chainsaw Man | Terminé | 232/232 | 100,00% |
-| 10 | 8 | 2.5 Dimensional Seduction | Terminé | 201/201 | 100,00% |
-| 11 | 37 | Ao Ashi | Terminé | 199/199 | 100,00% |
-| 12 | 17 | A Certain Scientific Railgun | Terminé | 170/170 | 100,00% |
-| 13 | 436 | Friends Games | Terminé | 127/127 | 100,00% |
-| 14 | 482 | My Hero Academia - Vigilante | Terminé | 126/126 | 100,00% |
-| 15 | 422 | The Quintessential Quintuplets | Terminé | 122/122 | 100,00% |
-| 16 | 11 | 365 Days to the Wedding | Terminé | 110/110 | 100,00% |
-| 17 | 485 | The Legendary Hero is Dead! | Terminé | 74/74 | 100,00% |
-| 18 | 12 | 5 minutes forward | Terminé | 66/66 | 100,00% |
-| 19 | 21 | A Silent Voice | Terminé | 61/61 | 100,00% |
-| 20 | 2 | +Anima | Terminé | 56/56 | 100,00% |
-| 21 | 453 | Sweetness & Lightning | Terminé | 56/56 | 100,00% |
-| 22 | 6 | 100 jours avant ta mort | Terminé | 44/44 | 100,00% |
-| 23 | 469 | The Alexis Empire Chronicle | Terminé | 34/34 | 100,00% |
-| 24 | 32 | All You Need is Kill | Terminé | 17/17 | 100,00% |
-| 25 | 473 | The Dark Saint | Terminé | 17/17 | 100,00% |
-| 26 | 466 | Sword Art Online : Alicization Lycoris | Terminé | 16/16 | 100,00% |
-| 27 | 39 | Arcanum | Terminé | 11/11 | 100,00% |
-| 28 | 435 | Betrayal Games | Terminé | 7/7 | 100,00% |
-| 29 | 7 | 17-21 | Terminé | 4/4 | 100,00% |
-| 30 | 9 | 22-26 | Terminé | 4/4 | 100,00% |
-| 31 | 38 | Apparently, Disillusioned Adventurers Will Save the World | Terminé | 30/40 | 75,00% |
-| 32 | 15 | 86 -Eighty six- | Abandonné | 12/18 | 66,67% |
-| 33 | 5 | 008 : Apprenti Espion | Terminé | 55/297 | 18,52% |
-| 34 | 138 | Dungeon Reset | Terminé | 2/266 | 0,75% |
-| 35 | 336 | My Hero Academia | Terminé | 3/431 | 0,70% |
-| 36 | 149 | Fairy Tail | Terminé | 0/545 | 0,00% |
+| 3 | 149 | Fairy Tail | Terminé | 545/545 | 100,00% |
+| 4 | 131 | Dragon Ball | Terminé | 519/519 | 100,00% |
+| 5 | 65 | Black Clover | Terminé | 392/392 | 100,00% |
+| 6 | 217 | Initial D | Terminé | 305/305 | 100,00% |
+| 7 | 314 | Love × Dilemma | Terminé | 276/276 | 100,00% |
+| 8 | 226 | Jujutsu Kaisen | Terminé | 271/271 | 100,00% |
+| 9 | 522 | Undead Unluck | Terminé | 239/239 | 100,00% |
+| 10 | 96 | Chainsaw Man | Terminé | 232/232 | 100,00% |
+| 11 | 8 | 2.5 Dimensional Seduction | Terminé | 201/201 | 100,00% |
+| 12 | 37 | Ao Ashi | Terminé | 199/199 | 100,00% |
+| 13 | 17 | A Certain Scientific Railgun | Terminé | 170/170 | 100,00% |
+| 14 | 436 | Friends Games | Terminé | 127/127 | 100,00% |
+| 15 | 482 | My Hero Academia - Vigilante | Terminé | 126/126 | 100,00% |
+| 16 | 422 | The Quintessential Quintuplets | Terminé | 122/122 | 100,00% |
+| 17 | 11 | 365 Days to the Wedding | Terminé | 110/110 | 100,00% |
+| 18 | 485 | The Legendary Hero is Dead! | Terminé | 74/74 | 100,00% |
+| 19 | 12 | 5 minutes forward | Terminé | 66/66 | 100,00% |
+| 20 | 21 | A Silent Voice | Terminé | 61/61 | 100,00% |
+| 21 | 2 | +Anima | Terminé | 56/56 | 100,00% |
+| 22 | 453 | Sweetness & Lightning | Terminé | 56/56 | 100,00% |
+| 23 | 6 | 100 jours avant ta mort | Terminé | 44/44 | 100,00% |
+| 24 | 469 | The Alexis Empire Chronicle | Terminé | 34/34 | 100,00% |
+| 25 | 32 | All You Need is Kill | Terminé | 17/17 | 100,00% |
+| 26 | 473 | The Dark Saint | Terminé | 17/17 | 100,00% |
+| 27 | 466 | Sword Art Online : Alicization Lycoris | Terminé | 16/16 | 100,00% |
+| 28 | 39 | Arcanum | Terminé | 11/11 | 100,00% |
+| 29 | 435 | Betrayal Games | Terminé | 7/7 | 100,00% |
+| 30 | 7 | 17-21 | Terminé | 4/4 | 100,00% |
+| 31 | 9 | 22-26 | Terminé | 4/4 | 100,00% |
+| 32 | 38 | Apparently, Disillusioned Adventurers Will Save the World | Terminé | 30/40 | 75,00% |
+| 33 | 15 | 86 -Eighty six- | Abandonné | 12/18 | 66,67% |
+| 34 | 5 | 008 : Apprenti Espion | Terminé | 55/297 | 18,52% |
+| 35 | 138 | Dungeon Reset | Terminé | 2/266 | 0,75% |
+| 36 | 336 | My Hero Academia | Terminé | 3/431 | 0,70% |
 | 37 | 477 | The Gamer | Terminé | 0/511 | 0,00% |
 | 38 | 417 | Seven Deadly Sins | Terminé | 0/346 | 0,00% |
 | 39 | 158 | Food Wars ! | Terminé | 0/315 | 0,00% |
