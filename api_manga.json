@@ -19962,7 +19962,7 @@
                     },
                     {
                         "number": 20,
-                        "name": "Chapitre 20"
+                        "name": "Union"
                     },
                     {
                         "number": 21,
@@ -19995,15 +19995,15 @@
                     },
                     {
                         "number": 27,
-                        "name": "Chapitre 27"
+                        "name": "Arithmétique à mains nues"
                     },
                     {
                         "number": 28,
-                        "name": "Chapitre 28"
+                        "name": "Entraînement"
                     },
                     {
                         "number": 29,
-                        "name": "Chapitre 29"
+                        "name": "Dans les ténèbres"
                     }
                 ]
             },
@@ -20012,15 +20012,15 @@
                 "chapters": [
                     {
                         "number": 30,
-                        "name": "Chapitre 30"
+                        "name": "Rêves"
                     },
                     {
                         "number": 31,
-                        "name": "Chapitre 31"
+                        "name": "Rumeurs nocturnes"
                     },
                     {
                         "number": 32,
-                        "name": "Chapitre 32"
+                        "name": "Test"
                     },
                     {
                         "number": 33,
