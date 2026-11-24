@@ -10,10 +10,10 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 
 ## Métadonnées de génération
 
-- Généré le : **2026-11-24 22:07 UTC**
+- Généré le : **2026-11-24 22:20 UTC**
 - Source : fichier `api_manga.json` du dépôt API
-- SHA1 git blob : `e80440921e056e19e20eb5c6108e6c88e409e304`
-- Taille : `7339331` octets
+- SHA1 git blob : `ddb1eb9f077b2384ef62c5d32fc361f3296973d6`
+- Taille : `7339712` octets
 - Entrées : **655**
 
 ## Résumé
@@ -21,7 +21,7 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | Groupe | Séries | 100 % | Chapitres nommés | Total chapitres | % global |
 |---|---:|---:|---:|---:|---:|
 | Terminé / Abandonné | 398 | 32 | 6217 | 27255 | 22,81% |
-| En cours | 257 | 20 | 4319 | 22276 | 19,39% |
+| En cours | 257 | 20 | 4319 | 22279 | 19,39% |
 
 > **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision enregistrée le 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
 
@@ -618,28 +618,28 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | 184 | 303 | Les Torches d'Arkylon | En cours | 0/7 | 0,00% |
 | 185 | 603 | Agents of the Four Seasons - La danse du printemps | En cours | 0/7 | 0,00% |
 | 186 | 629 | Zange | En cours | 0/7 | 0,00% |
-| 187 | 78 | Bofuri : Je suis pas venue ici pour souffrir alors j'ai tout mis en défense | En cours | 0/6 | 0,00% |
-| 188 | 130 | Dragon & Caméléon | En cours | 0/6 | 0,00% |
-| 189 | 279 | La Voleuse de Lumière | En cours | 0/6 | 0,00% |
-| 190 | 285 | Le Pacte millénaire | En cours | 0/6 | 0,00% |
-| 191 | 320 | Mangass | En cours | 0/6 | 0,00% |
-| 192 | 379 | Profession Héros | En cours | 0/6 | 0,00% |
-| 193 | 395 | Rent-a-(really-Shy)-Girlfriend | En cours | 0/6 | 0,00% |
-| 194 | 414 | Sans Fond | En cours | 0/6 | 0,00% |
-| 195 | 490 | The Most Notorious Talker | En cours | 0/6 | 0,00% |
-| 196 | 118 | Dark Souls Redemption | En cours | 0/5 | 0,00% |
-| 197 | 213 | In Her World | En cours | 0/5 | 0,00% |
-| 198 | 300 | Les Prisonniers du Rêve | En cours | 0/5 | 0,00% |
-| 199 | 487 | The Legende of Kameron | En cours | 0/5 | 0,00% |
-| 200 | 609 | Ma Vie Tranquille de Forgeron dans un Autre Monde | En cours | 0/5 | 0,00% |
-| 201 | 111 | DOGA of the Great Arch | En cours | 0/4 | 0,00% |
-| 202 | 190 | Harem in the Fantasy World Dungeon | En cours | 0/4 | 0,00% |
-| 203 | 220 | Iwamoto Senpai | En cours | 0/4 | 0,00% |
-| 204 | 231 | Kaijû Girl Carameliser | En cours | 0/4 | 0,00% |
-| 205 | 399 | Rigel Afterlife | En cours | 0/4 | 0,00% |
-| 206 | 432 | Soul's Control | En cours | 0/4 | 0,00% |
-| 207 | 528 | Valkyrie Apocalypse - L'Affaire Jack l'Éventreur | En cours | 0/4 | 0,00% |
-| 208 | 649 | I Couldn’t Draw It, so I Tried Doing It | En cours | 0/4 | 0,00% |
+| 187 | 649 | I Couldn’t Draw It, so I Tried Doing It | En cours | 0/7 | 0,00% |
+| 188 | 78 | Bofuri : Je suis pas venue ici pour souffrir alors j'ai tout mis en défense | En cours | 0/6 | 0,00% |
+| 189 | 130 | Dragon & Caméléon | En cours | 0/6 | 0,00% |
+| 190 | 279 | La Voleuse de Lumière | En cours | 0/6 | 0,00% |
+| 191 | 285 | Le Pacte millénaire | En cours | 0/6 | 0,00% |
+| 192 | 320 | Mangass | En cours | 0/6 | 0,00% |
+| 193 | 379 | Profession Héros | En cours | 0/6 | 0,00% |
+| 194 | 395 | Rent-a-(really-Shy)-Girlfriend | En cours | 0/6 | 0,00% |
+| 195 | 414 | Sans Fond | En cours | 0/6 | 0,00% |
+| 196 | 490 | The Most Notorious Talker | En cours | 0/6 | 0,00% |
+| 197 | 118 | Dark Souls Redemption | En cours | 0/5 | 0,00% |
+| 198 | 213 | In Her World | En cours | 0/5 | 0,00% |
+| 199 | 300 | Les Prisonniers du Rêve | En cours | 0/5 | 0,00% |
+| 200 | 487 | The Legende of Kameron | En cours | 0/5 | 0,00% |
+| 201 | 609 | Ma Vie Tranquille de Forgeron dans un Autre Monde | En cours | 0/5 | 0,00% |
+| 202 | 111 | DOGA of the Great Arch | En cours | 0/4 | 0,00% |
+| 203 | 190 | Harem in the Fantasy World Dungeon | En cours | 0/4 | 0,00% |
+| 204 | 220 | Iwamoto Senpai | En cours | 0/4 | 0,00% |
+| 205 | 231 | Kaijû Girl Carameliser | En cours | 0/4 | 0,00% |
+| 206 | 399 | Rigel Afterlife | En cours | 0/4 | 0,00% |
+| 207 | 432 | Soul's Control | En cours | 0/4 | 0,00% |
+| 208 | 528 | Valkyrie Apocalypse - L'Affaire Jack l'Éventreur | En cours | 0/4 | 0,00% |
 | 209 | 534 | Welcome to Japan! Elfe de mes rêves… | En cours | 0/3 | 0,00% |
 | 210 | 623 | Classroom for Heroes | En cours | 0/3 | 0,00% |
 | 211 | 272 | La Farouche Femme des neiges et la bague maudite | En cours | 0/2 | 0,00% |
