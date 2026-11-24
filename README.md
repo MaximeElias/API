@@ -542,8 +542,8 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | 108 | 61 | Berserk of Gluttony | En cours | 0/75 | 0,00% |
 | 109 | 622 | Choujin X | En cours | 0/75 | 0,00% |
 | 110 | 433 | Sounds of Life | En cours | 0/74 | 0,00% |
-| 111 | 540 | Witches' War | En cours | 0/73 | 0,00% |
-| 112 | 655 | Three Sisters in Love with You | En cours | 0/73 | 0,00% |
+| 111 | 655 | Three Sisters in Love with You | En cours | 0/74 | 0,00% |
+| 112 | 540 | Witches' War | En cours | 0/73 | 0,00% |
 | 113 | 470 | The Apocalypse Death Knight Returns | En cours | 0/70 | 0,00% |
 | 114 | 85 | Bucket List of the Dead | En cours | 0/65 | 0,00% |
 | 115 | 241 | The Eminence in Shadow | En cours | 0/65 | 0,00% |
