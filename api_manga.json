@@ -213081,11 +213081,11 @@
                     },
                     {
                         "number": 129,
-                        "name": "Chapitre 129"
+                        "name": "Mon premier voisin"
                     },
                     {
                         "number": 130,
-                        "name": "Chapitre 130"
+                        "name": "Mon premier trou dans le mur"
                     },
                     {
                         "number": 131,
@@ -213409,11 +213409,15 @@
                 "chapters": [
                     {
                         "number": 203,
-                        "name": "Chapitre 203"
+                        "name": "Mon premier héros de comédie romantique"
                     },
                     {
                         "number": 204,
-                        "name": "Chapitre 204"
+                        "name": "Ma première expérience pleine de vapeur"
+                    },
+                    {
+                        "number": 205,
+                        "name": "Notre première cérémonie d’ouverture"
                     }
                 ]
             }
