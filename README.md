@@ -4,13 +4,13 @@ Ce README est généré automatiquement depuis `api_manga.json` par `docs/beta/g
 
 ## Règle de calcul
 
-- Un chapitre est considéré **nommé** si son champ `name` est non vide et différent du format générique `Chapitre N` (insensible à la casse, espaces ignorés).
+- Un chapitre est considéré **nommé** si son champ `name` est différent du format générique `Chapitre N` (insensible à la casse, espaces ignorés).
 - **% complétion** = `chapitres nommés / total chapitres × 100`, calculé sur tous les volumes de la série.
 - Les tableaux sont triés par % décroissant, puis total de chapitres décroissant, puis id.
 
 ## Métadonnées de génération
 
-- Généré le : **2026-11-24 21:22 Paris, Madrid**
+- Généré le : **2026-11-24 21:33 Paris, Madrid**
 - Source : `C:\Users\PC\AppData\Local\Temp\opencode\API-clone-20261123\api_manga.json`
 - SHA1 git blob : `0318874a9861fcdc554d8d9905e558d1152d146b`
 - Taille : `7305905` octets
@@ -21,10 +21,10 @@ Ce README est généré automatiquement depuis `api_manga.json` par `docs/beta/g
 
 | Groupe | Séries | 100 % | Chapitres nommés | Total chapitres | % global |
 |---|---:|---:|---:|---:|---:|
-| Terminé / Abandonné | 398 | 28 | 4557 | 27113 | 16,81% |
+| Terminé / Abandonné | 398 | 29 | 4558 | 27113 | 16,81% |
 | En cours | 257 | 20 | 4315 | 22269 | 19,38% |
 
-> **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision Maxime, 24/11/2026). Le calcul automatique peut donc afficher < 100 % ; la série est considérée comme **100 % fonctionnelle** selon cette décision.
+> **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision Maxime, 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
 
 ## Terminé / Abandonné
 
@@ -52,13 +52,13 @@ Ce README est généré automatiquement depuis `api_manga.json` par `docs/beta/g
 | 20 | 453 | Sweetness & Lightning | Terminé | 56/56 | 100,00% |
 | 21 | 6 | 100 jours avant ta mort | Terminé | 44/44 | 100,00% |
 | 22 | 469 | The Alexis Empire Chronicle | Terminé | 34/34 | 100,00% |
-| 23 | 473 | The Dark Saint | Terminé | 17/17 | 100,00% |
-| 24 | 466 | Sword Art Online : Alicization Lycoris | Terminé | 16/16 | 100,00% |
-| 25 | 39 | Arcanum | Terminé | 11/11 | 100,00% |
-| 26 | 435 | Betrayal Games | Terminé | 7/7 | 100,00% |
-| 27 | 7 | 17-21 | Terminé | 4/4 | 100,00% |
-| 28 | 9 | 22-26 | Terminé | 4/4 | 100,00% |
-| 29 | 32 | All You Need is Kill | Terminé | 16/17 | 94,12% |
+| 23 | 32 | All You Need is Kill | Terminé | 17/17 | 100,00% |
+| 24 | 473 | The Dark Saint | Terminé | 17/17 | 100,00% |
+| 25 | 466 | Sword Art Online : Alicization Lycoris | Terminé | 16/16 | 100,00% |
+| 26 | 39 | Arcanum | Terminé | 11/11 | 100,00% |
+| 27 | 435 | Betrayal Games | Terminé | 7/7 | 100,00% |
+| 28 | 7 | 17-21 | Terminé | 4/4 | 100,00% |
+| 29 | 9 | 22-26 | Terminé | 4/4 | 100,00% |
 | 30 | 38 | Apparently, Disillusioned Adventurers Will Save the World | Terminé | 30/40 | 75,00% |
 | 31 | 15 | 86 -Eighty six- | Abandonné | 12/18 | 66,67% |
 | 32 | 5 | 008 : Apprenti Espion | Terminé | 55/155 | 35,48% |
