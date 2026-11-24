@@ -233441,5 +233441,153 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 657,
+        "title": "PEEP",
+        "status": "Terminé",
+        "coverUrl": "https://uploads.mangadex.org/covers/542452db-bd1c-4fba-90ee-1213f0bc6718/620c08aa-bb79-4cdb-9873-b1155cb658bd.jpg.512.jpg",
+        "volumes": [
+            {
+                "number": 1,
+                "chapters": [
+                    {
+                        "number": 1,
+                        "name": "Son secret"
+                    },
+                    {
+                        "number": 2,
+                        "name": "Chapitre 2"
+                    },
+                    {
+                        "number": 3,
+                        "name": "Chapitre 3"
+                    },
+                    {
+                        "number": 4,
+                        "name": "Ordure et péché"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "chapters": [
+                    {
+                        "number": 6,
+                        "name": "Fuite de photos"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Faiblesse secrète"
+                    },
+                    {
+                        "number": 8,
+                        "name": "élève modèle"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Chapitre 9"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Chapitre 10"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Si c’est avec toi..."
+                    },
+                    {
+                        "number": 12,
+                        "name": "Présentiment d’été"
+                    },
+                    {
+                        "number": 13,
+                        "name": "Chapitre 13"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "chapters": [
+                    {
+                        "number": 14,
+                        "name": "Chapitre 14"
+                    },
+                    {
+                        "number": 15,
+                        "name": "Un souhait sur les étoiles"
+                    },
+                    {
+                        "number": 16,
+                        "name": "Chapitre 16"
+                    },
+                    {
+                        "number": 17,
+                        "name": "Lève-toi pour la victoire"
+                    },
+                    {
+                        "number": 18,
+                        "name": "L’été sans toi."
+                    },
+                    {
+                        "number": 19,
+                        "name": "Le téléphone ne sonne pas"
+                    },
+                    {
+                        "number": 20,
+                        "name": "Chapitre 20"
+                    },
+                    {
+                        "number": 21,
+                        "name": "La confession au bord de la mer"
+                    },
+                    {
+                        "number": 22,
+                        "name": "Les problèmes de la jeune Nanami"
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "chapters": [
+                    {
+                        "number": 23,
+                        "name": "Main dans la main"
+                    },
+                    {
+                        "number": 24,
+                        "name": "La nuit dans l’atelier"
+                    },
+                    {
+                        "number": 25,
+                        "name": "Ma petite amie"
+                    },
+                    {
+                        "number": 26,
+                        "name": "Je veux savoir la vérité"
+                    },
+                    {
+                        "number": 27,
+                        "name": "Chapitre 27"
+                    },
+                    {
+                        "number": 28,
+                        "name": "Chapitre 28"
+                    },
+                    {
+                        "number": 29,
+                        "name": "Showtime"
+                    },
+                    {
+                        "number": 30,
+                        "name": "Chapitre 30"
+                    }
+                ]
+            }
+        ]
     }
 ]
