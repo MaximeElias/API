@@ -10,10 +10,10 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 
 ## Métadonnées de génération
 
-- Généré le : **2026-11-24 20:47 UTC**
+- Généré le : **2026-11-24 21:27 UTC**
 - Source : fichier `api_manga.json` du dépôt API
-- SHA1 git blob : `642c1e6194c52c901ea5d1d83b37e212dbebb900`
-- Taille : `7330416` octets
+- SHA1 git blob : `89d186d823f1e1ef317ce37bd7158c6c295d5864`
+- Taille : `7331035` octets
 - Entrées : **655**
 
 ## Résumé
@@ -21,7 +21,7 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | Groupe | Séries | 100 % | Chapitres nommés | Total chapitres | % global |
 |---|---:|---:|---:|---:|---:|
 | Terminé / Abandonné | 398 | 30 | 5244 | 27255 | 19,24% |
-| En cours | 257 | 20 | 4315 | 22269 | 19,38% |
+| En cours | 257 | 20 | 4319 | 22273 | 19,39% |
 
 > **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision enregistrée le 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
 
@@ -435,7 +435,7 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | 1 | 628 | Ippo | En cours | 1493/1493 | 100,00% |
 | 2 | 4 | One Piece | En cours | 1179/1179 | 100,00% |
 | 3 | 18 | A Couple of Cuckoos | En cours | 292/292 | 100,00% |
-| 4 | 612 | Hajimete no Gal | En cours | 203/203 | 100,00% |
+| 4 | 612 | Hajimete no Gal | En cours | 207/207 | 100,00% |
 | 5 | 28 | Akane-Banashi | En cours | 202/202 | 100,00% |
 | 6 | 19 | A Journey beyond Heaven | En cours | 73/73 | 100,00% |
 | 7 | 442 | Unnamed Memory | En cours | 56/56 | 100,00% |
