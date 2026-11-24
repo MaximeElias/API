@@ -12819,27 +12819,19 @@
                 "chapters": [
                     {
                         "number": 13,
-                        "name": "Chapitre 13"
+                        "name": "Fantôme"
                     },
                     {
                         "number": 14,
-                        "name": "Chapitre 14"
+                        "name": "Morts au combat"
                     },
                     {
                         "number": 15,
-                        "name": "Chapitre 15"
+                        "name": "Festival de la Révolution"
                     },
                     {
                         "number": 16,
-                        "name": "Chapitre 16"
-                    },
-                    {
-                        "number": 17,
-                        "name": "Chapitre 17"
-                    },
-                    {
-                        "number": 18,
-                        "name": "Chapitre 18"
+                        "name": "Lieu d’exécution"
                     }
                 ]
             }

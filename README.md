@@ -10,17 +10,17 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 
 ## Métadonnées de génération
 
-- Généré le : **2026-11-24 22:20 UTC**
+- Généré le : **2026-11-24 22:42 UTC**
 - Source : fichier `api_manga.json` du dépôt API
-- SHA1 git blob : `ddb1eb9f077b2384ef62c5d32fc361f3296973d6`
-- Taille : `7339712` octets
+- SHA1 git blob : `edf25dd00e1ffad556e8563c0b474630dda45720`
+- Taille : `7339478` octets
 - Entrées : **655**
 
 ## Résumé
 
 | Groupe | Séries | 100 % | Chapitres nommés | Total chapitres | % global |
 |---|---:|---:|---:|---:|---:|
-| Terminé / Abandonné | 398 | 32 | 6217 | 27255 | 22,81% |
+| Terminé / Abandonné | 398 | 33 | 6221 | 27253 | 22,83% |
 | En cours | 257 | 20 | 4319 | 22279 | 19,39% |
 
 > **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision enregistrée le 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
@@ -56,13 +56,13 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | 25 | 469 | The Alexis Empire Chronicle | Terminé | 34/34 | 100,00% |
 | 26 | 32 | All You Need is Kill | Terminé | 17/17 | 100,00% |
 | 27 | 473 | The Dark Saint | Terminé | 17/17 | 100,00% |
-| 28 | 466 | Sword Art Online : Alicization Lycoris | Terminé | 16/16 | 100,00% |
-| 29 | 39 | Arcanum | Terminé | 11/11 | 100,00% |
-| 30 | 435 | Betrayal Games | Terminé | 7/7 | 100,00% |
-| 31 | 7 | 17-21 | Terminé | 4/4 | 100,00% |
-| 32 | 9 | 22-26 | Terminé | 4/4 | 100,00% |
-| 33 | 38 | Apparently, Disillusioned Adventurers Will Save the World | Terminé | 30/40 | 75,00% |
-| 34 | 15 | 86 -Eighty six- | Abandonné | 12/18 | 66,67% |
+| 28 | 15 | 86 -Eighty six- | Abandonné | 16/16 | 100,00% |
+| 29 | 466 | Sword Art Online : Alicization Lycoris | Terminé | 16/16 | 100,00% |
+| 30 | 39 | Arcanum | Terminé | 11/11 | 100,00% |
+| 31 | 435 | Betrayal Games | Terminé | 7/7 | 100,00% |
+| 32 | 7 | 17-21 | Terminé | 4/4 | 100,00% |
+| 33 | 9 | 22-26 | Terminé | 4/4 | 100,00% |
+| 34 | 38 | Apparently, Disillusioned Adventurers Will Save the World | Terminé | 30/40 | 75,00% |
 | 35 | 5 | 008 : Apprenti Espion | Terminé | 55/297 | 18,52% |
 | 36 | 138 | Dungeon Reset | Terminé | 2/266 | 0,75% |
 | 37 | 477 | The Gamer | Terminé | 0/511 | 0,00% |
