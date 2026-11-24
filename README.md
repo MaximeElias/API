@@ -10,17 +10,17 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 
 ## Métadonnées de génération
 
-- Généré le : **2026-11-24 20:40 UTC**
+- Généré le : **2026-11-24 20:47 UTC**
 - Source : fichier `api_manga.json` du dépôt API
-- SHA1 git blob : `e2a1b3d2c7a33abb389c4393e6b26dbae077f523`
-- Taille : `7311558` octets
+- SHA1 git blob : `642c1e6194c52c901ea5d1d83b37e212dbebb900`
+- Taille : `7330416` octets
 - Entrées : **655**
 
 ## Résumé
 
 | Groupe | Séries | 100 % | Chapitres nommés | Total chapitres | % global |
 |---|---:|---:|---:|---:|---:|
-| Terminé / Abandonné | 398 | 30 | 5244 | 27113 | 19,34% |
+| Terminé / Abandonné | 398 | 30 | 5244 | 27255 | 19,24% |
 | En cours | 257 | 20 | 4315 | 22269 | 19,38% |
 
 > **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision enregistrée le 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
@@ -61,7 +61,7 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | 30 | 9 | 22-26 | Terminé | 4/4 | 100,00% |
 | 31 | 38 | Apparently, Disillusioned Adventurers Will Save the World | Terminé | 30/40 | 75,00% |
 | 32 | 15 | 86 -Eighty six- | Abandonné | 12/18 | 66,67% |
-| 33 | 5 | 008 : Apprenti Espion | Terminé | 55/155 | 35,48% |
+| 33 | 5 | 008 : Apprenti Espion | Terminé | 55/297 | 18,52% |
 | 34 | 138 | Dungeon Reset | Terminé | 2/266 | 0,75% |
 | 35 | 336 | My Hero Academia | Terminé | 3/431 | 0,70% |
 | 36 | 149 | Fairy Tail | Terminé | 0/545 | 0,00% |
