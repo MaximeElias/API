@@ -1,6 +1,6 @@
 # API Manga — Suivi du nommage des chapitres
 
-Ce README est généré automatiquement depuis `api_manga.json` par `docs/beta/generer-readme-api.py` (projet OMEGA).
+Ce README est généré automatiquement depuis `api_manga.json`.
 
 ## Règle de calcul
 
@@ -10,12 +10,11 @@ Ce README est généré automatiquement depuis `api_manga.json` par `docs/beta/g
 
 ## Métadonnées de génération
 
-- Généré le : **2026-11-24 21:35 Paris, Madrid**
-- Source : `C:\Users\PC\AppData\Local\Temp\opencode\API-clone-20261123\api_manga.json`
+- Généré le : **2026-11-24 20:40 UTC**
+- Source : fichier `api_manga.json` du dépôt API
 - SHA1 git blob : `e2a1b3d2c7a33abb389c4393e6b26dbae077f523`
 - Taille : `7311558` octets
 - Entrées : **655**
-- Référence : https://github.com/MaximeElias/API/blob/main/api_manga.json
 
 ## Résumé
 
@@ -24,7 +23,7 @@ Ce README est généré automatiquement depuis `api_manga.json` par `docs/beta/g
 | Terminé / Abandonné | 398 | 30 | 5244 | 27113 | 19,34% |
 | En cours | 257 | 20 | 4315 | 22269 | 19,38% |
 
-> **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision Maxime, 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
+> **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision enregistrée le 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
 
 ## Terminé / Abandonné
 
