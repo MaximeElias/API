@@ -230400,6 +230400,18 @@
                     {
                         "number": 4,
                         "name": "Chapitre 4"
+                    },
+                    {
+                        "number": 5,
+                        "name": "Chapitre 5"
+                    },
+                    {
+                        "number": 6,
+                        "name": "Chapitre 6"
+                    },
+                    {
+                        "number": 7,
+                        "name": "Chapitre 7"
                     }
                 ]
             }
