@@ -10,10 +10,10 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 
 ## Métadonnées de génération
 
-- Généré le : **2026-11-24 21:36 UTC**
+- Généré le : **2026-11-24 21:57 UTC**
 - Source : fichier `api_manga.json` du dépôt API
-- SHA1 git blob : `25dee6cc6ce5d348a94e9c30261502b64414ea3f`
-- Taille : `7335414` octets
+- SHA1 git blob : `35abcd8933f1e508472487b1251f8197ba3cb52b`
+- Taille : `7335807` octets
 - Entrées : **655**
 
 ## Résumé
@@ -21,7 +21,7 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | Groupe | Séries | 100 % | Chapitres nommés | Total chapitres | % global |
 |---|---:|---:|---:|---:|---:|
 | Terminé / Abandonné | 398 | 31 | 5789 | 27255 | 21,24% |
-| En cours | 257 | 20 | 4319 | 22273 | 19,39% |
+| En cours | 257 | 20 | 4319 | 22276 | 19,39% |
 
 > **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision enregistrée le 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
 
@@ -499,7 +499,7 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | 65 | 232 | Une Romance Fantastique Typique | En cours | 0/152 | 0,00% |
 | 66 | 384 | Radiant | En cours | 0/148 | 0,00% |
 | 67 | 72 | Frieren | En cours | 0/147 | 0,00% |
-| 68 | 615 | The Brave Wish Revenging | En cours | 0/143 | 0,00% |
+| 68 | 615 | The Brave Wish Revenging | En cours | 0/146 | 0,00% |
 | 69 | 291 | Les 100 petites amies qui t'aiiiment à en mourir | En cours | 0/140 | 0,00% |
 | 70 | 475 | The Dungeon Cleaning Life of a Once Genius Hunter | En cours | 0/140 | 0,00% |
 | 71 | 262 | Konosuba : Sois Béni Monde Merveilleux ! | En cours | 0/139 | 0,00% |
