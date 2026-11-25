@@ -233457,11 +233457,11 @@
                     },
                     {
                         "number": 2,
-                        "name": "Chapitre 2"
+                        "name": "Sa profondeur et ma partie basse"
                     },
                     {
                         "number": 3,
-                        "name": "Chapitre 3"
+                        "name": "Tenu fermement"
                     },
                     {
                         "number": 4,
@@ -233469,7 +233469,7 @@
                     },
                     {
                         "number": 5,
-                        "name": "Chapitre 5"
+                        "name": "Qu’est-ce que j’ai fait ?"
                     }
                 ]
             },
@@ -233490,11 +233490,11 @@
                     },
                     {
                         "number": 9,
-                        "name": "Chapitre 9"
+                        "name": "Une discussion inatendue"
                     },
                     {
                         "number": 10,
-                        "name": "Chapitre 10"
+                        "name": "Souvenirs d’été"
                     },
                     {
                         "number": 11,
@@ -233506,7 +233506,7 @@
                     },
                     {
                         "number": 13,
-                        "name": "Chapitre 13"
+                        "name": "Si ce n’est pas toi..."
                     }
                 ]
             },
@@ -233515,7 +233515,7 @@
                 "chapters": [
                     {
                         "number": 14,
-                        "name": "Chapitre 14"
+                        "name": "Voix rauque et baiser"
                     },
                     {
                         "number": 15,
@@ -233523,7 +233523,7 @@
                     },
                     {
                         "number": 16,
-                        "name": "Chapitre 16"
+                        "name": "La femme effrayante"
                     },
                     {
                         "number": 17,
@@ -233539,7 +233539,7 @@
                     },
                     {
                         "number": 20,
-                        "name": "Chapitre 20"
+                        "name": "Des personnes similaires"
                     },
                     {
                         "number": 21,
@@ -233572,11 +233572,11 @@
                     },
                     {
                         "number": 27,
-                        "name": "Chapitre 27"
+                        "name": "Sa décision."
                     },
                     {
                         "number": 28,
-                        "name": "Chapitre 28"
+                        "name": "L’ombre qui la suit"
                     },
                     {
                         "number": 29,
@@ -233584,7 +233584,7 @@
                     },
                     {
                         "number": 30,
-                        "name": "Chapitre 30"
+                        "name": "Prendre cette main"
                     }
                 ]
             }
