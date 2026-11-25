@@ -10,17 +10,17 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 
 ## Métadonnées de génération
 
-- Généré le : **2026-11-25 09:16 UTC**
+- Généré le : **2026-11-25 09:18 UTC**
 - Source : fichier `api_manga.json` du dépôt API
-- SHA1 git blob : `c5689f668a809c10c704eab2e994ae97b5df7327`
-- Taille : `7355476` octets
+- SHA1 git blob : `37e8554b0919407ba7e0f92aef8f32f2ac14d1d7`
+- Taille : `7355604` octets
 - Entrées : **656**
 
 ## Résumé
 
 | Groupe | Séries | 100 % | Chapitres nommés | Total chapitres | % global |
 |---|---:|---:|---:|---:|---:|
-| Terminé / Abandonné | 399 | 34 | 7342 | 27283 | 26,91% |
+| Terminé / Abandonné | 399 | 34 | 7353 | 27283 | 26,95% |
 | En cours | 257 | 20 | 4319 | 22280 | 19,39% |
 
 > **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision enregistrée le 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
@@ -65,8 +65,8 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | 34 | 9 | 22-26 | Terminé | 4/4 | 100,00% |
 | 35 | 154 | Fire Force | Terminé | 301/302 | 99,67% |
 | 36 | 421 | Shaman King | Terminé | 283/285 | 99,30% |
-| 37 | 38 | Apparently, Disillusioned Adventurers Will Save the World | Terminé | 30/40 | 75,00% |
-| 38 | 657 | PEEP | Terminé | 18/30 | 60,00% |
+| 37 | 657 | PEEP | Terminé | 29/30 | 96,67% |
+| 38 | 38 | Apparently, Disillusioned Adventurers Will Save the World | Terminé | 30/40 | 75,00% |
 | 39 | 158 | Food Wars ! | Terminé | 173/315 | 54,92% |
 | 40 | 5 | 008 : Apprenti Espion | Terminé | 55/297 | 18,52% |
 | 41 | 138 | Dungeon Reset | Terminé | 2/266 | 0,75% |
