@@ -10,17 +10,17 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 
 ## Métadonnées de génération
 
-- Généré le : **2026-11-24 22:47 UTC**
+- Généré le : **2026-11-25 08:53 UTC**
 - Source : fichier `api_manga.json` du dépôt API
-- SHA1 git blob : `687907cfc451088c88204608c517079e4e237c93`
-- Taille : `7344320` octets
+- SHA1 git blob : `10155c0787002606fc0ba1645928aefe640f8f3d`
+- Taille : `7346290` octets
 - Entrées : **656**
 
 ## Résumé
 
 | Groupe | Séries | 100 % | Chapitres nommés | Total chapitres | % global |
 |---|---:|---:|---:|---:|---:|
-| Terminé / Abandonné | 399 | 33 | 6239 | 27283 | 22,87% |
+| Terminé / Abandonné | 399 | 33 | 6412 | 27283 | 23,50% |
 | En cours | 257 | 20 | 4319 | 22280 | 19,39% |
 
 > **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision enregistrée le 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
@@ -64,11 +64,11 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | 33 | 9 | 22-26 | Terminé | 4/4 | 100,00% |
 | 34 | 38 | Apparently, Disillusioned Adventurers Will Save the World | Terminé | 30/40 | 75,00% |
 | 35 | 657 | PEEP | Terminé | 18/30 | 60,00% |
-| 36 | 5 | 008 : Apprenti Espion | Terminé | 55/297 | 18,52% |
-| 37 | 138 | Dungeon Reset | Terminé | 2/266 | 0,75% |
-| 38 | 477 | The Gamer | Terminé | 0/511 | 0,00% |
-| 39 | 417 | Seven Deadly Sins | Terminé | 0/346 | 0,00% |
-| 40 | 158 | Food Wars ! | Terminé | 0/315 | 0,00% |
+| 36 | 158 | Food Wars ! | Terminé | 173/315 | 54,92% |
+| 37 | 5 | 008 : Apprenti Espion | Terminé | 55/297 | 18,52% |
+| 38 | 138 | Dungeon Reset | Terminé | 2/266 | 0,75% |
+| 39 | 477 | The Gamer | Terminé | 0/511 | 0,00% |
+| 40 | 417 | Seven Deadly Sins | Terminé | 0/346 | 0,00% |
 | 41 | 154 | Fire Force | Terminé | 0/302 | 0,00% |
 | 42 | 421 | Shaman King | Terminé | 0/285 | 0,00% |
 | 43 | 571 | I Woke Up as the Ugly Duckling | Terminé | 0/283 | 0,00% |
