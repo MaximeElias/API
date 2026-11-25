@@ -10,17 +10,17 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 
 ## Métadonnées de génération
 
-- Généré le : **2026-11-25 10:01 UTC**
+- Généré le : **2026-11-25 10:38 UTC**
 - Source : fichier `api_manga.json` du dépôt API
-- SHA1 git blob : `ffcc8ecf722a136b79ab50aaf3f315c4cf547df8`
-- Taille : `7361297` octets
+- SHA1 git blob : `60c39df3adfa1ee2b4f65d50a40ebb0008ae8289`
+- Taille : `7363972` octets
 - Entrées : **656**
 
 ## Résumé
 
 | Groupe | Séries | 100 % | Chapitres nommés | Total chapitres | % global |
 |---|---:|---:|---:|---:|---:|
-| Terminé / Abandonné | 399 | 40 | 8052 | 27283 | 29,51% |
+| Terminé / Abandonné | 399 | 41 | 8284 | 27283 | 30,36% |
 | En cours | 257 | 20 | 4319 | 22280 | 19,39% |
 
 > **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision enregistrée le 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
@@ -46,36 +46,36 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | 15 | 226 | Jujutsu Kaisen | Terminé | 271/271 | 100,00% |
 | 16 | 522 | Undead Unluck | Terminé | 239/239 | 100,00% |
 | 17 | 96 | Chainsaw Man | Terminé | 232/232 | 100,00% |
-| 18 | 8 | 2.5 Dimensional Seduction | Terminé | 201/201 | 100,00% |
-| 19 | 37 | Ao Ashi | Terminé | 199/199 | 100,00% |
-| 20 | 17 | A Certain Scientific Railgun | Terminé | 170/170 | 100,00% |
-| 21 | 436 | Friends Games | Terminé | 127/127 | 100,00% |
-| 22 | 482 | My Hero Academia - Vigilante | Terminé | 126/126 | 100,00% |
-| 23 | 422 | The Quintessential Quintuplets | Terminé | 122/122 | 100,00% |
-| 24 | 11 | 365 Days to the Wedding | Terminé | 110/110 | 100,00% |
-| 25 | 485 | The Legendary Hero is Dead! | Terminé | 74/74 | 100,00% |
-| 26 | 12 | 5 minutes forward | Terminé | 66/66 | 100,00% |
-| 27 | 21 | A Silent Voice | Terminé | 61/61 | 100,00% |
-| 28 | 2 | +Anima | Terminé | 56/56 | 100,00% |
-| 29 | 453 | Sweetness & Lightning | Terminé | 56/56 | 100,00% |
-| 30 | 6 | 100 jours avant ta mort | Terminé | 44/44 | 100,00% |
-| 31 | 469 | The Alexis Empire Chronicle | Terminé | 34/34 | 100,00% |
-| 32 | 657 | PEEP | Terminé | 30/30 | 100,00% |
-| 33 | 32 | All You Need is Kill | Terminé | 17/17 | 100,00% |
-| 34 | 473 | The Dark Saint | Terminé | 17/17 | 100,00% |
-| 35 | 15 | 86 -Eighty six- | Abandonné | 16/16 | 100,00% |
-| 36 | 466 | Sword Art Online : Alicization Lycoris | Terminé | 16/16 | 100,00% |
-| 37 | 39 | Arcanum | Terminé | 11/11 | 100,00% |
-| 38 | 435 | Betrayal Games | Terminé | 7/7 | 100,00% |
-| 39 | 7 | 17-21 | Terminé | 4/4 | 100,00% |
-| 40 | 9 | 22-26 | Terminé | 4/4 | 100,00% |
-| 41 | 38 | Apparently, Disillusioned Adventurers Will Save the World | Terminé | 30/40 | 75,00% |
-| 42 | 5 | 008 : Apprenti Espion | Terminé | 55/297 | 18,52% |
-| 43 | 138 | Dungeon Reset | Terminé | 2/266 | 0,75% |
-| 44 | 477 | The Gamer | Terminé | 0/511 | 0,00% |
-| 45 | 571 | I Woke Up as the Ugly Duckling | Terminé | 0/283 | 0,00% |
-| 46 | 514 | True Beauty | Terminé | 0/261 | 0,00% |
-| 47 | 129 | Dr. STONE | Terminé | 0/232 | 0,00% |
+| 18 | 129 | Dr. STONE | Terminé | 232/232 | 100,00% |
+| 19 | 8 | 2.5 Dimensional Seduction | Terminé | 201/201 | 100,00% |
+| 20 | 37 | Ao Ashi | Terminé | 199/199 | 100,00% |
+| 21 | 17 | A Certain Scientific Railgun | Terminé | 170/170 | 100,00% |
+| 22 | 436 | Friends Games | Terminé | 127/127 | 100,00% |
+| 23 | 482 | My Hero Academia - Vigilante | Terminé | 126/126 | 100,00% |
+| 24 | 422 | The Quintessential Quintuplets | Terminé | 122/122 | 100,00% |
+| 25 | 11 | 365 Days to the Wedding | Terminé | 110/110 | 100,00% |
+| 26 | 485 | The Legendary Hero is Dead! | Terminé | 74/74 | 100,00% |
+| 27 | 12 | 5 minutes forward | Terminé | 66/66 | 100,00% |
+| 28 | 21 | A Silent Voice | Terminé | 61/61 | 100,00% |
+| 29 | 2 | +Anima | Terminé | 56/56 | 100,00% |
+| 30 | 453 | Sweetness & Lightning | Terminé | 56/56 | 100,00% |
+| 31 | 6 | 100 jours avant ta mort | Terminé | 44/44 | 100,00% |
+| 32 | 469 | The Alexis Empire Chronicle | Terminé | 34/34 | 100,00% |
+| 33 | 657 | PEEP | Terminé | 30/30 | 100,00% |
+| 34 | 32 | All You Need is Kill | Terminé | 17/17 | 100,00% |
+| 35 | 473 | The Dark Saint | Terminé | 17/17 | 100,00% |
+| 36 | 15 | 86 -Eighty six- | Abandonné | 16/16 | 100,00% |
+| 37 | 466 | Sword Art Online : Alicization Lycoris | Terminé | 16/16 | 100,00% |
+| 38 | 39 | Arcanum | Terminé | 11/11 | 100,00% |
+| 39 | 435 | Betrayal Games | Terminé | 7/7 | 100,00% |
+| 40 | 7 | 17-21 | Terminé | 4/4 | 100,00% |
+| 41 | 9 | 22-26 | Terminé | 4/4 | 100,00% |
+| 42 | 38 | Apparently, Disillusioned Adventurers Will Save the World | Terminé | 30/40 | 75,00% |
+| 43 | 5 | 008 : Apprenti Espion | Terminé | 55/297 | 18,52% |
+| 44 | 138 | Dungeon Reset | Terminé | 2/266 | 0,75% |
+| 45 | 477 | The Gamer | Terminé | 0/511 | 0,00% |
+| 46 | 571 | I Woke Up as the Ugly Duckling | Terminé | 0/283 | 0,00% |
+| 47 | 514 | True Beauty | Terminé | 0/261 | 0,00% |
 | 48 | 270 | L'expert de la Tour Tutoriel | Terminé | 0/223 | 0,00% |
 | 49 | 532 | Vinland Saga | Terminé | 0/220 | 0,00% |
 | 50 | 325 | Mission: Yozakura Family | Terminé | 0/213 | 0,00% |
