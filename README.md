@@ -10,17 +10,17 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 
 ## Métadonnées de génération
 
-- Généré le : **2026-11-25 09:18 UTC**
+- Généré le : **2026-11-25 09:21 UTC**
 - Source : fichier `api_manga.json` du dépôt API
-- SHA1 git blob : `37e8554b0919407ba7e0f92aef8f32f2ac14d1d7`
-- Taille : `7355604` octets
+- SHA1 git blob : `3ab4f3ebd89d2c04ac74189be332539c2ec033f6`
+- Taille : `7355606` octets
 - Entrées : **656**
 
 ## Résumé
 
 | Groupe | Séries | 100 % | Chapitres nommés | Total chapitres | % global |
 |---|---:|---:|---:|---:|---:|
-| Terminé / Abandonné | 399 | 34 | 7353 | 27283 | 26,95% |
+| Terminé / Abandonné | 399 | 35 | 7354 | 27283 | 26,95% |
 | En cours | 257 | 20 | 4319 | 22280 | 19,39% |
 
 > **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision enregistrée le 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
@@ -55,17 +55,17 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | 24 | 453 | Sweetness & Lightning | Terminé | 56/56 | 100,00% |
 | 25 | 6 | 100 jours avant ta mort | Terminé | 44/44 | 100,00% |
 | 26 | 469 | The Alexis Empire Chronicle | Terminé | 34/34 | 100,00% |
-| 27 | 32 | All You Need is Kill | Terminé | 17/17 | 100,00% |
-| 28 | 473 | The Dark Saint | Terminé | 17/17 | 100,00% |
-| 29 | 15 | 86 -Eighty six- | Abandonné | 16/16 | 100,00% |
-| 30 | 466 | Sword Art Online : Alicization Lycoris | Terminé | 16/16 | 100,00% |
-| 31 | 39 | Arcanum | Terminé | 11/11 | 100,00% |
-| 32 | 435 | Betrayal Games | Terminé | 7/7 | 100,00% |
-| 33 | 7 | 17-21 | Terminé | 4/4 | 100,00% |
-| 34 | 9 | 22-26 | Terminé | 4/4 | 100,00% |
-| 35 | 154 | Fire Force | Terminé | 301/302 | 99,67% |
-| 36 | 421 | Shaman King | Terminé | 283/285 | 99,30% |
-| 37 | 657 | PEEP | Terminé | 29/30 | 96,67% |
+| 27 | 657 | PEEP | Terminé | 30/30 | 100,00% |
+| 28 | 32 | All You Need is Kill | Terminé | 17/17 | 100,00% |
+| 29 | 473 | The Dark Saint | Terminé | 17/17 | 100,00% |
+| 30 | 15 | 86 -Eighty six- | Abandonné | 16/16 | 100,00% |
+| 31 | 466 | Sword Art Online : Alicization Lycoris | Terminé | 16/16 | 100,00% |
+| 32 | 39 | Arcanum | Terminé | 11/11 | 100,00% |
+| 33 | 435 | Betrayal Games | Terminé | 7/7 | 100,00% |
+| 34 | 7 | 17-21 | Terminé | 4/4 | 100,00% |
+| 35 | 9 | 22-26 | Terminé | 4/4 | 100,00% |
+| 36 | 154 | Fire Force | Terminé | 301/302 | 99,67% |
+| 37 | 421 | Shaman King | Terminé | 283/285 | 99,30% |
 | 38 | 38 | Apparently, Disillusioned Adventurers Will Save the World | Terminé | 30/40 | 75,00% |
 | 39 | 158 | Food Wars ! | Terminé | 173/315 | 54,92% |
 | 40 | 5 | 008 : Apprenti Espion | Terminé | 55/297 | 18,52% |
