@@ -10,10 +10,10 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 
 ## Métadonnées de génération
 
-- Généré le : **2026-11-26 21:48 UTC**
+- Généré le : **2026-11-26 21:55 UTC**
 - Source : fichier `api_manga.json` du dépôt API
-- SHA1 git blob : `2b74b44f79be7a9553179d340f06e51f917d9d34`
-- Taille : `7431148` octets
+- SHA1 git blob : `47f24de10699b1bcef76ff6d8dc07364261f8c77`
+- Taille : `7435855` octets
 - Entrées : **657**
 
 ## Résumé
@@ -21,7 +21,7 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | Groupe | Séries | 100 % | Chapitres nommés | Total chapitres | % global |
 |---|---:|---:|---:|---:|---:|
 | Terminé / Abandonné | 399 | 54 | 10408 | 27416 | 37,96% |
-| En cours | 258 | 31 | 6420 | 22330 | 28,75% |
+| En cours | 258 | 32 | 6656 | 22330 | 29,81% |
 
 > **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision enregistrée le 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
 
@@ -437,40 +437,40 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | 2 | 4 | One Piece | En cours | 1179/1179 | 100,00% |
 | 3 | 249 | Kingdom | En cours | 878/878 | 100,00% |
 | 4 | 621 | Blue Lock | En cours | 346/346 | 100,00% |
-| 5 | 18 | A Couple of Cuckoos | En cours | 292/292 | 100,00% |
-| 6 | 612 | Hajimete no Gal | En cours | 207/207 | 100,00% |
-| 7 | 28 | Akane-Banashi | En cours | 202/202 | 100,00% |
-| 8 | 423 | Shangri-La Frontier | En cours | 185/185 | 100,00% |
-| 9 | 126 | Demon Slave | En cours | 160/160 | 100,00% |
-| 10 | 72 | Frieren | En cours | 147/147 | 100,00% |
-| 11 | 165 | Gachiakuta | En cours | 130/130 | 100,00% |
-| 12 | 294 | Les Carnets de l'Apothicaire | En cours | 81/81 | 100,00% |
-| 13 | 19 | A Journey beyond Heaven | En cours | 73/73 | 100,00% |
-| 14 | 614 | Now That We Draw | En cours | 62/62 | 100,00% |
-| 15 | 442 | Unnamed Memory | En cours | 56/56 | 100,00% |
-| 16 | 20 | A sign of affection | En cours | 55/55 | 100,00% |
-| 17 | 439 | TenPuru | En cours | 52/52 | 100,00% |
-| 18 | 405 | Ruridragon | En cours | 33/33 | 100,00% |
-| 19 | 576 | Les Noces des Lucioles | En cours | 32/32 | 100,00% |
-| 20 | 446 | Steins;Gate | En cours | 22/22 | 100,00% |
-| 21 | 34 | Almark | En cours | 20/20 | 100,00% |
-| 22 | 440 | Witch and Mercenary | En cours | 20/20 | 100,00% |
-| 23 | 157 | Fleurs & Dragons | En cours | 15/15 | 100,00% |
-| 24 | 452 | Sweet Psycho | En cours | 12/12 | 100,00% |
-| 25 | 545 | Yakuza Reincarnation | En cours | 12/12 | 100,00% |
-| 26 | 116 | Dark Gathering | En cours | 11/11 | 100,00% |
-| 27 | 610 | Les Premières Amours Difficiles d'Akira Momose | En cours | 10/10 | 100,00% |
-| 28 | 605 | Le Club des Flâneurs | En cours | 8/8 | 100,00% |
-| 29 | 606 | Love Bullet | En cours | 7/7 | 100,00% |
-| 30 | 607 | Les Fiancés de l'Ère Taisho | En cours | 7/7 | 100,00% |
-| 31 | 604 | Undark | En cours | 5/5 | 100,00% |
-| 32 | 656 | Made in Abyss | En cours | 71/74 | 95,95% |
-| 33 | 1 | #DRCL Midnight Children | En cours | 49/62 | 79,03% |
-| 34 | 24 | AR/MS!! (Augmented Reality/Multiple Survive) | En cours | 10/14 | 71,43% |
-| 35 | 60 | Berserk | En cours | 256/386 | 66,32% |
-| 36 | 613 | Alya Sometimes Hides Her Feelings in Russian | En cours | 33/64 | 51,56% |
-| 37 | 472 | The Bugle Call | En cours | 19/41 | 46,34% |
-| 38 | 652 | Farming Life in Another World | En cours | 89/325 | 27,38% |
+| 5 | 652 | Farming Life in Another World | En cours | 325/325 | 100,00% |
+| 6 | 18 | A Couple of Cuckoos | En cours | 292/292 | 100,00% |
+| 7 | 612 | Hajimete no Gal | En cours | 207/207 | 100,00% |
+| 8 | 28 | Akane-Banashi | En cours | 202/202 | 100,00% |
+| 9 | 423 | Shangri-La Frontier | En cours | 185/185 | 100,00% |
+| 10 | 126 | Demon Slave | En cours | 160/160 | 100,00% |
+| 11 | 72 | Frieren | En cours | 147/147 | 100,00% |
+| 12 | 165 | Gachiakuta | En cours | 130/130 | 100,00% |
+| 13 | 294 | Les Carnets de l'Apothicaire | En cours | 81/81 | 100,00% |
+| 14 | 19 | A Journey beyond Heaven | En cours | 73/73 | 100,00% |
+| 15 | 614 | Now That We Draw | En cours | 62/62 | 100,00% |
+| 16 | 442 | Unnamed Memory | En cours | 56/56 | 100,00% |
+| 17 | 20 | A sign of affection | En cours | 55/55 | 100,00% |
+| 18 | 439 | TenPuru | En cours | 52/52 | 100,00% |
+| 19 | 405 | Ruridragon | En cours | 33/33 | 100,00% |
+| 20 | 576 | Les Noces des Lucioles | En cours | 32/32 | 100,00% |
+| 21 | 446 | Steins;Gate | En cours | 22/22 | 100,00% |
+| 22 | 34 | Almark | En cours | 20/20 | 100,00% |
+| 23 | 440 | Witch and Mercenary | En cours | 20/20 | 100,00% |
+| 24 | 157 | Fleurs & Dragons | En cours | 15/15 | 100,00% |
+| 25 | 452 | Sweet Psycho | En cours | 12/12 | 100,00% |
+| 26 | 545 | Yakuza Reincarnation | En cours | 12/12 | 100,00% |
+| 27 | 116 | Dark Gathering | En cours | 11/11 | 100,00% |
+| 28 | 610 | Les Premières Amours Difficiles d'Akira Momose | En cours | 10/10 | 100,00% |
+| 29 | 605 | Le Club des Flâneurs | En cours | 8/8 | 100,00% |
+| 30 | 606 | Love Bullet | En cours | 7/7 | 100,00% |
+| 31 | 607 | Les Fiancés de l'Ère Taisho | En cours | 7/7 | 100,00% |
+| 32 | 604 | Undark | En cours | 5/5 | 100,00% |
+| 33 | 656 | Made in Abyss | En cours | 71/74 | 95,95% |
+| 34 | 1 | #DRCL Midnight Children | En cours | 49/62 | 79,03% |
+| 35 | 24 | AR/MS!! (Augmented Reality/Multiple Survive) | En cours | 10/14 | 71,43% |
+| 36 | 60 | Berserk | En cours | 256/386 | 66,32% |
+| 37 | 613 | Alya Sometimes Hides Her Feelings in Russian | En cours | 33/64 | 51,56% |
+| 38 | 472 | The Bugle Call | En cours | 19/41 | 46,34% |
 | 39 | 187 | HUNTER × HUNTER | En cours | 63/400 | 15,75% |
 | 40 | 620 | Blue Box | En cours | 6/248 | 2,42% |
 | 41 | 362 | Lecteur Omniscient | En cours | 7/305 | 2,30% |
