@@ -10,18 +10,18 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 
 ## Métadonnées de génération
 
-- Généré le : **2026-11-25 10:38 UTC**
+- Généré le : **2026-11-26 18:06 UTC**
 - Source : fichier `api_manga.json` du dépôt API
-- SHA1 git blob : `60c39df3adfa1ee2b4f65d50a40ebb0008ae8289`
-- Taille : `7363972` octets
-- Entrées : **656**
+- SHA1 git blob : `09a76a34bce898b167515e2fd599032b4d3b2b28`
+- Taille : `7370749` octets
+- Entrées : **657**
 
 ## Résumé
 
 | Groupe | Séries | 100 % | Chapitres nommés | Total chapitres | % global |
 |---|---:|---:|---:|---:|---:|
 | Terminé / Abandonné | 399 | 41 | 8284 | 27283 | 30,36% |
-| En cours | 257 | 20 | 4319 | 22280 | 19,39% |
+| En cours | 258 | 20 | 4319 | 22324 | 19,35% |
 
 > **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision enregistrée le 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
 
@@ -563,133 +563,134 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | 128 | 530 | Villageois LV999 | En cours | 0/48 | 0,00% |
 | 129 | 239 | Kamisama School | En cours | 0/46 | 0,00% |
 | 130 | 22 | A Warrior Exiled by the Hero and His Lover | En cours | 0/44 | 0,00% |
-| 131 | 465 | Sword Art Online - Re:Aincrad | En cours | 0/43 | 0,00% |
-| 132 | 81 | Boruto - Two Blue Vortex | En cours | 0/40 | 0,00% |
-| 133 | 308 | Leçons de vie avec Grand Frère Uramichi | En cours | 0/36 | 0,00% |
-| 134 | 67 | Black Shadow | En cours | 0/35 | 0,00% |
-| 135 | 219 | Interspecies Reviewers | En cours | 0/35 | 0,00% |
-| 136 | 358 | Ocean Rush | En cours | 0/34 | 0,00% |
-| 137 | 543 | World End Harem - Fantasy | En cours | 0/34 | 0,00% |
-| 138 | 286 | Le Palais des Assassins | En cours | 0/33 | 0,00% |
-| 139 | 405 | Ruridragon | En cours | 0/33 | 0,00% |
-| 140 | 143 | Elden Ring - Le Chemin vers l'Arbre-Monde | En cours | 0/31 | 0,00% |
-| 141 | 501 | The Summer Hikaru Died | En cours | 0/31 | 0,00% |
-| 142 | 95 | Centuria | En cours | 0/30 | 0,00% |
-| 143 | 394 | Reincarnated as a Sword | En cours | 0/27 | 0,00% |
-| 144 | 402 | Roll Over and Die | En cours | 0/27 | 0,00% |
-| 145 | 618 | Battle Game in 5 Seconds | En cours | 0/27 | 0,00% |
-| 146 | 84 | Bravest Journey | En cours | 0/26 | 0,00% |
-| 147 | 460 | Sword Art Online - Arc 7 - Unital Ring | En cours | 0/26 | 0,00% |
-| 148 | 309 | Lili-Men | En cours | 0/25 | 0,00% |
-| 149 | 392 | Reborn to Master the Blade | En cours | 0/25 | 0,00% |
-| 150 | 426 | Skeleton Knight in Another World | En cours | 0/25 | 0,00% |
-| 151 | 504 | The Unwanted Undead Adventurer | En cours | 0/25 | 0,00% |
-| 152 | 408 | SIDH | En cours | 0/24 | 0,00% |
-| 153 | 509 | Tokyo Aliens | En cours | 0/23 | 0,00% |
-| 154 | 221 | Je suis un Assassin (et je surpasse le héros) | En cours | 0/22 | 0,00% |
-| 155 | 608 | La Fiancée du Maître des Portails | En cours | 0/19 | 0,00% |
-| 156 | 481 | The Godslaying Demon King | En cours | 0/17 | 0,00% |
-| 157 | 181 | Great Kaiju Gaea-Tima | En cours | 0/16 | 0,00% |
-| 158 | 289 | Le Royaume d'Orcsen | En cours | 0/15 | 0,00% |
-| 159 | 292 | Les 7 chevaliers du royaume des marronniers | En cours | 0/15 | 0,00% |
-| 160 | 299 | Les Nations du Soleil Sanglant | En cours | 0/15 | 0,00% |
-| 161 | 434 | Space Punch | En cours | 0/15 | 0,00% |
-| 162 | 43 | Ashes | En cours | 0/13 | 0,00% |
-| 163 | 400 | Ripper | En cours | 0/13 | 0,00% |
-| 164 | 373 | Phantom Busters | En cours | 0/12 | 0,00% |
-| 165 | 401 | Roasted | En cours | 0/12 | 0,00% |
-| 166 | 424 | Shelter of Love | En cours | 0/12 | 0,00% |
-| 167 | 545 | Yakuza Reincarnation | En cours | 0/12 | 0,00% |
-| 168 | 611 | Le Yakuza des bains publics (et moi) | En cours | 0/12 | 0,00% |
-| 169 | 35 | Ane Naru Mono | En cours | 0/11 | 0,00% |
-| 170 | 160 | Forlorn Hope | En cours | 0/11 | 0,00% |
-| 171 | 274 | La Gardienne des concubines | En cours | 0/11 | 0,00% |
-| 172 | 404 | Run to Heaven | En cours | 0/11 | 0,00% |
-| 173 | 654 | Mitame to Urahara | En cours | 0/11 | 0,00% |
-| 174 | 135 | DreaMaker | En cours | 0/10 | 0,00% |
-| 175 | 344 | Mynoghra - Annonciateur de l'apocalypse | En cours | 0/10 | 0,00% |
-| 176 | 353 | No Game no Life - Saison 2 - Eastern Association | En cours | 0/10 | 0,00% |
-| 177 | 447 | Step by step Sara | En cours | 0/10 | 0,00% |
-| 178 | 533 | Wakfu - La Grande Vague | En cours | 0/10 | 0,00% |
-| 179 | 551 | Übel Blatt II - L'Ordre du Roi Défunt | En cours | 0/9 | 0,00% |
-| 180 | 47 | Assassin's Creed Shadows - Les légendes d'Iga | En cours | 0/8 | 0,00% |
-| 181 | 494 | The Reincarnation of The Strongest Exorcist in Another World | En cours | 0/8 | 0,00% |
-| 182 | 116 | Dark Gathering | En cours | 0/7 | 0,00% |
-| 183 | 166 | Gaia Heroes | En cours | 0/7 | 0,00% |
-| 184 | 303 | Les Torches d'Arkylon | En cours | 0/7 | 0,00% |
-| 185 | 603 | Agents of the Four Seasons - La danse du printemps | En cours | 0/7 | 0,00% |
-| 186 | 629 | Zange | En cours | 0/7 | 0,00% |
-| 187 | 649 | I Couldn’t Draw It, so I Tried Doing It | En cours | 0/7 | 0,00% |
-| 188 | 78 | Bofuri : Je suis pas venue ici pour souffrir alors j'ai tout mis en défense | En cours | 0/6 | 0,00% |
-| 189 | 130 | Dragon & Caméléon | En cours | 0/6 | 0,00% |
-| 190 | 279 | La Voleuse de Lumière | En cours | 0/6 | 0,00% |
-| 191 | 285 | Le Pacte millénaire | En cours | 0/6 | 0,00% |
-| 192 | 320 | Mangass | En cours | 0/6 | 0,00% |
-| 193 | 379 | Profession Héros | En cours | 0/6 | 0,00% |
-| 194 | 395 | Rent-a-(really-Shy)-Girlfriend | En cours | 0/6 | 0,00% |
-| 195 | 414 | Sans Fond | En cours | 0/6 | 0,00% |
-| 196 | 490 | The Most Notorious Talker | En cours | 0/6 | 0,00% |
-| 197 | 118 | Dark Souls Redemption | En cours | 0/5 | 0,00% |
-| 198 | 213 | In Her World | En cours | 0/5 | 0,00% |
-| 199 | 300 | Les Prisonniers du Rêve | En cours | 0/5 | 0,00% |
-| 200 | 487 | The Legende of Kameron | En cours | 0/5 | 0,00% |
-| 201 | 609 | Ma Vie Tranquille de Forgeron dans un Autre Monde | En cours | 0/5 | 0,00% |
-| 202 | 111 | DOGA of the Great Arch | En cours | 0/4 | 0,00% |
-| 203 | 190 | Harem in the Fantasy World Dungeon | En cours | 0/4 | 0,00% |
-| 204 | 220 | Iwamoto Senpai | En cours | 0/4 | 0,00% |
-| 205 | 231 | Kaijû Girl Carameliser | En cours | 0/4 | 0,00% |
-| 206 | 399 | Rigel Afterlife | En cours | 0/4 | 0,00% |
-| 207 | 432 | Soul's Control | En cours | 0/4 | 0,00% |
-| 208 | 528 | Valkyrie Apocalypse - L'Affaire Jack l'Éventreur | En cours | 0/4 | 0,00% |
-| 209 | 534 | Welcome to Japan! Elfe de mes rêves… | En cours | 0/3 | 0,00% |
-| 210 | 623 | Classroom for Heroes | En cours | 0/3 | 0,00% |
-| 211 | 272 | La Farouche Femme des neiges et la bague maudite | En cours | 0/2 | 0,00% |
-| 212 | 29 | Akaru | En cours | 0/1 | 0,00% |
-| 213 | 33 | Allégoria | En cours | 0/1 | 0,00% |
-| 214 | 62 | Bienvenue sur Eflthernet | En cours | 0/1 | 0,00% |
-| 215 | 63 | Bienvenue sur Eflthernet Vice Side | En cours | 0/1 | 0,00% |
-| 216 | 73 | Les Carnets de l'Apothicaire : Enquêtes à la Cour | En cours | 0/1 | 0,00% |
-| 217 | 115 | DanMachi Arc II | En cours | 0/1 | 0,00% |
-| 218 | 134 | Dragon Hunt Tribe | En cours | 0/1 | 0,00% |
-| 219 | 141 | Egregor - Le Souffle de la Foi | En cours | 0/1 | 0,00% |
-| 220 | 184 | Guide | En cours | 0/1 | 0,00% |
-| 221 | 189 | Hacker | En cours | 0/1 | 0,00% |
-| 222 | 191 | Hell Awake | En cours | 0/1 | 0,00% |
-| 223 | 192 | Hell Mode | En cours | 0/1 | 0,00% |
-| 224 | 195 | Heureuse vengeance | En cours | 0/1 | 0,00% |
-| 225 | 201 | Hope You're Happy, Lemon! | En cours | 0/1 | 0,00% |
-| 226 | 202 | How NOT to Summon a Demon Lord | En cours | 0/1 | 0,00% |
-| 227 | 214 | In the Land of Leadale | En cours | 0/1 | 0,00% |
-| 228 | 218 | Insania | En cours | 0/1 | 0,00% |
-| 229 | 253 | Isekai Samurai | En cours | 0/1 | 0,00% |
-| 230 | 273 | La Fille du Feu | En cours | 0/1 | 0,00% |
-| 231 | 277 | La Planète Takoo | En cours | 0/1 | 0,00% |
-| 232 | 280 | La dresseuse sans étoiles parcourt le monde | En cours | 0/1 | 0,00% |
-| 233 | 282 | Le Cercle de l'Étrange | En cours | 0/1 | 0,00% |
-| 234 | 284 | Le Guérisseur de l'Ombre | En cours | 0/1 | 0,00% |
-| 235 | 290 | Le Septième Prince Démon | En cours | 0/1 | 0,00% |
-| 236 | 296 | Les Chroniques de Nomados | En cours | 0/1 | 0,00% |
-| 237 | 301 | Les Roses ne Saignent pas | En cours | 0/1 | 0,00% |
-| 238 | 304 | Les Torches d'Arkylon - Genesis | En cours | 0/1 | 0,00% |
-| 239 | 322 | Mechanical Buddy Universe 1.0 | En cours | 0/1 | 0,00% |
-| 240 | 349 | Never Surrender | En cours | 0/1 | 0,00% |
-| 241 | 355 | Nyaight of the Living Cat | En cours | 0/1 | 0,00% |
-| 242 | 356 | O.S.E - Overcome Survival Experience | En cours | 0/1 | 0,00% |
-| 243 | 357 | OMMORC | En cours | 0/1 | 0,00% |
-| 244 | 368 | Overlord - New World | En cours | 0/1 | 0,00% |
-| 245 | 371 | Païn | En cours | 0/1 | 0,00% |
-| 246 | 427 | Sleepy Boy | En cours | 0/1 | 0,00% |
-| 247 | 437 | Rosalie, princesse des morts | En cours | 0/1 | 0,00% |
-| 248 | 441 | The Last Elf | En cours | 0/1 | 0,00% |
-| 249 | 444 | Spice & Wolf : Wolf & Parchment | En cours | 0/1 | 0,00% |
-| 250 | 480 | Zombie Hide Sex | En cours | 0/1 | 0,00% |
-| 251 | 503 | The Unifier | En cours | 0/1 | 0,00% |
-| 252 | 505 | The Villainess and the Demon Knight | En cours | 0/1 | 0,00% |
-| 253 | 507 | This Monster Wants to Eat Me | En cours | 0/1 | 0,00% |
-| 254 | 516 | Tsukimichi - Moonlit Fantasy | En cours | 0/1 | 0,00% |
-| 255 | 523 | Une fleur venue d'ailleurs | En cours | 0/1 | 0,00% |
-| 256 | 524 | Urbance | En cours | 0/1 | 0,00% |
-| 257 | 575 | Dungeon Elf | En cours | 0/1 | 0,00% |
+| 131 | 658 | My Crush's Crush | En cours | 0/44 | 0,00% |
+| 132 | 465 | Sword Art Online - Re:Aincrad | En cours | 0/43 | 0,00% |
+| 133 | 81 | Boruto - Two Blue Vortex | En cours | 0/40 | 0,00% |
+| 134 | 308 | Leçons de vie avec Grand Frère Uramichi | En cours | 0/36 | 0,00% |
+| 135 | 67 | Black Shadow | En cours | 0/35 | 0,00% |
+| 136 | 219 | Interspecies Reviewers | En cours | 0/35 | 0,00% |
+| 137 | 358 | Ocean Rush | En cours | 0/34 | 0,00% |
+| 138 | 543 | World End Harem - Fantasy | En cours | 0/34 | 0,00% |
+| 139 | 286 | Le Palais des Assassins | En cours | 0/33 | 0,00% |
+| 140 | 405 | Ruridragon | En cours | 0/33 | 0,00% |
+| 141 | 143 | Elden Ring - Le Chemin vers l'Arbre-Monde | En cours | 0/31 | 0,00% |
+| 142 | 501 | The Summer Hikaru Died | En cours | 0/31 | 0,00% |
+| 143 | 95 | Centuria | En cours | 0/30 | 0,00% |
+| 144 | 394 | Reincarnated as a Sword | En cours | 0/27 | 0,00% |
+| 145 | 402 | Roll Over and Die | En cours | 0/27 | 0,00% |
+| 146 | 618 | Battle Game in 5 Seconds | En cours | 0/27 | 0,00% |
+| 147 | 84 | Bravest Journey | En cours | 0/26 | 0,00% |
+| 148 | 460 | Sword Art Online - Arc 7 - Unital Ring | En cours | 0/26 | 0,00% |
+| 149 | 309 | Lili-Men | En cours | 0/25 | 0,00% |
+| 150 | 392 | Reborn to Master the Blade | En cours | 0/25 | 0,00% |
+| 151 | 426 | Skeleton Knight in Another World | En cours | 0/25 | 0,00% |
+| 152 | 504 | The Unwanted Undead Adventurer | En cours | 0/25 | 0,00% |
+| 153 | 408 | SIDH | En cours | 0/24 | 0,00% |
+| 154 | 509 | Tokyo Aliens | En cours | 0/23 | 0,00% |
+| 155 | 221 | Je suis un Assassin (et je surpasse le héros) | En cours | 0/22 | 0,00% |
+| 156 | 608 | La Fiancée du Maître des Portails | En cours | 0/19 | 0,00% |
+| 157 | 481 | The Godslaying Demon King | En cours | 0/17 | 0,00% |
+| 158 | 181 | Great Kaiju Gaea-Tima | En cours | 0/16 | 0,00% |
+| 159 | 289 | Le Royaume d'Orcsen | En cours | 0/15 | 0,00% |
+| 160 | 292 | Les 7 chevaliers du royaume des marronniers | En cours | 0/15 | 0,00% |
+| 161 | 299 | Les Nations du Soleil Sanglant | En cours | 0/15 | 0,00% |
+| 162 | 434 | Space Punch | En cours | 0/15 | 0,00% |
+| 163 | 43 | Ashes | En cours | 0/13 | 0,00% |
+| 164 | 400 | Ripper | En cours | 0/13 | 0,00% |
+| 165 | 373 | Phantom Busters | En cours | 0/12 | 0,00% |
+| 166 | 401 | Roasted | En cours | 0/12 | 0,00% |
+| 167 | 424 | Shelter of Love | En cours | 0/12 | 0,00% |
+| 168 | 545 | Yakuza Reincarnation | En cours | 0/12 | 0,00% |
+| 169 | 611 | Le Yakuza des bains publics (et moi) | En cours | 0/12 | 0,00% |
+| 170 | 35 | Ane Naru Mono | En cours | 0/11 | 0,00% |
+| 171 | 160 | Forlorn Hope | En cours | 0/11 | 0,00% |
+| 172 | 274 | La Gardienne des concubines | En cours | 0/11 | 0,00% |
+| 173 | 404 | Run to Heaven | En cours | 0/11 | 0,00% |
+| 174 | 654 | Mitame to Urahara | En cours | 0/11 | 0,00% |
+| 175 | 135 | DreaMaker | En cours | 0/10 | 0,00% |
+| 176 | 344 | Mynoghra - Annonciateur de l'apocalypse | En cours | 0/10 | 0,00% |
+| 177 | 353 | No Game no Life - Saison 2 - Eastern Association | En cours | 0/10 | 0,00% |
+| 178 | 447 | Step by step Sara | En cours | 0/10 | 0,00% |
+| 179 | 533 | Wakfu - La Grande Vague | En cours | 0/10 | 0,00% |
+| 180 | 551 | Übel Blatt II - L'Ordre du Roi Défunt | En cours | 0/9 | 0,00% |
+| 181 | 47 | Assassin's Creed Shadows - Les légendes d'Iga | En cours | 0/8 | 0,00% |
+| 182 | 494 | The Reincarnation of The Strongest Exorcist in Another World | En cours | 0/8 | 0,00% |
+| 183 | 116 | Dark Gathering | En cours | 0/7 | 0,00% |
+| 184 | 166 | Gaia Heroes | En cours | 0/7 | 0,00% |
+| 185 | 303 | Les Torches d'Arkylon | En cours | 0/7 | 0,00% |
+| 186 | 603 | Agents of the Four Seasons - La danse du printemps | En cours | 0/7 | 0,00% |
+| 187 | 629 | Zange | En cours | 0/7 | 0,00% |
+| 188 | 649 | I Couldn’t Draw It, so I Tried Doing It | En cours | 0/7 | 0,00% |
+| 189 | 78 | Bofuri : Je suis pas venue ici pour souffrir alors j'ai tout mis en défense | En cours | 0/6 | 0,00% |
+| 190 | 130 | Dragon & Caméléon | En cours | 0/6 | 0,00% |
+| 191 | 279 | La Voleuse de Lumière | En cours | 0/6 | 0,00% |
+| 192 | 285 | Le Pacte millénaire | En cours | 0/6 | 0,00% |
+| 193 | 320 | Mangass | En cours | 0/6 | 0,00% |
+| 194 | 379 | Profession Héros | En cours | 0/6 | 0,00% |
+| 195 | 395 | Rent-a-(really-Shy)-Girlfriend | En cours | 0/6 | 0,00% |
+| 196 | 414 | Sans Fond | En cours | 0/6 | 0,00% |
+| 197 | 490 | The Most Notorious Talker | En cours | 0/6 | 0,00% |
+| 198 | 118 | Dark Souls Redemption | En cours | 0/5 | 0,00% |
+| 199 | 213 | In Her World | En cours | 0/5 | 0,00% |
+| 200 | 300 | Les Prisonniers du Rêve | En cours | 0/5 | 0,00% |
+| 201 | 487 | The Legende of Kameron | En cours | 0/5 | 0,00% |
+| 202 | 609 | Ma Vie Tranquille de Forgeron dans un Autre Monde | En cours | 0/5 | 0,00% |
+| 203 | 111 | DOGA of the Great Arch | En cours | 0/4 | 0,00% |
+| 204 | 190 | Harem in the Fantasy World Dungeon | En cours | 0/4 | 0,00% |
+| 205 | 220 | Iwamoto Senpai | En cours | 0/4 | 0,00% |
+| 206 | 231 | Kaijû Girl Carameliser | En cours | 0/4 | 0,00% |
+| 207 | 399 | Rigel Afterlife | En cours | 0/4 | 0,00% |
+| 208 | 432 | Soul's Control | En cours | 0/4 | 0,00% |
+| 209 | 528 | Valkyrie Apocalypse - L'Affaire Jack l'Éventreur | En cours | 0/4 | 0,00% |
+| 210 | 534 | Welcome to Japan! Elfe de mes rêves… | En cours | 0/3 | 0,00% |
+| 211 | 623 | Classroom for Heroes | En cours | 0/3 | 0,00% |
+| 212 | 272 | La Farouche Femme des neiges et la bague maudite | En cours | 0/2 | 0,00% |
+| 213 | 29 | Akaru | En cours | 0/1 | 0,00% |
+| 214 | 33 | Allégoria | En cours | 0/1 | 0,00% |
+| 215 | 62 | Bienvenue sur Eflthernet | En cours | 0/1 | 0,00% |
+| 216 | 63 | Bienvenue sur Eflthernet Vice Side | En cours | 0/1 | 0,00% |
+| 217 | 73 | Les Carnets de l'Apothicaire : Enquêtes à la Cour | En cours | 0/1 | 0,00% |
+| 218 | 115 | DanMachi Arc II | En cours | 0/1 | 0,00% |
+| 219 | 134 | Dragon Hunt Tribe | En cours | 0/1 | 0,00% |
+| 220 | 141 | Egregor - Le Souffle de la Foi | En cours | 0/1 | 0,00% |
+| 221 | 184 | Guide | En cours | 0/1 | 0,00% |
+| 222 | 189 | Hacker | En cours | 0/1 | 0,00% |
+| 223 | 191 | Hell Awake | En cours | 0/1 | 0,00% |
+| 224 | 192 | Hell Mode | En cours | 0/1 | 0,00% |
+| 225 | 195 | Heureuse vengeance | En cours | 0/1 | 0,00% |
+| 226 | 201 | Hope You're Happy, Lemon! | En cours | 0/1 | 0,00% |
+| 227 | 202 | How NOT to Summon a Demon Lord | En cours | 0/1 | 0,00% |
+| 228 | 214 | In the Land of Leadale | En cours | 0/1 | 0,00% |
+| 229 | 218 | Insania | En cours | 0/1 | 0,00% |
+| 230 | 253 | Isekai Samurai | En cours | 0/1 | 0,00% |
+| 231 | 273 | La Fille du Feu | En cours | 0/1 | 0,00% |
+| 232 | 277 | La Planète Takoo | En cours | 0/1 | 0,00% |
+| 233 | 280 | La dresseuse sans étoiles parcourt le monde | En cours | 0/1 | 0,00% |
+| 234 | 282 | Le Cercle de l'Étrange | En cours | 0/1 | 0,00% |
+| 235 | 284 | Le Guérisseur de l'Ombre | En cours | 0/1 | 0,00% |
+| 236 | 290 | Le Septième Prince Démon | En cours | 0/1 | 0,00% |
+| 237 | 296 | Les Chroniques de Nomados | En cours | 0/1 | 0,00% |
+| 238 | 301 | Les Roses ne Saignent pas | En cours | 0/1 | 0,00% |
+| 239 | 304 | Les Torches d'Arkylon - Genesis | En cours | 0/1 | 0,00% |
+| 240 | 322 | Mechanical Buddy Universe 1.0 | En cours | 0/1 | 0,00% |
+| 241 | 349 | Never Surrender | En cours | 0/1 | 0,00% |
+| 242 | 355 | Nyaight of the Living Cat | En cours | 0/1 | 0,00% |
+| 243 | 356 | O.S.E - Overcome Survival Experience | En cours | 0/1 | 0,00% |
+| 244 | 357 | OMMORC | En cours | 0/1 | 0,00% |
+| 245 | 368 | Overlord - New World | En cours | 0/1 | 0,00% |
+| 246 | 371 | Païn | En cours | 0/1 | 0,00% |
+| 247 | 427 | Sleepy Boy | En cours | 0/1 | 0,00% |
+| 248 | 437 | Rosalie, princesse des morts | En cours | 0/1 | 0,00% |
+| 249 | 441 | The Last Elf | En cours | 0/1 | 0,00% |
+| 250 | 444 | Spice & Wolf : Wolf & Parchment | En cours | 0/1 | 0,00% |
+| 251 | 480 | Zombie Hide Sex | En cours | 0/1 | 0,00% |
+| 252 | 503 | The Unifier | En cours | 0/1 | 0,00% |
+| 253 | 505 | The Villainess and the Demon Knight | En cours | 0/1 | 0,00% |
+| 254 | 507 | This Monster Wants to Eat Me | En cours | 0/1 | 0,00% |
+| 255 | 516 | Tsukimichi - Moonlit Fantasy | En cours | 0/1 | 0,00% |
+| 256 | 523 | Une fleur venue d'ailleurs | En cours | 0/1 | 0,00% |
+| 257 | 524 | Urbance | En cours | 0/1 | 0,00% |
+| 258 | 575 | Dungeon Elf | En cours | 0/1 | 0,00% |
 
 ---
 
