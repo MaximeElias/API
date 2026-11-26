@@ -10,10 +10,10 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 
 ## Métadonnées de génération
 
-- Généré le : **2026-11-26 20:25 UTC**
+- Généré le : **2026-11-26 20:28 UTC**
 - Source : fichier `api_manga.json` du dépôt API
-- SHA1 git blob : `7b76b64dbc3251518ee45adadb246981af0aaebe`
-- Taille : `7386059` octets
+- SHA1 git blob : `202f3ac1247427679ec6fd5f0e211a65ff1b878d`
+- Taille : `7388443` octets
 - Entrées : **657**
 
 ## Résumé
@@ -21,7 +21,7 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | Groupe | Séries | 100 % | Chapitres nommés | Total chapitres | % global |
 |---|---:|---:|---:|---:|---:|
 | Terminé / Abandonné | 399 | 43 | 8934 | 27283 | 32,75% |
-| En cours | 258 | 21 | 5197 | 22324 | 23,28% |
+| En cours | 258 | 22 | 5543 | 22324 | 24,83% |
 
 > **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision enregistrée le 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
 
@@ -436,41 +436,41 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | 1 | 628 | Ippo | En cours | 1493/1493 | 100,00% |
 | 2 | 4 | One Piece | En cours | 1179/1179 | 100,00% |
 | 3 | 249 | Kingdom | En cours | 878/878 | 100,00% |
-| 4 | 18 | A Couple of Cuckoos | En cours | 292/292 | 100,00% |
-| 5 | 612 | Hajimete no Gal | En cours | 207/207 | 100,00% |
-| 6 | 28 | Akane-Banashi | En cours | 202/202 | 100,00% |
-| 7 | 19 | A Journey beyond Heaven | En cours | 73/73 | 100,00% |
-| 8 | 442 | Unnamed Memory | En cours | 56/56 | 100,00% |
-| 9 | 20 | A sign of affection | En cours | 55/55 | 100,00% |
-| 10 | 439 | TenPuru | En cours | 52/52 | 100,00% |
-| 11 | 576 | Les Noces des Lucioles | En cours | 32/32 | 100,00% |
-| 12 | 446 | Steins;Gate | En cours | 22/22 | 100,00% |
-| 13 | 34 | Almark | En cours | 20/20 | 100,00% |
-| 14 | 440 | Witch and Mercenary | En cours | 20/20 | 100,00% |
-| 15 | 157 | Fleurs & Dragons | En cours | 15/15 | 100,00% |
-| 16 | 452 | Sweet Psycho | En cours | 12/12 | 100,00% |
-| 17 | 610 | Les Premières Amours Difficiles d'Akira Momose | En cours | 10/10 | 100,00% |
-| 18 | 605 | Le Club des Flâneurs | En cours | 8/8 | 100,00% |
-| 19 | 606 | Love Bullet | En cours | 7/7 | 100,00% |
-| 20 | 607 | Les Fiancés de l'Ère Taisho | En cours | 7/7 | 100,00% |
-| 21 | 604 | Undark | En cours | 5/5 | 100,00% |
-| 22 | 1 | #DRCL Midnight Children | En cours | 49/62 | 79,03% |
-| 23 | 24 | AR/MS!! (Augmented Reality/Multiple Survive) | En cours | 10/14 | 71,43% |
-| 24 | 60 | Berserk | En cours | 256/386 | 66,32% |
-| 25 | 613 | Alya Sometimes Hides Her Feelings in Russian | En cours | 33/64 | 51,56% |
-| 26 | 472 | The Bugle Call | En cours | 19/41 | 46,34% |
-| 27 | 652 | Farming Life in Another World | En cours | 89/325 | 27,38% |
-| 28 | 656 | Made in Abyss | En cours | 15/72 | 20,83% |
-| 29 | 187 | HUNTER × HUNTER | En cours | 63/400 | 15,75% |
-| 30 | 620 | Blue Box | En cours | 6/248 | 2,42% |
-| 31 | 362 | Lecteur Omniscient | En cours | 7/305 | 2,30% |
-| 32 | 112 | DanDaDan | En cours | 3/231 | 1,30% |
-| 33 | 471 | The Beginning After the End | En cours | 2/228 | 0,88% |
-| 34 | 297 | Les Chroniques du Disciple Dragon | En cours | 0/789 | 0,00% |
-| 35 | 513 | Tower of God | En cours | 0/653 | 0,00% |
-| 36 | 396 | Rent-a-Girlfriend | En cours | 0/426 | 0,00% |
-| 37 | 438 | UnOrdinary | En cours | 0/378 | 0,00% |
-| 38 | 621 | Blue Lock | En cours | 0/346 | 0,00% |
+| 4 | 621 | Blue Lock | En cours | 346/346 | 100,00% |
+| 5 | 18 | A Couple of Cuckoos | En cours | 292/292 | 100,00% |
+| 6 | 612 | Hajimete no Gal | En cours | 207/207 | 100,00% |
+| 7 | 28 | Akane-Banashi | En cours | 202/202 | 100,00% |
+| 8 | 19 | A Journey beyond Heaven | En cours | 73/73 | 100,00% |
+| 9 | 442 | Unnamed Memory | En cours | 56/56 | 100,00% |
+| 10 | 20 | A sign of affection | En cours | 55/55 | 100,00% |
+| 11 | 439 | TenPuru | En cours | 52/52 | 100,00% |
+| 12 | 576 | Les Noces des Lucioles | En cours | 32/32 | 100,00% |
+| 13 | 446 | Steins;Gate | En cours | 22/22 | 100,00% |
+| 14 | 34 | Almark | En cours | 20/20 | 100,00% |
+| 15 | 440 | Witch and Mercenary | En cours | 20/20 | 100,00% |
+| 16 | 157 | Fleurs & Dragons | En cours | 15/15 | 100,00% |
+| 17 | 452 | Sweet Psycho | En cours | 12/12 | 100,00% |
+| 18 | 610 | Les Premières Amours Difficiles d'Akira Momose | En cours | 10/10 | 100,00% |
+| 19 | 605 | Le Club des Flâneurs | En cours | 8/8 | 100,00% |
+| 20 | 606 | Love Bullet | En cours | 7/7 | 100,00% |
+| 21 | 607 | Les Fiancés de l'Ère Taisho | En cours | 7/7 | 100,00% |
+| 22 | 604 | Undark | En cours | 5/5 | 100,00% |
+| 23 | 1 | #DRCL Midnight Children | En cours | 49/62 | 79,03% |
+| 24 | 24 | AR/MS!! (Augmented Reality/Multiple Survive) | En cours | 10/14 | 71,43% |
+| 25 | 60 | Berserk | En cours | 256/386 | 66,32% |
+| 26 | 613 | Alya Sometimes Hides Her Feelings in Russian | En cours | 33/64 | 51,56% |
+| 27 | 472 | The Bugle Call | En cours | 19/41 | 46,34% |
+| 28 | 652 | Farming Life in Another World | En cours | 89/325 | 27,38% |
+| 29 | 656 | Made in Abyss | En cours | 15/72 | 20,83% |
+| 30 | 187 | HUNTER × HUNTER | En cours | 63/400 | 15,75% |
+| 31 | 620 | Blue Box | En cours | 6/248 | 2,42% |
+| 32 | 362 | Lecteur Omniscient | En cours | 7/305 | 2,30% |
+| 33 | 112 | DanDaDan | En cours | 3/231 | 1,30% |
+| 34 | 471 | The Beginning After the End | En cours | 2/228 | 0,88% |
+| 35 | 297 | Les Chroniques du Disciple Dragon | En cours | 0/789 | 0,00% |
+| 36 | 513 | Tower of God | En cours | 0/653 | 0,00% |
+| 37 | 396 | Rent-a-Girlfriend | En cours | 0/426 | 0,00% |
+| 38 | 438 | UnOrdinary | En cours | 0/378 | 0,00% |
 | 39 | 525 | Vagabond | En cours | 0/327 | 0,00% |
 | 40 | 194 | Hero Killer | En cours | 0/300 | 0,00% |
 | 41 | 209 | I'm the Max-Level Newbie | En cours | 0/287 | 0,00% |
