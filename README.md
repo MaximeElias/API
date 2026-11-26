@@ -10,17 +10,17 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 
 ## Métadonnées de génération
 
-- Généré le : **2026-11-26 19:19 UTC**
+- Généré le : **2026-11-26 19:27 UTC**
 - Source : fichier `api_manga.json` du dépôt API
-- SHA1 git blob : `eda8536b97eac97974f202c3b504fb52dbcacba6`
-- Taille : `7375422` octets
+- SHA1 git blob : `3e3a3a91bddc3e0c1901aee5df30e59c09a68245`
+- Taille : `7375852` octets
 - Entrées : **657**
 
 ## Résumé
 
 | Groupe | Séries | 100 % | Chapitres nommés | Total chapitres | % global |
 |---|---:|---:|---:|---:|---:|
-| Terminé / Abandonné | 399 | 43 | 8709 | 27283 | 31,92% |
+| Terminé / Abandonné | 399 | 43 | 8763 | 27283 | 32,12% |
 | En cours | 258 | 20 | 4319 | 22324 | 19,35% |
 
 > **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision enregistrée le 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
@@ -73,16 +73,16 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | 42 | 7 | 17-21 | Terminé | 4/4 | 100,00% |
 | 43 | 9 | 22-26 | Terminé | 4/4 | 100,00% |
 | 44 | 38 | Apparently, Disillusioned Adventurers Will Save the World | Terminé | 30/40 | 75,00% |
-| 45 | 5 | 008 : Apprenti Espion | Terminé | 55/297 | 18,52% |
-| 46 | 138 | Dungeon Reset | Terminé | 2/266 | 0,75% |
-| 47 | 477 | The Gamer | Terminé | 0/511 | 0,00% |
-| 48 | 571 | I Woke Up as the Ugly Duckling | Terminé | 0/283 | 0,00% |
-| 49 | 514 | True Beauty | Terminé | 0/261 | 0,00% |
-| 50 | 270 | L'expert de la Tour Tutoriel | Terminé | 0/223 | 0,00% |
-| 51 | 325 | Mission: Yozakura Family | Terminé | 0/213 | 0,00% |
-| 52 | 474 | The Druid of Seoul station | Terminé | 0/207 | 0,00% |
-| 53 | 215 | Infection | Terminé | 0/204 | 0,00% |
-| 54 | 429 | Solo Leveling | Terminé | 0/200 | 0,00% |
+| 45 | 429 | Solo Leveling | Terminé | 54/200 | 27,00% |
+| 46 | 5 | 008 : Apprenti Espion | Terminé | 55/297 | 18,52% |
+| 47 | 138 | Dungeon Reset | Terminé | 2/266 | 0,75% |
+| 48 | 477 | The Gamer | Terminé | 0/511 | 0,00% |
+| 49 | 571 | I Woke Up as the Ugly Duckling | Terminé | 0/283 | 0,00% |
+| 50 | 514 | True Beauty | Terminé | 0/261 | 0,00% |
+| 51 | 270 | L'expert de la Tour Tutoriel | Terminé | 0/223 | 0,00% |
+| 52 | 325 | Mission: Yozakura Family | Terminé | 0/213 | 0,00% |
+| 53 | 474 | The Druid of Seoul station | Terminé | 0/207 | 0,00% |
+| 54 | 215 | Infection | Terminé | 0/204 | 0,00% |
 | 55 | 58 | Bakemonogatari | Terminé | 0/193 | 0,00% |
 | 56 | 520 | UQ Holder! | Terminé | 0/192 | 0,00% |
 | 57 | 91 | Cage of Eden | Terminé | 0/185 | 0,00% |
