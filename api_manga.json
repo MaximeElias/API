@@ -49296,15 +49296,15 @@
                 "chapters": [
                     {
                         "number": 1,
-                        "name": "Chapitre 1"
+                        "name": "Yayoi Hozuki"
                     },
                     {
                         "number": 2,
-                        "name": "Chapitre 2"
+                        "name": "Keitaro Gentoga"
                     },
                     {
                         "number": 3,
-                        "name": "Chapitre 3"
+                        "name": "Ensemble"
                     }
                 ]
             },
@@ -49313,25 +49313,42 @@
                 "chapters": [
                     {
                         "number": 4,
-                        "name": "Chapitre 4"
+                        "name": "Eiko Hozuki"
                     },
                     {
                         "number": 5,
-                        "name": "Chapitre 5"
+                        "name": "Nouvelle élève"
                     },
                     {
                         "number": 6,
-                        "name": "Chapitre 6"
+                        "name": "La promesse"
                     },
                     {
                         "number": 7,
-                        "name": "Chapitre 7"
+                        "name": "Envoùtée"
                     }
                 ]
             },
             {
                 "number": 3,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 8,
+                        "name": "Le tunnel S"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Ai Kamiyo"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Promise à un dieu"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Sacrilège"
+                    }
+                ]
             },
             {
                 "number": 4,
