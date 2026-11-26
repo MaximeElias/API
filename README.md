@@ -10,18 +10,18 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 
 ## Métadonnées de génération
 
-- Généré le : **2026-11-26 19:28 UTC**
+- Généré le : **2026-11-26 20:25 UTC**
 - Source : fichier `api_manga.json` du dépôt API
-- SHA1 git blob : `d4faa230d869d6c6a8ff6330ed31689283bbec47`
-- Taille : `7377876` octets
+- SHA1 git blob : `7b76b64dbc3251518ee45adadb246981af0aaebe`
+- Taille : `7386059` octets
 - Entrées : **657**
 
 ## Résumé
 
 | Groupe | Séries | 100 % | Chapitres nommés | Total chapitres | % global |
 |---|---:|---:|---:|---:|---:|
-| Terminé / Abandonné | 399 | 43 | 8880 | 27283 | 32,55% |
-| En cours | 258 | 20 | 4319 | 22324 | 19,35% |
+| Terminé / Abandonné | 399 | 43 | 8934 | 27283 | 32,75% |
+| En cours | 258 | 21 | 5197 | 22324 | 23,28% |
 
 > **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision enregistrée le 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
 
@@ -74,16 +74,16 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | 43 | 9 | 22-26 | Terminé | 4/4 | 100,00% |
 | 44 | 520 | UQ Holder! | Terminé | 171/192 | 89,06% |
 | 45 | 38 | Apparently, Disillusioned Adventurers Will Save the World | Terminé | 30/40 | 75,00% |
-| 46 | 5 | 008 : Apprenti Espion | Terminé | 55/297 | 18,52% |
-| 47 | 138 | Dungeon Reset | Terminé | 2/266 | 0,75% |
-| 48 | 477 | The Gamer | Terminé | 0/511 | 0,00% |
-| 49 | 571 | I Woke Up as the Ugly Duckling | Terminé | 0/283 | 0,00% |
-| 50 | 514 | True Beauty | Terminé | 0/261 | 0,00% |
-| 51 | 270 | L'expert de la Tour Tutoriel | Terminé | 0/223 | 0,00% |
-| 52 | 325 | Mission: Yozakura Family | Terminé | 0/213 | 0,00% |
-| 53 | 474 | The Druid of Seoul station | Terminé | 0/207 | 0,00% |
-| 54 | 215 | Infection | Terminé | 0/204 | 0,00% |
-| 55 | 429 | Solo Leveling | Terminé | 0/200 | 0,00% |
+| 46 | 429 | Solo Leveling | Terminé | 54/200 | 27,00% |
+| 47 | 5 | 008 : Apprenti Espion | Terminé | 55/297 | 18,52% |
+| 48 | 138 | Dungeon Reset | Terminé | 2/266 | 0,75% |
+| 49 | 477 | The Gamer | Terminé | 0/511 | 0,00% |
+| 50 | 571 | I Woke Up as the Ugly Duckling | Terminé | 0/283 | 0,00% |
+| 51 | 514 | True Beauty | Terminé | 0/261 | 0,00% |
+| 52 | 270 | L'expert de la Tour Tutoriel | Terminé | 0/223 | 0,00% |
+| 53 | 325 | Mission: Yozakura Family | Terminé | 0/213 | 0,00% |
+| 54 | 474 | The Druid of Seoul station | Terminé | 0/207 | 0,00% |
+| 55 | 215 | Infection | Terminé | 0/204 | 0,00% |
 | 56 | 58 | Bakemonogatari | Terminé | 0/193 | 0,00% |
 | 57 | 91 | Cage of Eden | Terminé | 0/185 | 0,00% |
 | 58 | 140 | Edens Zero | Terminé | 0/185 | 0,00% |
@@ -435,37 +435,37 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 |---:|---:|---|---|---:|---:|
 | 1 | 628 | Ippo | En cours | 1493/1493 | 100,00% |
 | 2 | 4 | One Piece | En cours | 1179/1179 | 100,00% |
-| 3 | 18 | A Couple of Cuckoos | En cours | 292/292 | 100,00% |
-| 4 | 612 | Hajimete no Gal | En cours | 207/207 | 100,00% |
-| 5 | 28 | Akane-Banashi | En cours | 202/202 | 100,00% |
-| 6 | 19 | A Journey beyond Heaven | En cours | 73/73 | 100,00% |
-| 7 | 442 | Unnamed Memory | En cours | 56/56 | 100,00% |
-| 8 | 20 | A sign of affection | En cours | 55/55 | 100,00% |
-| 9 | 439 | TenPuru | En cours | 52/52 | 100,00% |
-| 10 | 576 | Les Noces des Lucioles | En cours | 32/32 | 100,00% |
-| 11 | 446 | Steins;Gate | En cours | 22/22 | 100,00% |
-| 12 | 34 | Almark | En cours | 20/20 | 100,00% |
-| 13 | 440 | Witch and Mercenary | En cours | 20/20 | 100,00% |
-| 14 | 157 | Fleurs & Dragons | En cours | 15/15 | 100,00% |
-| 15 | 452 | Sweet Psycho | En cours | 12/12 | 100,00% |
-| 16 | 610 | Les Premières Amours Difficiles d'Akira Momose | En cours | 10/10 | 100,00% |
-| 17 | 605 | Le Club des Flâneurs | En cours | 8/8 | 100,00% |
-| 18 | 606 | Love Bullet | En cours | 7/7 | 100,00% |
-| 19 | 607 | Les Fiancés de l'Ère Taisho | En cours | 7/7 | 100,00% |
-| 20 | 604 | Undark | En cours | 5/5 | 100,00% |
-| 21 | 1 | #DRCL Midnight Children | En cours | 49/62 | 79,03% |
-| 22 | 24 | AR/MS!! (Augmented Reality/Multiple Survive) | En cours | 10/14 | 71,43% |
-| 23 | 60 | Berserk | En cours | 256/386 | 66,32% |
-| 24 | 613 | Alya Sometimes Hides Her Feelings in Russian | En cours | 33/64 | 51,56% |
-| 25 | 472 | The Bugle Call | En cours | 19/41 | 46,34% |
-| 26 | 652 | Farming Life in Another World | En cours | 89/325 | 27,38% |
-| 27 | 656 | Made in Abyss | En cours | 15/72 | 20,83% |
-| 28 | 187 | HUNTER × HUNTER | En cours | 63/400 | 15,75% |
-| 29 | 620 | Blue Box | En cours | 6/248 | 2,42% |
-| 30 | 362 | Lecteur Omniscient | En cours | 7/305 | 2,30% |
-| 31 | 112 | DanDaDan | En cours | 3/231 | 1,30% |
-| 32 | 471 | The Beginning After the End | En cours | 2/228 | 0,88% |
-| 33 | 249 | Kingdom | En cours | 0/878 | 0,00% |
+| 3 | 249 | Kingdom | En cours | 878/878 | 100,00% |
+| 4 | 18 | A Couple of Cuckoos | En cours | 292/292 | 100,00% |
+| 5 | 612 | Hajimete no Gal | En cours | 207/207 | 100,00% |
+| 6 | 28 | Akane-Banashi | En cours | 202/202 | 100,00% |
+| 7 | 19 | A Journey beyond Heaven | En cours | 73/73 | 100,00% |
+| 8 | 442 | Unnamed Memory | En cours | 56/56 | 100,00% |
+| 9 | 20 | A sign of affection | En cours | 55/55 | 100,00% |
+| 10 | 439 | TenPuru | En cours | 52/52 | 100,00% |
+| 11 | 576 | Les Noces des Lucioles | En cours | 32/32 | 100,00% |
+| 12 | 446 | Steins;Gate | En cours | 22/22 | 100,00% |
+| 13 | 34 | Almark | En cours | 20/20 | 100,00% |
+| 14 | 440 | Witch and Mercenary | En cours | 20/20 | 100,00% |
+| 15 | 157 | Fleurs & Dragons | En cours | 15/15 | 100,00% |
+| 16 | 452 | Sweet Psycho | En cours | 12/12 | 100,00% |
+| 17 | 610 | Les Premières Amours Difficiles d'Akira Momose | En cours | 10/10 | 100,00% |
+| 18 | 605 | Le Club des Flâneurs | En cours | 8/8 | 100,00% |
+| 19 | 606 | Love Bullet | En cours | 7/7 | 100,00% |
+| 20 | 607 | Les Fiancés de l'Ère Taisho | En cours | 7/7 | 100,00% |
+| 21 | 604 | Undark | En cours | 5/5 | 100,00% |
+| 22 | 1 | #DRCL Midnight Children | En cours | 49/62 | 79,03% |
+| 23 | 24 | AR/MS!! (Augmented Reality/Multiple Survive) | En cours | 10/14 | 71,43% |
+| 24 | 60 | Berserk | En cours | 256/386 | 66,32% |
+| 25 | 613 | Alya Sometimes Hides Her Feelings in Russian | En cours | 33/64 | 51,56% |
+| 26 | 472 | The Bugle Call | En cours | 19/41 | 46,34% |
+| 27 | 652 | Farming Life in Another World | En cours | 89/325 | 27,38% |
+| 28 | 656 | Made in Abyss | En cours | 15/72 | 20,83% |
+| 29 | 187 | HUNTER × HUNTER | En cours | 63/400 | 15,75% |
+| 30 | 620 | Blue Box | En cours | 6/248 | 2,42% |
+| 31 | 362 | Lecteur Omniscient | En cours | 7/305 | 2,30% |
+| 32 | 112 | DanDaDan | En cours | 3/231 | 1,30% |
+| 33 | 471 | The Beginning After the End | En cours | 2/228 | 0,88% |
 | 34 | 297 | Les Chroniques du Disciple Dragon | En cours | 0/789 | 0,00% |
 | 35 | 513 | Tower of God | En cours | 0/653 | 0,00% |
 | 36 | 396 | Rent-a-Girlfriend | En cours | 0/426 | 0,00% |
