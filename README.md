@@ -10,10 +10,10 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 
 ## Métadonnées de génération
 
-- Généré le : **2026-11-26 21:29 UTC**
+- Généré le : **2026-11-26 21:40 UTC**
 - Source : fichier `api_manga.json` du dépôt API
-- SHA1 git blob : `c6efc8e0737b2ae5d5d57b059f7f533130003362`
-- Taille : `7425127` octets
+- SHA1 git blob : `09104026640d2c89480f1eca3292360c6c8069b1`
+- Taille : `7425942` octets
 - Entrées : **657**
 
 ## Résumé
@@ -21,7 +21,7 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | Groupe | Séries | 100 % | Chapitres nommés | Total chapitres | % global |
 |---|---:|---:|---:|---:|---:|
 | Terminé / Abandonné | 399 | 54 | 10408 | 27416 | 37,96% |
-| En cours | 258 | 30 | 6179 | 22328 | 27,67% |
+| En cours | 258 | 30 | 6235 | 22330 | 27,92% |
 
 > **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision enregistrée le 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
 
@@ -463,13 +463,13 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | 28 | 606 | Love Bullet | En cours | 7/7 | 100,00% |
 | 29 | 607 | Les Fiancés de l'Ère Taisho | En cours | 7/7 | 100,00% |
 | 30 | 604 | Undark | En cours | 5/5 | 100,00% |
-| 31 | 1 | #DRCL Midnight Children | En cours | 49/62 | 79,03% |
-| 32 | 24 | AR/MS!! (Augmented Reality/Multiple Survive) | En cours | 10/14 | 71,43% |
-| 33 | 60 | Berserk | En cours | 256/386 | 66,32% |
-| 34 | 613 | Alya Sometimes Hides Her Feelings in Russian | En cours | 33/64 | 51,56% |
-| 35 | 472 | The Bugle Call | En cours | 19/41 | 46,34% |
-| 36 | 652 | Farming Life in Another World | En cours | 89/325 | 27,38% |
-| 37 | 656 | Made in Abyss | En cours | 15/72 | 20,83% |
+| 31 | 656 | Made in Abyss | En cours | 71/74 | 95,95% |
+| 32 | 1 | #DRCL Midnight Children | En cours | 49/62 | 79,03% |
+| 33 | 24 | AR/MS!! (Augmented Reality/Multiple Survive) | En cours | 10/14 | 71,43% |
+| 34 | 60 | Berserk | En cours | 256/386 | 66,32% |
+| 35 | 613 | Alya Sometimes Hides Her Feelings in Russian | En cours | 33/64 | 51,56% |
+| 36 | 472 | The Bugle Call | En cours | 19/41 | 46,34% |
+| 37 | 652 | Farming Life in Another World | En cours | 89/325 | 27,38% |
 | 38 | 187 | HUNTER × HUNTER | En cours | 63/400 | 15,75% |
 | 39 | 620 | Blue Box | En cours | 6/248 | 2,42% |
 | 40 | 362 | Lecteur Omniscient | En cours | 7/305 | 2,30% |
