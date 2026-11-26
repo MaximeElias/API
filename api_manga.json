@@ -233680,8 +233680,12 @@
                 "number": 2,
                 "chapters": [
                     {
+                        "number": 9,
+                        "name": "1er niveau, le bord de l’Abysse"
+                    },
+                    {
                         "number": 10,
-                        "name": "Chapitre 10"
+                        "name": "2e niveau, la forêt envoûtante"
                     },
                     {
                         "number": 11,
@@ -233714,35 +233718,35 @@
                 "chapters": [
                     {
                         "number": 17,
-                        "name": "Chapitre 17"
+                        "name": "L’exercice de survie"
                     },
                     {
                         "number": 18,
-                        "name": "Chapitre 18"
+                        "name": "3e niveau, la grande fissure"
                     },
                     {
                         "number": 19,
-                        "name": "Chapitre 19"
+                        "name": "Poison et malédiction"
                     },
                     {
                         "number": 20,
-                        "name": "Chapitre 20"
+                        "name": "Nanachi"
                     },
                     {
                         "number": 21,
-                        "name": "Chapitre 21"
+                        "name": "Les souvenirs de Légu"
                     },
                     {
                         "number": 22,
-                        "name": "Chapitre 22"
+                        "name": "La vérité sur la malédiction"
                     },
                     {
                         "number": 23,
-                        "name": "Chapitre 23"
+                        "name": "Une expérience terrifiante"
                     },
                     {
                         "number": 24,
-                        "name": "Chapitre 24"
+                        "name": "La délivrance de l’âme"
                     }
                 ]
             },
@@ -233751,35 +233755,35 @@
                 "chapters": [
                     {
                         "number": 25,
-                        "name": "Chapitre 25"
+                        "name": "Survivre aux ténèbres"
                     },
                     {
                         "number": 26,
-                        "name": "Chapitre 26"
+                        "name": "Un nouveau départ"
                     },
                     {
                         "number": 27,
-                        "name": "Chapitre 27"
+                        "name": "Le champ de fleurs interdit"
                     },
                     {
                         "number": 28,
-                        "name": "Chapitre 28"
+                        "name": "L’accès au 6e niveau"
                     },
                     {
                         "number": 29,
-                        "name": "Chapitre 29"
+                        "name": "Retrouvailles prédestinées"
                     },
                     {
                         "number": 30,
-                        "name": "Chapitre 30"
+                        "name": "Une crise imprévue"
                     },
                     {
                         "number": 31,
-                        "name": "Chapitre 31"
+                        "name": "Espoir et désespoir"
                     },
                     {
                         "number": 32,
-                        "name": "Chapitre 32"
+                        "name": "L’aboutissement d’un violent combat"
                     }
                 ]
             },
@@ -233788,27 +233792,27 @@
                 "chapters": [
                     {
                         "number": 33,
-                        "name": "Chapitre 33"
+                        "name": "La vérité derrière le masque"
                     },
                     {
                         "number": 34,
-                        "name": "Chapitre 34"
+                        "name": "La contre-attaque"
                     },
                     {
                         "number": 35,
-                        "name": "Chapitre 35"
+                        "name": "Souvenirs confus"
                     },
                     {
                         "number": 36,
-                        "name": "Chapitre 36"
+                        "name": "Le jardin miniature de l’aurore"
                     },
                     {
                         "number": 37,
-                        "name": "Chapitre 37"
+                        "name": "La fleur de l’aube"
                     },
                     {
                         "number": 38,
-                        "name": "Chapitre 38"
+                        "name": "Les braves"
                     }
                 ]
             },
@@ -233817,19 +233821,19 @@
                 "chapters": [
                     {
                         "number": 39,
-                        "name": "Chapitre 39"
+                        "name": "La cité du non-retour"
                     },
                     {
                         "number": 40,
-                        "name": "Chapitre 40"
+                        "name": "La vie d’ombre"
                     },
                     {
                         "number": 41,
-                        "name": "Chapitre 41"
+                        "name": "Le solde de la valeur"
                     },
                     {
                         "number": 42,
-                        "name": "Chapitre 42"
+                        "name": "La princesse des ombres"
                     }
                 ]
             },
@@ -233838,19 +233842,23 @@
                 "chapters": [
                     {
                         "number": 43,
-                        "name": "Chapitre 43"
+                        "name": "Un danger imminent"
                     },
                     {
                         "number": 44,
-                        "name": "Chapitre 44"
+                        "name": "La cantine des ombres"
                     },
                     {
                         "number": 45,
-                        "name": "Chapitre 45"
+                        "name": "La prisonnière"
+                    },
+                    {
+                        "number": 46,
+                        "name": "L’appel"
                     },
                     {
                         "number": 47,
-                        "name": "Chapitre 47"
+                        "name": "Le secret d’un village"
                     }
                 ]
             },
@@ -233859,19 +233867,19 @@
                 "chapters": [
                     {
                         "number": 48,
-                        "name": "Chapitre 48"
+                        "name": "La boussole qui pointe vers les ténèbres"
                     },
                     {
                         "number": 49,
-                        "name": "Chapitre 49"
+                        "name": "La ville d’or"
                     },
                     {
                         "number": 50,
-                        "name": "Chapitre 50"
+                        "name": "Le Berceau des désirs"
                     },
                     {
                         "number": 51,
-                        "name": "Chapitre 51"
+                        "name": "La forme du souhait"
                     }
                 ]
             },
@@ -233880,19 +233888,19 @@
                 "chapters": [
                     {
                         "number": 52,
-                        "name": "Chapitre 52"
+                        "name": "La promesse de Faputa"
                     },
                     {
                         "number": 53,
-                        "name": "Chapitre 53"
+                        "name": "Prélude à la chute"
                     },
                     {
                         "number": 54,
-                        "name": "Chapitre 54"
+                        "name": "Tout ce qui se ramasse"
                     },
                     {
                         "number": 55,
-                        "name": "Chapitre 55"
+                        "name": "Faputa et Légu"
                     }
                 ]
             },
@@ -233901,23 +233909,23 @@
                 "chapters": [
                     {
                         "number": 56,
-                        "name": "Chapitre 56"
+                        "name": "Le cadeau"
                     },
                     {
                         "number": 57,
-                        "name": "Chapitre 57"
+                        "name": "La valeur"
                     },
                     {
                         "number": 58,
-                        "name": "Chapitre 58"
+                        "name": "Vers le chemin du feu"
                     },
                     {
                         "number": 59,
-                        "name": "Chapitre 59"
+                        "name": "Chaleureuses ténèbres"
                     },
                     {
                         "number": 60,
-                        "name": "Chapitre 60"
+                        "name": "L’or"
                     }
                 ]
             },
@@ -233930,11 +233938,11 @@
                     },
                     {
                         "number": 62,
-                        "name": "Chapitre 62"
+                        "name": "Le lieu du chant"
                     },
                     {
                         "number": 63,
-                        "name": "Chapitre 63"
+                        "name": "La flotte maudite"
                     }
                 ]
             },
@@ -233943,15 +233951,15 @@
                 "chapters": [
                     {
                         "number": 64,
-                        "name": "Chapitre 64"
+                        "name": "Chimère"
                     },
                     {
                         "number": 65,
-                        "name": "Chapitre 65"
+                        "name": "En plein conte de fées"
                     },
                     {
                         "number": 66,
-                        "name": "Chapitre 66"
+                        "name": "Le dernier niveau"
                     }
                 ]
             },
@@ -233960,15 +233968,15 @@
                 "chapters": [
                     {
                         "number": 67,
-                        "name": "Chapitre 67"
+                        "name": "L’emplacement des âmes"
                     },
                     {
                         "number": 68,
-                        "name": "Chapitre 68"
+                        "name": "Tourbillonpiégeur Partie 1"
                     },
                     {
                         "number": 69,
-                        "name": "Chapitre 69"
+                        "name": "Tourbillonpiégeur Partie 2"
                     }
                 ]
             },
@@ -233977,11 +233985,11 @@
                 "chapters": [
                     {
                         "number": 70,
-                        "name": "Chapitre 70"
+                        "name": "Comme un grand frère"
                     },
                     {
                         "number": 71,
-                        "name": "Chapitre 71"
+                        "name": "Sniper"
                     }
                 ]
             },
