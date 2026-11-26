@@ -10,17 +10,17 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 
 ## Métadonnées de génération
 
-- Généré le : **2026-11-26 22:04 UTC**
+- Généré le : **2026-11-26 22:11 UTC**
 - Source : fichier `api_manga.json` du dépôt API
-- SHA1 git blob : `e204e8aa5c6cf49674654574788e7cf18bc79db7`
-- Taille : `7436915` octets
+- SHA1 git blob : `7ed0dabe3fc3fce3ae6db9ba6430bda21c4cc675`
+- Taille : `7439233` octets
 - Entrées : **657**
 
 ## Résumé
 
 | Groupe | Séries | 100 % | Chapitres nommés | Total chapitres | % global |
 |---|---:|---:|---:|---:|---:|
-| Terminé / Abandonné | 399 | 54 | 10408 | 27416 | 37,96% |
+| Terminé / Abandonné | 399 | 55 | 10621 | 27416 | 38,74% |
 | En cours | 258 | 33 | 6983 | 22330 | 31,27% |
 
 > **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision enregistrée le 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
@@ -48,51 +48,51 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | 17 | 96 | Chainsaw Man | Terminé | 232/232 | 100,00% |
 | 18 | 129 | Dr. STONE | Terminé | 232/232 | 100,00% |
 | 19 | 532 | Vinland Saga | Terminé | 220/220 | 100,00% |
-| 20 | 127 | Demon Slayer | Terminé | 205/205 | 100,00% |
-| 21 | 8 | 2.5 Dimensional Seduction | Terminé | 201/201 | 100,00% |
-| 22 | 37 | Ao Ashi | Terminé | 199/199 | 100,00% |
-| 23 | 491 | The Promised Neverland | Terminé | 181/181 | 100,00% |
-| 24 | 511 | Tokyo Ghoul:re | Terminé | 179/179 | 100,00% |
-| 25 | 17 | A Certain Scientific Railgun | Terminé | 170/170 | 100,00% |
-| 26 | 260 | Dorohedoro | Terminé | 167/167 | 100,00% |
-| 27 | 188 | Jagaaan | Terminé | 163/163 | 100,00% |
-| 28 | 321 | Mashle | Terminé | 162/162 | 100,00% |
-| 29 | 42 | Arrête de me chauffer, Nagatoro | Terminé | 154/154 | 100,00% |
-| 30 | 510 | Tokyo Ghoul | Terminé | 143/143 | 100,00% |
-| 31 | 83 | Boy's Abyss | Terminé | 140/140 | 100,00% |
-| 32 | 436 | Friends Games | Terminé | 127/127 | 100,00% |
-| 33 | 482 | My Hero Academia - Vigilante | Terminé | 126/126 | 100,00% |
-| 34 | 422 | The Quintessential Quintuplets | Terminé | 122/122 | 100,00% |
-| 35 | 11 | 365 Days to the Wedding | Terminé | 110/110 | 100,00% |
-| 36 | 124 | Death Note | Terminé | 108/108 | 100,00% |
-| 37 | 485 | The Legendary Hero is Dead! | Terminé | 74/74 | 100,00% |
-| 38 | 12 | 5 minutes forward | Terminé | 66/66 | 100,00% |
-| 39 | 21 | A Silent Voice | Terminé | 61/61 | 100,00% |
-| 40 | 52 | Ayakashi Triangle | Terminé | 61/61 | 100,00% |
-| 41 | 2 | +Anima | Terminé | 56/56 | 100,00% |
-| 42 | 453 | Sweetness & Lightning | Terminé | 56/56 | 100,00% |
-| 43 | 6 | 100 jours avant ta mort | Terminé | 44/44 | 100,00% |
-| 44 | 469 | The Alexis Empire Chronicle | Terminé | 34/34 | 100,00% |
-| 45 | 657 | PEEP | Terminé | 30/30 | 100,00% |
-| 46 | 32 | All You Need is Kill | Terminé | 17/17 | 100,00% |
-| 47 | 473 | The Dark Saint | Terminé | 17/17 | 100,00% |
-| 48 | 15 | 86 -Eighty six- | Abandonné | 16/16 | 100,00% |
-| 49 | 375 | Poison City | Terminé | 16/16 | 100,00% |
-| 50 | 466 | Sword Art Online : Alicization Lycoris | Terminé | 16/16 | 100,00% |
-| 51 | 39 | Arcanum | Terminé | 11/11 | 100,00% |
-| 52 | 435 | Betrayal Games | Terminé | 7/7 | 100,00% |
-| 53 | 7 | 17-21 | Terminé | 4/4 | 100,00% |
-| 54 | 9 | 22-26 | Terminé | 4/4 | 100,00% |
-| 55 | 520 | UQ Holder! | Terminé | 171/192 | 89,06% |
-| 56 | 38 | Apparently, Disillusioned Adventurers Will Save the World | Terminé | 30/40 | 75,00% |
-| 57 | 429 | Solo Leveling | Terminé | 54/200 | 27,00% |
-| 58 | 5 | 008 : Apprenti Espion | Terminé | 55/297 | 18,52% |
-| 59 | 138 | Dungeon Reset | Terminé | 2/266 | 0,75% |
-| 60 | 477 | The Gamer | Terminé | 0/511 | 0,00% |
-| 61 | 571 | I Woke Up as the Ugly Duckling | Terminé | 0/283 | 0,00% |
-| 62 | 514 | True Beauty | Terminé | 0/261 | 0,00% |
-| 63 | 270 | L'expert de la Tour Tutoriel | Terminé | 0/223 | 0,00% |
-| 64 | 325 | Mission: Yozakura Family | Terminé | 0/213 | 0,00% |
+| 20 | 325 | Mission: Yozakura Family | Terminé | 213/213 | 100,00% |
+| 21 | 127 | Demon Slayer | Terminé | 205/205 | 100,00% |
+| 22 | 8 | 2.5 Dimensional Seduction | Terminé | 201/201 | 100,00% |
+| 23 | 37 | Ao Ashi | Terminé | 199/199 | 100,00% |
+| 24 | 491 | The Promised Neverland | Terminé | 181/181 | 100,00% |
+| 25 | 511 | Tokyo Ghoul:re | Terminé | 179/179 | 100,00% |
+| 26 | 17 | A Certain Scientific Railgun | Terminé | 170/170 | 100,00% |
+| 27 | 260 | Dorohedoro | Terminé | 167/167 | 100,00% |
+| 28 | 188 | Jagaaan | Terminé | 163/163 | 100,00% |
+| 29 | 321 | Mashle | Terminé | 162/162 | 100,00% |
+| 30 | 42 | Arrête de me chauffer, Nagatoro | Terminé | 154/154 | 100,00% |
+| 31 | 510 | Tokyo Ghoul | Terminé | 143/143 | 100,00% |
+| 32 | 83 | Boy's Abyss | Terminé | 140/140 | 100,00% |
+| 33 | 436 | Friends Games | Terminé | 127/127 | 100,00% |
+| 34 | 482 | My Hero Academia - Vigilante | Terminé | 126/126 | 100,00% |
+| 35 | 422 | The Quintessential Quintuplets | Terminé | 122/122 | 100,00% |
+| 36 | 11 | 365 Days to the Wedding | Terminé | 110/110 | 100,00% |
+| 37 | 124 | Death Note | Terminé | 108/108 | 100,00% |
+| 38 | 485 | The Legendary Hero is Dead! | Terminé | 74/74 | 100,00% |
+| 39 | 12 | 5 minutes forward | Terminé | 66/66 | 100,00% |
+| 40 | 21 | A Silent Voice | Terminé | 61/61 | 100,00% |
+| 41 | 52 | Ayakashi Triangle | Terminé | 61/61 | 100,00% |
+| 42 | 2 | +Anima | Terminé | 56/56 | 100,00% |
+| 43 | 453 | Sweetness & Lightning | Terminé | 56/56 | 100,00% |
+| 44 | 6 | 100 jours avant ta mort | Terminé | 44/44 | 100,00% |
+| 45 | 469 | The Alexis Empire Chronicle | Terminé | 34/34 | 100,00% |
+| 46 | 657 | PEEP | Terminé | 30/30 | 100,00% |
+| 47 | 32 | All You Need is Kill | Terminé | 17/17 | 100,00% |
+| 48 | 473 | The Dark Saint | Terminé | 17/17 | 100,00% |
+| 49 | 15 | 86 -Eighty six- | Abandonné | 16/16 | 100,00% |
+| 50 | 375 | Poison City | Terminé | 16/16 | 100,00% |
+| 51 | 466 | Sword Art Online : Alicization Lycoris | Terminé | 16/16 | 100,00% |
+| 52 | 39 | Arcanum | Terminé | 11/11 | 100,00% |
+| 53 | 435 | Betrayal Games | Terminé | 7/7 | 100,00% |
+| 54 | 7 | 17-21 | Terminé | 4/4 | 100,00% |
+| 55 | 9 | 22-26 | Terminé | 4/4 | 100,00% |
+| 56 | 520 | UQ Holder! | Terminé | 171/192 | 89,06% |
+| 57 | 38 | Apparently, Disillusioned Adventurers Will Save the World | Terminé | 30/40 | 75,00% |
+| 58 | 429 | Solo Leveling | Terminé | 54/200 | 27,00% |
+| 59 | 5 | 008 : Apprenti Espion | Terminé | 55/297 | 18,52% |
+| 60 | 138 | Dungeon Reset | Terminé | 2/266 | 0,75% |
+| 61 | 477 | The Gamer | Terminé | 0/511 | 0,00% |
+| 62 | 571 | I Woke Up as the Ugly Duckling | Terminé | 0/283 | 0,00% |
+| 63 | 514 | True Beauty | Terminé | 0/261 | 0,00% |
+| 64 | 270 | L'expert de la Tour Tutoriel | Terminé | 0/223 | 0,00% |
 | 65 | 474 | The Druid of Seoul station | Terminé | 0/207 | 0,00% |
 | 66 | 215 | Infection | Terminé | 0/204 | 0,00% |
 | 67 | 58 | Bakemonogatari | Terminé | 0/193 | 0,00% |
