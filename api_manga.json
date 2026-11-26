@@ -38861,85 +38861,630 @@
                 "chapters": [
                     {
                         "number": 1,
-                        "name": "Chapitre 1"
+                        "name": "Un garçon de cette ville"
                     },
                     {
                         "number": 2,
-                        "name": "Chapitre 2"
+                        "name": "Rendez-vous secret"
                     },
                     {
                         "number": 3,
-                        "name": "Chapitre 3"
+                        "name": "Nagi Aoe"
                     },
                     {
                         "number": 4,
-                        "name": "Chapitre 4"
+                        "name": "Trouble-fête"
                     },
                     {
                         "number": 5,
-                        "name": "Chapitre 5"
+                        "name": "L’homme en question"
                     },
                     {
                         "number": 6,
-                        "name": "Chapitre 6"
+                        "name": "A corps perdu"
                     },
                     {
                         "number": 7,
-                        "name": "Chapitre 7"
+                        "name": "Vers les abysses"
                     }
                 ]
             },
             {
                 "number": 2,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 8,
+                        "name": "Cette nuit-là"
+                    },
+                    {
+                        "number": 9,
+                        "name": "Par une nuit de tempête"
+                    },
+                    {
+                        "number": 10,
+                        "name": "Enseignante au lycée"
+                    },
+                    {
+                        "number": 11,
+                        "name": "Le calme après la tempête"
+                    },
+                    {
+                        "number": 12,
+                        "name": "Adulte dans cette ville"
+                    },
+                    {
+                        "number": 13,
+                        "name": "Soleil couchant"
+                    },
+                    {
+                        "number": 14,
+                        "name": "Higanbana"
+                    },
+                    {
+                        "number": 15,
+                        "name": "Embuscade"
+                    },
+                    {
+                        "number": 16,
+                        "name": "Nuit noire"
+                    },
+                    {
+                        "number": 17,
+                        "name": "La colline à la tombe"
+                    }
+                ]
             },
             {
                 "number": 3,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 18,
+                        "name": "Nouvelle lune"
+                    },
+                    {
+                        "number": 19,
+                        "name": "Séducteur"
+                    },
+                    {
+                        "number": 20,
+                        "name": "Confessions"
+                    },
+                    {
+                        "number": 21,
+                        "name": "Promesse de bonheur"
+                    },
+                    {
+                        "number": 22,
+                        "name": "Lumière"
+                    },
+                    {
+                        "number": 23,
+                        "name": "Haine"
+                    },
+                    {
+                        "number": 24,
+                        "name": "Nuit calme"
+                    },
+                    {
+                        "number": 25,
+                        "name": "Renouveau du désir"
+                    },
+                    {
+                        "number": 26,
+                        "name": "L'abîme des amoureux"
+                    },
+                    {
+                        "number": 27,
+                        "name": "Infâme tristesse"
+                    }
+                ]
             },
             {
                 "number": 4,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 28,
+                        "name": "Monologue d'une spectatrice"
+                    },
+                    {
+                        "number": 29,
+                        "name": "La mort d'une illusion"
+                    },
+                    {
+                        "number": 30,
+                        "name": "Le contrat"
+                    },
+                    {
+                        "number": 31,
+                        "name": "Le cumul des années"
+                    },
+                    {
+                        "number": 32,
+                        "name": "Résolution"
+                    },
+                    {
+                        "number": 33,
+                        "name": "Deux prisons"
+                    },
+                    {
+                        "number": 34,
+                        "name": "Retour à la case départ"
+                    },
+                    {
+                        "number": 35,
+                        "name": "Avec maman, au cœur de la nuit"
+                    },
+                    {
+                        "number": 36,
+                        "name": "Rendez-vous"
+                    },
+                    {
+                        "number": 37,
+                        "name": "Mentor"
+                    }
+                ]
             },
             {
                 "number": 5,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 38,
+                        "name": "Une main tendue"
+                    },
+                    {
+                        "number": 39,
+                        "name": "Repose-toi sur moi"
+                    },
+                    {
+                        "number": 40,
+                        "name": "Guiding Light"
+                    },
+                    {
+                        "number": 41,
+                        "name": "La noyée"
+                    },
+                    {
+                        "number": 42,
+                        "name": "Evanescence"
+                    },
+                    {
+                        "number": 43,
+                        "name": "Le coupable"
+                    },
+                    {
+                        "number": 44,
+                        "name": "Moyen"
+                    },
+                    {
+                        "number": 45,
+                        "name": "La sainte de la ville"
+                    },
+                    {
+                        "number": 46,
+                        "name": "Rencontre secrète"
+                    },
+                    {
+                        "number": 47,
+                        "name": "Depuis le début"
+                    }
+                ]
             },
             {
                 "number": 6,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 48,
+                        "name": "Un nouveau garçon dans cette ville"
+                    },
+                    {
+                        "number": 49,
+                        "name": "En attendant le printemps"
+                    },
+                    {
+                        "number": 50,
+                        "name": "Premier amour"
+                    },
+                    {
+                        "number": 51,
+                        "name": "Le combat d'une jeune femme"
+                    },
+                    {
+                        "number": 52,
+                        "name": "Fêlure"
+                    },
+                    {
+                        "number": 53,
+                        "name": "Grouillements"
+                    },
+                    {
+                        "number": 54,
+                        "name": "Farce"
+                    },
+                    {
+                        "number": 55,
+                        "name": "Étreinte"
+                    },
+                    {
+                        "number": 56,
+                        "name": "Liens"
+                    },
+                    {
+                        "number": 57,
+                        "name": "Mort"
+                    }
+                ]
             },
             {
                 "number": 7,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 58,
+                        "name": "Berceau"
+                    },
+                    {
+                        "number": 59,
+                        "name": "Le poids du crime"
+                    },
+                    {
+                        "number": 60,
+                        "name": "Vide"
+                    },
+                    {
+                        "number": 61,
+                        "name": "Insignifiante victoire"
+                    },
+                    {
+                        "number": 62,
+                        "name": "Se fondre dans la ville"
+                    },
+                    {
+                        "number": 63,
+                        "name": "Nuit tombée"
+                    },
+                    {
+                        "number": 64,
+                        "name": "Anathème"
+                    },
+                    {
+                        "number": 65,
+                        "name": "Claire de lune"
+                    },
+                    {
+                        "number": 66,
+                        "name": "Mains"
+                    },
+                    {
+                        "number": 67,
+                        "name": "Pour toi"
+                    },
+                    {
+                        "number": 68,
+                        "name": "La déclaration du gardien de la tombe"
+                    }
+                ]
             },
             {
                 "number": 8,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 69,
+                        "name": "Covictimes"
+                    },
+                    {
+                        "number": 70,
+                        "name": "Ville gelée"
+                    },
+                    {
+                        "number": 71,
+                        "name": "La femme qui sourit"
+                    },
+                    {
+                        "number": 72,
+                        "name": "\"Ça va ?\""
+                    },
+                    {
+                        "number": 73,
+                        "name": "Notre échec"
+                    },
+                    {
+                        "number": 74,
+                        "name": "Entre semblables"
+                    },
+                    {
+                        "number": 75,
+                        "name": "Amende honorable"
+                    },
+                    {
+                        "number": 76,
+                        "name": "La clé"
+                    },
+                    {
+                        "number": 77,
+                        "name": "Deux frères qui étouffent"
+                    },
+                    {
+                        "number": 78,
+                        "name": "Amis d'enfances"
+                    }
+                ]
             },
             {
                 "number": 9,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 79,
+                        "name": "Depuis ce jour..."
+                    },
+                    {
+                        "number": 80,
+                        "name": "L'appartement de la bonne réponse"
+                    },
+                    {
+                        "number": 81,
+                        "name": "Une meuf de cette ville"
+                    },
+                    {
+                        "number": 82,
+                        "name": "Avancées silencieuses"
+                    },
+                    {
+                        "number": 83,
+                        "name": "Ville grisâtre"
+                    },
+                    {
+                        "number": 84,
+                        "name": "Beauté fugace, obscurité glaciale"
+                    },
+                    {
+                        "number": 85,
+                        "name": "Tchao, les adultes"
+                    },
+                    {
+                        "number": 86,
+                        "name": "Des jeunes de cette ville"
+                    },
+                    {
+                        "number": 87,
+                        "name": "L'envers du rêve"
+                    },
+                    {
+                        "number": 88,
+                        "name": "Vieille connaissance"
+                    }
+                ]
             },
             {
                 "number": 10,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 89,
+                        "name": "Les abysses d'une mère et de son fils"
+                    },
+                    {
+                        "number": 90,
+                        "name": "Conversations de nuit"
+                    },
+                    {
+                        "number": 91,
+                        "name": "Le calme avant la tempête"
+                    },
+                    {
+                        "number": 92,
+                        "name": "Festival"
+                    },
+                    {
+                        "number": 93,
+                        "name": "Après réflexion"
+                    },
+                    {
+                        "number": 94,
+                        "name": "Un sourire de fille"
+                    },
+                    {
+                        "number": 95,
+                        "name": "Les répercussions du festival"
+                    },
+                    {
+                        "number": 96,
+                        "name": "Premier amour perdu"
+                    },
+                    {
+                        "number": 97,
+                        "name": "La nuit de Noël"
+                    },
+                    {
+                        "number": 98,
+                        "name": "Volutes de chaleur"
+                    }
+                ]
             },
             {
                 "number": 11,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 99,
+                        "name": "D'une plume alerte"
+                    },
+                    {
+                        "number": 100,
+                        "name": "Sublimation"
+                    },
+                    {
+                        "number": 101,
+                        "name": "Pluie et anxiété"
+                    },
+                    {
+                        "number": 102,
+                        "name": "Sous une pluie diluvienne"
+                    },
+                    {
+                        "number": 103,
+                        "name": "Karma"
+                    },
+                    {
+                        "number": 104,
+                        "name": "Toujours boueux"
+                    },
+                    {
+                        "number": 105,
+                        "name": "Démon"
+                    },
+                    {
+                        "number": 106,
+                        "name": "Départ de la ville"
+                    },
+                    {
+                        "number": 107,
+                        "name": "Reiji"
+                    },
+                    {
+                        "number": 108,
+                        "name": "L'aquarium de l'Éternel Retour"
+                    }
+                ]
             },
             {
                 "number": 12,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 109,
+                        "name": "Au revoir à l'écrivain"
+                    },
+                    {
+                        "number": 110,
+                        "name": "La famille Kurose"
+                    },
+                    {
+                        "number": 111,
+                        "name": "Sur l'autre rive"
+                    },
+                    {
+                        "number": 112,
+                        "name": "Le lien"
+                    },
+                    {
+                        "number": 113,
+                        "name": "La mer"
+                    },
+                    {
+                        "number": 114,
+                        "name": "Dieux de la mort"
+                    },
+                    {
+                        "number": 115,
+                        "name": "Grand frère"
+                    },
+                    {
+                        "number": 116,
+                        "name": "Au lever du jour"
+                    },
+                    {
+                        "number": 117,
+                        "name": "Lie"
+                    },
+                    {
+                        "number": 118,
+                        "name": "Tourbillons"
+                    }
+                ]
             },
             {
                 "number": 13,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 119,
+                        "name": "Souris prise au piège"
+                    },
+                    {
+                        "number": 120,
+                        "name": "Chassés-croisés"
+                    },
+                    {
+                        "number": 121,
+                        "name": "Enlacée"
+                    },
+                    {
+                        "number": 122,
+                        "name": "Ensemble, encore"
+                    },
+                    {
+                        "number": 123,
+                        "name": "Larve de fourmilion"
+                    },
+                    {
+                        "number": 124,
+                        "name": "Coucher de soleil"
+                    },
+                    {
+                        "number": 125,
+                        "name": "Une enseignante et son élève"
+                    },
+                    {
+                        "number": 126,
+                        "name": "Causalité"
+                    },
+                    {
+                        "number": 127,
+                        "name": "Un amour errant"
+                    },
+                    {
+                        "number": 128,
+                        "name": "L'endroit où se tient Gen Minegishi"
+                    },
+                    {
+                        "number": 129,
+                        "name": "Je t'attendrai le temps qu'il faudra"
+                    }
+                ]
             },
             {
                 "number": 14,
-                "chapters": []
+                "chapters": [
+                    {
+                        "number": 130,
+                        "name": "La rivière du silence"
+                    },
+                    {
+                        "number": 131,
+                        "name": "Vide"
+                    },
+                    {
+                        "number": 132,
+                        "name": "Le jour se lève pour se coucher de nouveau"
+                    },
+                    {
+                        "number": 133,
+                        "name": "Jeunes femmes"
+                    },
+                    {
+                        "number": 134,
+                        "name": "Questions/réponses"
+                    },
+                    {
+                        "number": 135,
+                        "name": "Colère"
+                    },
+                    {
+                        "number": 136,
+                        "name": "Doutes"
+                    },
+                    {
+                        "number": 137,
+                        "name": "Ruptures"
+                    },
+                    {
+                        "number": 138,
+                        "name": "Disparition progressive"
+                    },
+                    {
+                        "number": 139,
+                        "name": "Trop tard"
+                    },
+                    {
+                        "number": 140,
+                        "name": "Mépris du fond du cœur"
+                    }
+                ]
             },
             {
                 "number": 15,
