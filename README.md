@@ -12,15 +12,15 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 
 - Généré le : **2026-11-26 21:08 UTC**
 - Source : fichier `api_manga.json` du dépôt API
-- SHA1 git blob : `34cd3619a51b7a91a9bd54867b0902e4595a7fb4`
-- Taille : `7406196` octets
+- SHA1 git blob : `da64077ed57e6f992ab2011faa6d6821b289d0ed`
+- Taille : `7406305` octets
 - Entrées : **657**
 
 ## Résumé
 
 | Groupe | Séries | 100 % | Chapitres nommés | Total chapitres | % global |
 |---|---:|---:|---:|---:|---:|
-| Terminé / Abandonné | 399 | 52 | 10252 | 27283 | 37,58% |
+| Terminé / Abandonné | 399 | 53 | 10268 | 27283 | 37,64% |
 | En cours | 258 | 28 | 6156 | 22324 | 27,58% |
 
 > **Note id 32 — *All You Need is Kill*** : le chapitre 8 a un nom vide volontaire (décision enregistrée le 24/11/2026). Avec la règle actuelle, un nom vide est différent de `Chapitre N` et est donc compté comme nommé ; la série est considérée comme **100 % fonctionnelle**.
@@ -76,205 +76,205 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 | 45 | 32 | All You Need is Kill | Terminé | 17/17 | 100,00% |
 | 46 | 473 | The Dark Saint | Terminé | 17/17 | 100,00% |
 | 47 | 15 | 86 -Eighty six- | Abandonné | 16/16 | 100,00% |
-| 48 | 466 | Sword Art Online : Alicization Lycoris | Terminé | 16/16 | 100,00% |
-| 49 | 39 | Arcanum | Terminé | 11/11 | 100,00% |
-| 50 | 435 | Betrayal Games | Terminé | 7/7 | 100,00% |
-| 51 | 7 | 17-21 | Terminé | 4/4 | 100,00% |
-| 52 | 9 | 22-26 | Terminé | 4/4 | 100,00% |
-| 53 | 520 | UQ Holder! | Terminé | 171/192 | 89,06% |
-| 54 | 38 | Apparently, Disillusioned Adventurers Will Save the World | Terminé | 30/40 | 75,00% |
-| 55 | 429 | Solo Leveling | Terminé | 54/200 | 27,00% |
-| 56 | 5 | 008 : Apprenti Espion | Terminé | 55/297 | 18,52% |
-| 57 | 138 | Dungeon Reset | Terminé | 2/266 | 0,75% |
-| 58 | 477 | The Gamer | Terminé | 0/511 | 0,00% |
-| 59 | 571 | I Woke Up as the Ugly Duckling | Terminé | 0/283 | 0,00% |
-| 60 | 514 | True Beauty | Terminé | 0/261 | 0,00% |
-| 61 | 270 | L'expert de la Tour Tutoriel | Terminé | 0/223 | 0,00% |
-| 62 | 325 | Mission: Yozakura Family | Terminé | 0/213 | 0,00% |
-| 63 | 474 | The Druid of Seoul station | Terminé | 0/207 | 0,00% |
-| 64 | 215 | Infection | Terminé | 0/204 | 0,00% |
-| 65 | 58 | Bakemonogatari | Terminé | 0/193 | 0,00% |
-| 66 | 91 | Cage of Eden | Terminé | 0/185 | 0,00% |
-| 67 | 140 | Edens Zero | Terminé | 0/185 | 0,00% |
-| 68 | 310 | Limit Breaker | Terminé | 0/185 | 0,00% |
-| 69 | 136 | Dreaming Freedom | Terminé | 0/184 | 0,00% |
-| 70 | 486 | Reincarnation of the Unrivaled Spear Knight | Terminé | 0/181 | 0,00% |
-| 71 | 49 | Assassination Classroom | Terminé | 0/180 | 0,00% |
-| 72 | 51 | Auto Hunting With My Clones | Terminé | 0/176 | 0,00% |
-| 73 | 255 | JoJo's Bizarre Adventure - Part 4 - Diamond is Unbreakable | Terminé | 0/174 | 0,00% |
-| 74 | 448 | Sun-Ken Rock | Terminé | 0/172 | 0,00% |
-| 75 | 550 | Übel Blatt | Terminé | 0/168 | 0,00% |
-| 76 | 174 | Oshi no Ko | Terminé | 0/166 | 0,00% |
-| 77 | 233 | Vengeance des Ex | Terminé | 0/165 | 0,00% |
-| 78 | 577 | Mon Chevalier Dragon | Terminé | 0/163 | 0,00% |
-| 79 | 257 | JoJo's Bizarre Adventure - Part 6 - Stone Ocean | Terminé | 0/158 | 0,00% |
-| 80 | 558 | Comment j'ai survécu au manoir Wynknight | Terminé | 0/158 | 0,00% |
-| 81 | 102 | Claymore | Terminé | 0/155 | 0,00% |
-| 82 | 225 | JoJo's Bizarre Adventure - Part 3 - Stardust Crusaders | Terminé | 0/152 | 0,00% |
-| 83 | 46 | Assassin's Creed - Forgotten Temple | Terminé | 0/151 | 0,00% |
-| 84 | 449 | Superhuman Battlefield | Terminé | 0/151 | 0,00% |
-| 85 | 585 | Questions d'Âge | Terminé | 0/151 | 0,00% |
-| 86 | 268 | L'Enfant des Ténèbres | Terminé | 0/150 | 0,00% |
-| 87 | 79 | Bonne nuit Punpun | Terminé | 0/147 | 0,00% |
-| 88 | 163 | From Pawn to King | Terminé | 0/146 | 0,00% |
-| 89 | 648 | Le Roi des Sorciers | Terminé | 0/143 | 0,00% |
-| 90 | 451 | Sweet Home | Terminé | 0/141 | 0,00% |
-| 91 | 407 | SHY | Terminé | 0/140 | 0,00% |
-| 92 | 265 | L'Attaque des Titans | Terminé | 0/139 | 0,00% |
-| 93 | 562 | Dites-moi, Princesse ! | Terminé | 0/135 | 0,00% |
-| 94 | 92 | Call of the Night | Terminé | 0/129 | 0,00% |
-| 95 | 230 | Kaiju n°8 | Terminé | 0/129 | 0,00% |
-| 96 | 193 | Hell's Paradise | Terminé | 0/127 | 0,00% |
-| 97 | 583 | Oubliez-moi ! | Terminé | 0/126 | 0,00% |
-| 98 | 75 | Horimiya | Terminé | 0/124 | 0,00% |
-| 99 | 560 | Diable n°4 | Terminé | 0/120 | 0,00% |
-| 100 | 307 | Leviathan Deep Water | Terminé | 0/115 | 0,00% |
-| 101 | 419 | Sexy Cosplay Doll | Terminé | 0/115 | 0,00% |
-| 102 | 498 | The Runway | Terminé | 0/112 | 0,00% |
-| 103 | 238 | A tender Heart - Comment je suis devenue la servante du Duc | Terminé | 0/111 | 0,00% |
-| 104 | 641 | Saint Seiya - Les Chevaliers du Zodiaque | Terminé | 0/110 | 0,00% |
-| 105 | 164 | Fullmetal Alchemist | Terminé | 0/108 | 0,00% |
-| 106 | 569 | Ichinichi Gotoni Dere ga Fueteku Tsuntsuntsuntsuntsundere-chan | Terminé | 0/106 | 0,00% |
-| 107 | 572 | J'ai élevé une bête | Terminé | 0/106 | 0,00% |
-| 108 | 121 | Dead Life | Terminé | 0/104 | 0,00% |
-| 109 | 361 | Ombre et Lumière | Terminé | 0/104 | 0,00% |
-| 110 | 598 | Une Nuit avec l'Empereur | Terminé | 0/102 | 0,00% |
-| 111 | 56 | Bad Ending Maker | Terminé | 0/101 | 0,00% |
-| 112 | 579 | My Cute Beast | Terminé | 0/101 | 0,00% |
-| 113 | 563 | Doux comme un agneau | Terminé | 0/100 | 0,00% |
-| 114 | 578 | Mon Dangereux Ange Gardien | Terminé | 0/100 | 0,00% |
-| 115 | 251 | Komi cherche ses mots | Terminé | 0/99 | 0,00% |
-| 116 | 171 | Gloutons et Dragons | Terminé | 0/97 | 0,00% |
-| 117 | 348 | Neon Genesis Evangelion | Terminé | 0/96 | 0,00% |
-| 118 | 478 | BJ. Alex | Terminé | 0/96 | 0,00% |
-| 119 | 258 | JoJo's Bizarre Adventure - Part 7 - Steel Ball Run | Terminé | 0/95 | 0,00% |
-| 120 | 586 | Rewriting My Dark Past | Terminé | 0/95 | 0,00% |
-| 121 | 90 | Bâtard | Terminé | 0/93 | 0,00% |
-| 122 | 234 | What Do You Want to Be, Prince ? | Terminé | 0/93 | 0,00% |
-| 123 | 235 | Adorablement Chien | Terminé | 0/92 | 0,00% |
-| 124 | 535 | White Blood | Terminé | 0/92 | 0,00% |
-| 125 | 104 | Corpse Knight Gunther | Terminé | 0/91 | 0,00% |
-| 126 | 175 | Kaguya-sama - Love is War | Terminé | 0/91 | 0,00% |
-| 127 | 568 | Honey Blood | Terminé | 0/91 | 0,00% |
-| 128 | 376 | Pokémon la Grande Aventure | Terminé | 0/90 | 0,00% |
-| 129 | 450 | Surinvoqué & Surpuissant | Terminé | 0/90 | 0,00% |
-| 130 | 554 | Bienvenue dans le jardin de Sylvie | Terminé | 0/90 | 0,00% |
-| 131 | 566 | Ghost teller | Terminé | 0/90 | 0,00% |
-| 132 | 646 | Sovereign of Judgement | Terminé | 0/88 | 0,00% |
-| 133 | 589 | Sacrifiée | Terminé | 0/87 | 0,00% |
-| 134 | 367 | Otaku Otaku | Terminé | 0/86 | 0,00% |
-| 135 | 71 | Blood Lad | Terminé | 0/85 | 0,00% |
-| 136 | 541 | World End Harem | Terminé | 0/85 | 0,00% |
-| 137 | 556 | Cairo | Terminé | 0/85 | 0,00% |
-| 138 | 587 | RSVP, Prince ! | Terminé | 0/85 | 0,00% |
-| 139 | 345 | Nana | Abandonné | 0/84 | 0,00% |
-| 140 | 155 | Fire Punch | Terminé | 0/83 | 0,00% |
-| 141 | 594 | Teleport in a Heartbeat | Terminé | 0/81 | 0,00% |
-| 142 | 80 | Boruto - Naruto Next Generations | Terminé | 0/80 | 0,00% |
-| 143 | 162 | Freaking Romance | Terminé | 0/79 | 0,00% |
-| 144 | 393 | Red Eyes Sword - Akame Ga Kill ! | Terminé | 0/78 | 0,00% |
-| 145 | 581 | Nice To Meet You | Terminé | 0/78 | 0,00% |
-| 146 | 409 | Sa Majesté l'Idol | Terminé | 0/75 | 0,00% |
-| 147 | 591 | Seule toi me Vois | Terminé | 0/73 | 0,00% |
-| 148 | 117 | Dark Moon: The Blood Altar | Terminé | 0/71 | 0,00% |
-| 149 | 240 | Kill Blue | Terminé | 0/70 | 0,00% |
-| 150 | 380 | Pseudo Harem | Terminé | 0/70 | 0,00% |
-| 151 | 500 | The Star Seekers | Terminé | 0/70 | 0,00% |
-| 152 | 224 | JoJo's Bizarre Adventure - Part 2 - Battle Tendency | Terminé | 0/69 | 0,00% |
-| 153 | 599 | Une Seconde Chance | Terminé | 0/69 | 0,00% |
-| 154 | 101 | Classroom of the Elite | Terminé | 0/68 | 0,00% |
-| 155 | 593 | Straight F Witch | Terminé | 0/67 | 0,00% |
-| 156 | 316 | Ma Sorcière à moi | Terminé | 0/64 | 0,00% |
-| 157 | 601 | Vilaine Fiancée du Prince | Terminé | 0/64 | 0,00% |
-| 158 | 592 | Shall We Bathe, Your Grace? | Terminé | 0/62 | 0,00% |
-| 159 | 119 | Darling in the FranxX | Terminé | 0/60 | 0,00% |
-| 160 | 236 | A Heart for the Emperor | Terminé | 0/60 | 0,00% |
-| 161 | 559 | Dating With A Tail | Terminé | 0/60 | 0,00% |
-| 162 | 179 | Perfect World | Terminé | 0/59 | 0,00% |
-| 163 | 324 | Mirai Nikki | Terminé | 0/59 | 0,00% |
-| 164 | 536 | Why Nobody Remembers My World | Terminé | 0/59 | 0,00% |
-| 165 | 588 | Régalez-Vous ! | Terminé | 0/59 | 0,00% |
-| 166 | 170 | Gleipnir | Terminé | 0/58 | 0,00% |
-| 167 | 123 | Deadman Wonderland | Terminé | 0/57 | 0,00% |
-| 168 | 360 | Ogrest | Terminé | 0/56 | 0,00% |
-| 169 | 443 | Bas les Masques ! | Terminé | 0/55 | 0,00% |
-| 170 | 526 | Valhalian the Black Iron | Terminé | 0/55 | 0,00% |
-| 171 | 555 | Blind Nine | Terminé | 0/55 | 0,00% |
-| 172 | 178 | Blue Flag | Terminé | 0/54 | 0,00% |
-| 173 | 14 | 7FATES: CHAKHO | Terminé | 0/53 | 0,00% |
-| 174 | 390 | Re:Zero - 3e arc : Truth of Zero | Terminé | 0/53 | 0,00% |
-| 175 | 185 | GUNNM | Terminé | 0/52 | 0,00% |
-| 176 | 626 | Heart Gear | Terminé | 0/51 | 0,00% |
-| 177 | 237 | Anoblie un Beau Matin | Terminé | 0/50 | 0,00% |
-| 178 | 553 | Bear Care | Terminé | 0/50 | 0,00% |
-| 179 | 557 | Cheffe, ne mets pas ce rouge à lèvres | Terminé | 0/50 | 0,00% |
-| 180 | 596 | Tiger Love | Terminé | 0/50 | 0,00% |
-| 181 | 77 | Blue Spring Ride | Terminé | 0/49 | 0,00% |
-| 182 | 542 | World End Harem - After World | Terminé | 0/47 | 0,00% |
-| 183 | 580 | My Ghost | Terminé | 0/47 | 0,00% |
-| 184 | 643 | Scum's Wish | Terminé | 0/47 | 0,00% |
-| 185 | 564 | Erreur de destinataire | Terminé | 0/45 | 0,00% |
-| 186 | 565 | Étreinte nocturne | Terminé | 0/45 | 0,00% |
-| 187 | 137 | Du Mouvement de la Terre | Terminé | 0/44 | 0,00% |
-| 188 | 223 | JoJo's Bizarre Adventure - Part 1 - Phantom Blood | Terminé | 0/44 | 0,00% |
-| 189 | 180 | Chocola & Vanilla | Terminé | 0/43 | 0,00% |
-| 190 | 26 | Accel World | Terminé | 0/42 | 0,00% |
-| 191 | 602 | Vous Prendrez Bien une Tasse de Thé ? | Terminé | 0/42 | 0,00% |
-| 192 | 600 | Une Vie de Bureau Parfumée | Terminé | 0/41 | 0,00% |
-| 193 | 244 | Rosario + Vampire | Terminé | 0/40 | 0,00% |
-| 194 | 245 | The Testament of Sister New Devil | Terminé | 0/40 | 0,00% |
-| 195 | 570 | Invitation of the Mystic Messenger | Terminé | 0/40 | 0,00% |
-| 196 | 89 | Burn the House Down | Terminé | 0/39 | 0,00% |
-| 197 | 114 | DanMachi - La Légende des Famillias | Terminé | 0/37 | 0,00% |
-| 198 | 168 | Girlfriend Girlfriend | Terminé | 0/36 | 0,00% |
-| 199 | 431 | Somali et l'esprit de la forêt | Abandonné | 0/36 | 0,00% |
-| 200 | 313 | Love Mix-Up | Terminé | 0/35 | 0,00% |
-| 201 | 537 | Wild Strawberry | Terminé | 0/34 | 0,00% |
-| 202 | 597 | Tu as Déjà vu un Fantôme ? | Terminé | 0/34 | 0,00% |
-| 203 | 264 | L'Anneau de Gygès | Terminé | 0/31 | 0,00% |
-| 204 | 561 | Disconnected from reality | Terminé | 0/31 | 0,00% |
-| 205 | 632 | Ma petite sœur est un chaton | Terminé | 0/30 | 0,00% |
-| 206 | 198 | Highschool of the Dead | Abandonné | 0/29 | 0,00% |
-| 207 | 529 | Valkyrie Apocalypse - La Légende de Lü Bu | Terminé | 0/29 | 0,00% |
-| 208 | 584 | Pourquoi m'a-t-il Tuée ? | Terminé | 0/29 | 0,00% |
-| 209 | 203 | How to Make Delicious Coffee | Terminé | 0/28 | 0,00% |
-| 210 | 502 | The Testament of Sister New Devil - Storm! | Terminé | 0/28 | 0,00% |
-| 211 | 631 | Manhole | Terminé | 0/28 | 0,00% |
-| 212 | 295 | Les Cartographes | Terminé | 0/26 | 0,00% |
-| 213 | 651 | Jujutsu Kaisen Modulo | Terminé | 0/25 | 0,00% |
-| 214 | 549 | Zombie From Now On !! | Terminé | 0/24 | 0,00% |
-| 215 | 634 | Noise | Terminé | 0/23 | 0,00% |
-| 216 | 87 | Bungô Stray Dogs - BEAST | Terminé | 0/22 | 0,00% |
-| 217 | 366 | Orange | Terminé | 0/22 | 0,00% |
-| 218 | 616 | 6000 | Terminé | 0/22 | 0,00% |
-| 219 | 637 | Prophecy | Terminé | 0/22 | 0,00% |
-| 220 | 148 | Fairy Girls | Terminé | 0/21 | 0,00% |
-| 221 | 331 | Mon destin... entre les mains des femmes | Terminé | 0/21 | 0,00% |
-| 222 | 595 | Tes Yeux sont aussi Jolis que le Ciel | Terminé | 0/21 | 0,00% |
-| 223 | 638 | Prophecy - The Copycat | Terminé | 0/21 | 0,00% |
-| 224 | 36 | Another | Terminé | 0/20 | 0,00% |
-| 225 | 64 | Black Bullet | Terminé | 0/20 | 0,00% |
-| 226 | 128 | Doubt | Terminé | 0/20 | 0,00% |
-| 227 | 288 | Le Quotidien d'une Épée Maudite | Terminé | 0/20 | 0,00% |
-| 228 | 343 | My Magical Girlfriend | Terminé | 0/20 | 0,00% |
-| 229 | 382 | Q [kou] | Terminé | 0/20 | 0,00% |
-| 230 | 385 | Rascal Does Not Dream of Bunny Girl Senpai | Terminé | 0/20 | 0,00% |
-| 231 | 389 | Re:Zero - 2e arc : Une semaine au manoir | Terminé | 0/20 | 0,00% |
-| 232 | 493 | The Reincarnated Swordmaster | Terminé | 0/20 | 0,00% |
-| 233 | 55 | B-Side | Terminé | 0/19 | 0,00% |
-| 234 | 68 | Black Torch | Terminé | 0/19 | 0,00% |
-| 235 | 186 | Gyo | Terminé | 0/19 | 0,00% |
-| 236 | 45 | Assassin's Creed - Blade of Shao Jun | Terminé | 0/18 | 0,00% |
-| 237 | 120 | Gosick | Terminé | 0/18 | 0,00% |
-| 238 | 142 | Eirth, apprenti du Roi Démon ! | Terminé | 0/18 | 0,00% |
-| 239 | 146 | Erio and The Electric Doll | Terminé | 0/18 | 0,00% |
-| 240 | 326 | Mist Gear Blast | Terminé | 0/18 | 0,00% |
-| 241 | 350 | NieR:Automata Opération Pearl Harbor | Terminé | 0/18 | 0,00% |
-| 242 | 364 | Oneira | Terminé | 0/18 | 0,00% |
-| 243 | 489 | The Most Heretical Last Boss Queen | Abandonné | 0/18 | 0,00% |
-| 244 | 287 | Le Péché Originel de Takopi | Terminé | 0/16 | 0,00% |
-| 245 | 319 | Magnum Opus | Terminé | 0/16 | 0,00% |
-| 246 | 375 | Poison City | Terminé | 0/16 | 0,00% |
+| 48 | 375 | Poison City | Terminé | 16/16 | 100,00% |
+| 49 | 466 | Sword Art Online : Alicization Lycoris | Terminé | 16/16 | 100,00% |
+| 50 | 39 | Arcanum | Terminé | 11/11 | 100,00% |
+| 51 | 435 | Betrayal Games | Terminé | 7/7 | 100,00% |
+| 52 | 7 | 17-21 | Terminé | 4/4 | 100,00% |
+| 53 | 9 | 22-26 | Terminé | 4/4 | 100,00% |
+| 54 | 520 | UQ Holder! | Terminé | 171/192 | 89,06% |
+| 55 | 38 | Apparently, Disillusioned Adventurers Will Save the World | Terminé | 30/40 | 75,00% |
+| 56 | 429 | Solo Leveling | Terminé | 54/200 | 27,00% |
+| 57 | 5 | 008 : Apprenti Espion | Terminé | 55/297 | 18,52% |
+| 58 | 138 | Dungeon Reset | Terminé | 2/266 | 0,75% |
+| 59 | 477 | The Gamer | Terminé | 0/511 | 0,00% |
+| 60 | 571 | I Woke Up as the Ugly Duckling | Terminé | 0/283 | 0,00% |
+| 61 | 514 | True Beauty | Terminé | 0/261 | 0,00% |
+| 62 | 270 | L'expert de la Tour Tutoriel | Terminé | 0/223 | 0,00% |
+| 63 | 325 | Mission: Yozakura Family | Terminé | 0/213 | 0,00% |
+| 64 | 474 | The Druid of Seoul station | Terminé | 0/207 | 0,00% |
+| 65 | 215 | Infection | Terminé | 0/204 | 0,00% |
+| 66 | 58 | Bakemonogatari | Terminé | 0/193 | 0,00% |
+| 67 | 91 | Cage of Eden | Terminé | 0/185 | 0,00% |
+| 68 | 140 | Edens Zero | Terminé | 0/185 | 0,00% |
+| 69 | 310 | Limit Breaker | Terminé | 0/185 | 0,00% |
+| 70 | 136 | Dreaming Freedom | Terminé | 0/184 | 0,00% |
+| 71 | 486 | Reincarnation of the Unrivaled Spear Knight | Terminé | 0/181 | 0,00% |
+| 72 | 49 | Assassination Classroom | Terminé | 0/180 | 0,00% |
+| 73 | 51 | Auto Hunting With My Clones | Terminé | 0/176 | 0,00% |
+| 74 | 255 | JoJo's Bizarre Adventure - Part 4 - Diamond is Unbreakable | Terminé | 0/174 | 0,00% |
+| 75 | 448 | Sun-Ken Rock | Terminé | 0/172 | 0,00% |
+| 76 | 550 | Übel Blatt | Terminé | 0/168 | 0,00% |
+| 77 | 174 | Oshi no Ko | Terminé | 0/166 | 0,00% |
+| 78 | 233 | Vengeance des Ex | Terminé | 0/165 | 0,00% |
+| 79 | 577 | Mon Chevalier Dragon | Terminé | 0/163 | 0,00% |
+| 80 | 257 | JoJo's Bizarre Adventure - Part 6 - Stone Ocean | Terminé | 0/158 | 0,00% |
+| 81 | 558 | Comment j'ai survécu au manoir Wynknight | Terminé | 0/158 | 0,00% |
+| 82 | 102 | Claymore | Terminé | 0/155 | 0,00% |
+| 83 | 225 | JoJo's Bizarre Adventure - Part 3 - Stardust Crusaders | Terminé | 0/152 | 0,00% |
+| 84 | 46 | Assassin's Creed - Forgotten Temple | Terminé | 0/151 | 0,00% |
+| 85 | 449 | Superhuman Battlefield | Terminé | 0/151 | 0,00% |
+| 86 | 585 | Questions d'Âge | Terminé | 0/151 | 0,00% |
+| 87 | 268 | L'Enfant des Ténèbres | Terminé | 0/150 | 0,00% |
+| 88 | 79 | Bonne nuit Punpun | Terminé | 0/147 | 0,00% |
+| 89 | 163 | From Pawn to King | Terminé | 0/146 | 0,00% |
+| 90 | 648 | Le Roi des Sorciers | Terminé | 0/143 | 0,00% |
+| 91 | 451 | Sweet Home | Terminé | 0/141 | 0,00% |
+| 92 | 407 | SHY | Terminé | 0/140 | 0,00% |
+| 93 | 265 | L'Attaque des Titans | Terminé | 0/139 | 0,00% |
+| 94 | 562 | Dites-moi, Princesse ! | Terminé | 0/135 | 0,00% |
+| 95 | 92 | Call of the Night | Terminé | 0/129 | 0,00% |
+| 96 | 230 | Kaiju n°8 | Terminé | 0/129 | 0,00% |
+| 97 | 193 | Hell's Paradise | Terminé | 0/127 | 0,00% |
+| 98 | 583 | Oubliez-moi ! | Terminé | 0/126 | 0,00% |
+| 99 | 75 | Horimiya | Terminé | 0/124 | 0,00% |
+| 100 | 560 | Diable n°4 | Terminé | 0/120 | 0,00% |
+| 101 | 307 | Leviathan Deep Water | Terminé | 0/115 | 0,00% |
+| 102 | 419 | Sexy Cosplay Doll | Terminé | 0/115 | 0,00% |
+| 103 | 498 | The Runway | Terminé | 0/112 | 0,00% |
+| 104 | 238 | A tender Heart - Comment je suis devenue la servante du Duc | Terminé | 0/111 | 0,00% |
+| 105 | 641 | Saint Seiya - Les Chevaliers du Zodiaque | Terminé | 0/110 | 0,00% |
+| 106 | 164 | Fullmetal Alchemist | Terminé | 0/108 | 0,00% |
+| 107 | 569 | Ichinichi Gotoni Dere ga Fueteku Tsuntsuntsuntsuntsundere-chan | Terminé | 0/106 | 0,00% |
+| 108 | 572 | J'ai élevé une bête | Terminé | 0/106 | 0,00% |
+| 109 | 121 | Dead Life | Terminé | 0/104 | 0,00% |
+| 110 | 361 | Ombre et Lumière | Terminé | 0/104 | 0,00% |
+| 111 | 598 | Une Nuit avec l'Empereur | Terminé | 0/102 | 0,00% |
+| 112 | 56 | Bad Ending Maker | Terminé | 0/101 | 0,00% |
+| 113 | 579 | My Cute Beast | Terminé | 0/101 | 0,00% |
+| 114 | 563 | Doux comme un agneau | Terminé | 0/100 | 0,00% |
+| 115 | 578 | Mon Dangereux Ange Gardien | Terminé | 0/100 | 0,00% |
+| 116 | 251 | Komi cherche ses mots | Terminé | 0/99 | 0,00% |
+| 117 | 171 | Gloutons et Dragons | Terminé | 0/97 | 0,00% |
+| 118 | 348 | Neon Genesis Evangelion | Terminé | 0/96 | 0,00% |
+| 119 | 478 | BJ. Alex | Terminé | 0/96 | 0,00% |
+| 120 | 258 | JoJo's Bizarre Adventure - Part 7 - Steel Ball Run | Terminé | 0/95 | 0,00% |
+| 121 | 586 | Rewriting My Dark Past | Terminé | 0/95 | 0,00% |
+| 122 | 90 | Bâtard | Terminé | 0/93 | 0,00% |
+| 123 | 234 | What Do You Want to Be, Prince ? | Terminé | 0/93 | 0,00% |
+| 124 | 235 | Adorablement Chien | Terminé | 0/92 | 0,00% |
+| 125 | 535 | White Blood | Terminé | 0/92 | 0,00% |
+| 126 | 104 | Corpse Knight Gunther | Terminé | 0/91 | 0,00% |
+| 127 | 175 | Kaguya-sama - Love is War | Terminé | 0/91 | 0,00% |
+| 128 | 568 | Honey Blood | Terminé | 0/91 | 0,00% |
+| 129 | 376 | Pokémon la Grande Aventure | Terminé | 0/90 | 0,00% |
+| 130 | 450 | Surinvoqué & Surpuissant | Terminé | 0/90 | 0,00% |
+| 131 | 554 | Bienvenue dans le jardin de Sylvie | Terminé | 0/90 | 0,00% |
+| 132 | 566 | Ghost teller | Terminé | 0/90 | 0,00% |
+| 133 | 646 | Sovereign of Judgement | Terminé | 0/88 | 0,00% |
+| 134 | 589 | Sacrifiée | Terminé | 0/87 | 0,00% |
+| 135 | 367 | Otaku Otaku | Terminé | 0/86 | 0,00% |
+| 136 | 71 | Blood Lad | Terminé | 0/85 | 0,00% |
+| 137 | 541 | World End Harem | Terminé | 0/85 | 0,00% |
+| 138 | 556 | Cairo | Terminé | 0/85 | 0,00% |
+| 139 | 587 | RSVP, Prince ! | Terminé | 0/85 | 0,00% |
+| 140 | 345 | Nana | Abandonné | 0/84 | 0,00% |
+| 141 | 155 | Fire Punch | Terminé | 0/83 | 0,00% |
+| 142 | 594 | Teleport in a Heartbeat | Terminé | 0/81 | 0,00% |
+| 143 | 80 | Boruto - Naruto Next Generations | Terminé | 0/80 | 0,00% |
+| 144 | 162 | Freaking Romance | Terminé | 0/79 | 0,00% |
+| 145 | 393 | Red Eyes Sword - Akame Ga Kill ! | Terminé | 0/78 | 0,00% |
+| 146 | 581 | Nice To Meet You | Terminé | 0/78 | 0,00% |
+| 147 | 409 | Sa Majesté l'Idol | Terminé | 0/75 | 0,00% |
+| 148 | 591 | Seule toi me Vois | Terminé | 0/73 | 0,00% |
+| 149 | 117 | Dark Moon: The Blood Altar | Terminé | 0/71 | 0,00% |
+| 150 | 240 | Kill Blue | Terminé | 0/70 | 0,00% |
+| 151 | 380 | Pseudo Harem | Terminé | 0/70 | 0,00% |
+| 152 | 500 | The Star Seekers | Terminé | 0/70 | 0,00% |
+| 153 | 224 | JoJo's Bizarre Adventure - Part 2 - Battle Tendency | Terminé | 0/69 | 0,00% |
+| 154 | 599 | Une Seconde Chance | Terminé | 0/69 | 0,00% |
+| 155 | 101 | Classroom of the Elite | Terminé | 0/68 | 0,00% |
+| 156 | 593 | Straight F Witch | Terminé | 0/67 | 0,00% |
+| 157 | 316 | Ma Sorcière à moi | Terminé | 0/64 | 0,00% |
+| 158 | 601 | Vilaine Fiancée du Prince | Terminé | 0/64 | 0,00% |
+| 159 | 592 | Shall We Bathe, Your Grace? | Terminé | 0/62 | 0,00% |
+| 160 | 119 | Darling in the FranxX | Terminé | 0/60 | 0,00% |
+| 161 | 236 | A Heart for the Emperor | Terminé | 0/60 | 0,00% |
+| 162 | 559 | Dating With A Tail | Terminé | 0/60 | 0,00% |
+| 163 | 179 | Perfect World | Terminé | 0/59 | 0,00% |
+| 164 | 324 | Mirai Nikki | Terminé | 0/59 | 0,00% |
+| 165 | 536 | Why Nobody Remembers My World | Terminé | 0/59 | 0,00% |
+| 166 | 588 | Régalez-Vous ! | Terminé | 0/59 | 0,00% |
+| 167 | 170 | Gleipnir | Terminé | 0/58 | 0,00% |
+| 168 | 123 | Deadman Wonderland | Terminé | 0/57 | 0,00% |
+| 169 | 360 | Ogrest | Terminé | 0/56 | 0,00% |
+| 170 | 443 | Bas les Masques ! | Terminé | 0/55 | 0,00% |
+| 171 | 526 | Valhalian the Black Iron | Terminé | 0/55 | 0,00% |
+| 172 | 555 | Blind Nine | Terminé | 0/55 | 0,00% |
+| 173 | 178 | Blue Flag | Terminé | 0/54 | 0,00% |
+| 174 | 14 | 7FATES: CHAKHO | Terminé | 0/53 | 0,00% |
+| 175 | 390 | Re:Zero - 3e arc : Truth of Zero | Terminé | 0/53 | 0,00% |
+| 176 | 185 | GUNNM | Terminé | 0/52 | 0,00% |
+| 177 | 626 | Heart Gear | Terminé | 0/51 | 0,00% |
+| 178 | 237 | Anoblie un Beau Matin | Terminé | 0/50 | 0,00% |
+| 179 | 553 | Bear Care | Terminé | 0/50 | 0,00% |
+| 180 | 557 | Cheffe, ne mets pas ce rouge à lèvres | Terminé | 0/50 | 0,00% |
+| 181 | 596 | Tiger Love | Terminé | 0/50 | 0,00% |
+| 182 | 77 | Blue Spring Ride | Terminé | 0/49 | 0,00% |
+| 183 | 542 | World End Harem - After World | Terminé | 0/47 | 0,00% |
+| 184 | 580 | My Ghost | Terminé | 0/47 | 0,00% |
+| 185 | 643 | Scum's Wish | Terminé | 0/47 | 0,00% |
+| 186 | 564 | Erreur de destinataire | Terminé | 0/45 | 0,00% |
+| 187 | 565 | Étreinte nocturne | Terminé | 0/45 | 0,00% |
+| 188 | 137 | Du Mouvement de la Terre | Terminé | 0/44 | 0,00% |
+| 189 | 223 | JoJo's Bizarre Adventure - Part 1 - Phantom Blood | Terminé | 0/44 | 0,00% |
+| 190 | 180 | Chocola & Vanilla | Terminé | 0/43 | 0,00% |
+| 191 | 26 | Accel World | Terminé | 0/42 | 0,00% |
+| 192 | 602 | Vous Prendrez Bien une Tasse de Thé ? | Terminé | 0/42 | 0,00% |
+| 193 | 600 | Une Vie de Bureau Parfumée | Terminé | 0/41 | 0,00% |
+| 194 | 244 | Rosario + Vampire | Terminé | 0/40 | 0,00% |
+| 195 | 245 | The Testament of Sister New Devil | Terminé | 0/40 | 0,00% |
+| 196 | 570 | Invitation of the Mystic Messenger | Terminé | 0/40 | 0,00% |
+| 197 | 89 | Burn the House Down | Terminé | 0/39 | 0,00% |
+| 198 | 114 | DanMachi - La Légende des Famillias | Terminé | 0/37 | 0,00% |
+| 199 | 168 | Girlfriend Girlfriend | Terminé | 0/36 | 0,00% |
+| 200 | 431 | Somali et l'esprit de la forêt | Abandonné | 0/36 | 0,00% |
+| 201 | 313 | Love Mix-Up | Terminé | 0/35 | 0,00% |
+| 202 | 537 | Wild Strawberry | Terminé | 0/34 | 0,00% |
+| 203 | 597 | Tu as Déjà vu un Fantôme ? | Terminé | 0/34 | 0,00% |
+| 204 | 264 | L'Anneau de Gygès | Terminé | 0/31 | 0,00% |
+| 205 | 561 | Disconnected from reality | Terminé | 0/31 | 0,00% |
+| 206 | 632 | Ma petite sœur est un chaton | Terminé | 0/30 | 0,00% |
+| 207 | 198 | Highschool of the Dead | Abandonné | 0/29 | 0,00% |
+| 208 | 529 | Valkyrie Apocalypse - La Légende de Lü Bu | Terminé | 0/29 | 0,00% |
+| 209 | 584 | Pourquoi m'a-t-il Tuée ? | Terminé | 0/29 | 0,00% |
+| 210 | 203 | How to Make Delicious Coffee | Terminé | 0/28 | 0,00% |
+| 211 | 502 | The Testament of Sister New Devil - Storm! | Terminé | 0/28 | 0,00% |
+| 212 | 631 | Manhole | Terminé | 0/28 | 0,00% |
+| 213 | 295 | Les Cartographes | Terminé | 0/26 | 0,00% |
+| 214 | 651 | Jujutsu Kaisen Modulo | Terminé | 0/25 | 0,00% |
+| 215 | 549 | Zombie From Now On !! | Terminé | 0/24 | 0,00% |
+| 216 | 634 | Noise | Terminé | 0/23 | 0,00% |
+| 217 | 87 | Bungô Stray Dogs - BEAST | Terminé | 0/22 | 0,00% |
+| 218 | 366 | Orange | Terminé | 0/22 | 0,00% |
+| 219 | 616 | 6000 | Terminé | 0/22 | 0,00% |
+| 220 | 637 | Prophecy | Terminé | 0/22 | 0,00% |
+| 221 | 148 | Fairy Girls | Terminé | 0/21 | 0,00% |
+| 222 | 331 | Mon destin... entre les mains des femmes | Terminé | 0/21 | 0,00% |
+| 223 | 595 | Tes Yeux sont aussi Jolis que le Ciel | Terminé | 0/21 | 0,00% |
+| 224 | 638 | Prophecy - The Copycat | Terminé | 0/21 | 0,00% |
+| 225 | 36 | Another | Terminé | 0/20 | 0,00% |
+| 226 | 64 | Black Bullet | Terminé | 0/20 | 0,00% |
+| 227 | 128 | Doubt | Terminé | 0/20 | 0,00% |
+| 228 | 288 | Le Quotidien d'une Épée Maudite | Terminé | 0/20 | 0,00% |
+| 229 | 343 | My Magical Girlfriend | Terminé | 0/20 | 0,00% |
+| 230 | 382 | Q [kou] | Terminé | 0/20 | 0,00% |
+| 231 | 385 | Rascal Does Not Dream of Bunny Girl Senpai | Terminé | 0/20 | 0,00% |
+| 232 | 389 | Re:Zero - 2e arc : Une semaine au manoir | Terminé | 0/20 | 0,00% |
+| 233 | 493 | The Reincarnated Swordmaster | Terminé | 0/20 | 0,00% |
+| 234 | 55 | B-Side | Terminé | 0/19 | 0,00% |
+| 235 | 68 | Black Torch | Terminé | 0/19 | 0,00% |
+| 236 | 186 | Gyo | Terminé | 0/19 | 0,00% |
+| 237 | 45 | Assassin's Creed - Blade of Shao Jun | Terminé | 0/18 | 0,00% |
+| 238 | 120 | Gosick | Terminé | 0/18 | 0,00% |
+| 239 | 142 | Eirth, apprenti du Roi Démon ! | Terminé | 0/18 | 0,00% |
+| 240 | 146 | Erio and The Electric Doll | Terminé | 0/18 | 0,00% |
+| 241 | 326 | Mist Gear Blast | Terminé | 0/18 | 0,00% |
+| 242 | 350 | NieR:Automata Opération Pearl Harbor | Terminé | 0/18 | 0,00% |
+| 243 | 364 | Oneira | Terminé | 0/18 | 0,00% |
+| 244 | 489 | The Most Heretical Last Boss Queen | Abandonné | 0/18 | 0,00% |
+| 245 | 287 | Le Péché Originel de Takopi | Terminé | 0/16 | 0,00% |
+| 246 | 319 | Magnum Opus | Terminé | 0/16 | 0,00% |
 | 247 | 515 | Tsugumi Project | Terminé | 0/16 | 0,00% |
 | 248 | 113 | DanMachi - Familia Chronicle | Terminé | 0/15 | 0,00% |
 | 249 | 412 | Schwarz Ragnarok | Terminé | 0/15 | 0,00% |
