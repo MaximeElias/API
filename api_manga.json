@@ -233597,19 +233597,6 @@
         "coverUrl": "https://uploads.mangadex.org/covers/e31b62b8-68ec-4bb6-bf7e-33db5be5e0b0/b8f7a9f5-9961-4c8c-8a7f-aaa02a241a61.jpg.512.jpg",
         "volumes": [
             {
-                "number": 0,
-                "chapters": [
-                    {
-                        "number": 43,
-                        "name": "Chapitre 43"
-                    },
-                    {
-                        "number": 44,
-                        "name": "Chapitre 44"
-                    }
-                ]
-            },
-            {
                 "number": 1,
                 "chapters": [
                     {
@@ -233809,6 +233796,19 @@
                     {
                         "number": 42,
                         "name": "Chapitre 42"
+                    }
+                ]
+            },
+            {
+                "number": 8,
+                "chapters": [
+                    {
+                        "number": 43,
+                        "name": "Chapitre 43"
+                    },
+                    {
+                        "number": 44,
+                        "name": "Chapitre 44"
                     }
                 ]
             }

@@ -10,9 +10,9 @@ Ce README est généré automatiquement depuis `api_manga.json`.
 
 ## Métadonnées de génération
 
-- Généré le : **2026-11-26 18:06 UTC**
+- Généré le : **2026-11-26 18:28 UTC**
 - Source : fichier `api_manga.json` du dépôt API
-- SHA1 git blob : `09a76a34bce898b167515e2fd599032b4d3b2b28`
+- SHA1 git blob : `8a6c5cc83a4f94fd2bd24e411b92878068e3b0cd`
 - Taille : `7370749` octets
 - Entrées : **657**
 
